@@ -1,0 +1,2 @@
+load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/algal.bn.rda")
+algal.bn
