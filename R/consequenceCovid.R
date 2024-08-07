@@ -1,0 +1,31 @@
+#' ConsequenceCovid Bayesian Network
+#'
+#' Global sensitivity analysis of uncertain parameters in Bayesian networks
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network including demographic information of the respondents of the Eurobarometer 93.1 together with their opinion about how the COVID-19 emergency was handled by local authorities and its consequences in the long term. The Bayesian network was learned as in the referenced paper. The vertices are:
+#' \describe{
+#'   \item{AGE}{How old are you? (18-30, 30-50, 51-70, 70+);}
+#'   \item{LIFESAT}{On the whole, are you satisfied with the life you lead? (Yes, No);}
+#'   \item{TRUST}{Do you trust or not the people in your country? (Yes, No);}
+#'   \item{SATMEAS}{In general, are you satisfied with the measures taken to fight the Coronavirus outbreak by your government? (Yes, No);}
+#'   \item{HEALTH}{Thinking about the measures taken by the public authorities in your country to fight the Coronavirus and its effects, would you say that they... (Focus too much on health, Focus too much on economivcs, Are balanced);}
+#'   \item{JUSTIFIED}{Thinking about the measures taken by the public authorities in your country to fight the Coronavirus and its effects, would you say that they were justfied? (Yes, No);}
+#'   \item{PERSONALFIN}{The Coronavirus outbreak will have serious economic consequences for you personally (Agree, Disagree, Don't know);}
+#'   \item{COUNTRYFIN}{The Coronavirus outbreak will have serious economic consequences for your country (Agree, Disagree, Don't know);}
+#'   \item{INFO}{Which of the following was your primary source of information during the Coronavirus outbreak? (Television, Written press, Radio, Websites, Social networks);}
+#'   \item{COPING}{Thinking about the measures taken to fight the Coronavirus outbreak, in particular the confinement measures, would you say that it was an experience...? (Easy to cope with, Both easy and difficult to cope with, Difficult to cope with);}
+#'   \item{POLITICS}{In political matters people talk of 'the left' and 'the right'. How would you place your views on this scale? (Left, Centre, Right, Don't know);}
+#'   \item{OCCUPATION}{Are you currently working? (Yes, No);}
+#'   \item{GENDER}{What is your sex? (Male, Female);}
+#'   \item{COMMUNITY}{Would you say you live in a... (Rural area or village, Small or middle sized town, Large town);}
+#'   \item{CLASS}{Do you see yourself and your household belonging to...? (Working class, Lower class, Middle class, Upper class);}
+#' }
+#'
+#'
+#' @keywords  DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Ballester-Ripoll, R., & Leonelli, M. (2024). Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks. arXiv preprint arXiv:2406.05764.
+"consequenceCovid"

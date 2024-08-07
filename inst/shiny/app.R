@@ -1,15 +1,15 @@
 # Define UI for the application
-#library(shiny)
-#library(shinythemes)
-#library(shinyjs)
-#library(dplyr)
-#library(bnlearn)  # Assuming this is needed for graphviz.plot
-#library(DT)       # For interactive tables
+library(shiny)
+library(shinythemes)
+library(shinyjs)
+library(dplyr)
+library(bnlearn)  # Assuming this is needed for graphviz.plot
+library(DT)       # For interactive tables
 
 # Define UI for the application
 ui <- fluidPage(
-  useShinyjs(),  # Enable shinyjs for additional functionalities
-  theme = shinytheme("cosmo"),  # A modern and elegant theme
+  shinyjs::useShinyjs(),  # Enable shinyjs for additional functionalities
+  theme = shinythemes::shinytheme("cosmo"),  # A modern and elegant theme
 
   titlePanel("Bayesian Network Viewer"),
 
@@ -73,7 +73,7 @@ ui <- fluidPage(
       fluidRow(
         column(12,
                h3("Explore bnRep_summary Data"),
-               DTOutput("summary_table")
+               DT::DTOutput("summary_table")
         )
       )
     )
@@ -147,8 +147,8 @@ server <- function(input, output, session) {
   bnRep_summary <- bnRep::bnRep_summary
 
   # Convert relevant columns to character if not already
-  bnRep_summary <- bnRep_summary %>%
-    mutate(across(c(Type, Structure, Probabilities, Graph, Area, Journal), as.character))
+  bnRep_summary <- bnRep_summary |>
+    dplyr::mutate(across(c(Type, Structure, Probabilities, Graph, Area, Journal), as.character))
 
   # Reactive expression to compute slider ranges based on data
   slider_ranges <- reactive({
@@ -165,23 +165,23 @@ server <- function(input, output, session) {
     data <- bnRep_summary
 
     # Apply categorical filters
-    if (input$type_filter != "All") data <- data %>% filter(Type == input$type_filter)
-    if (input$structure_filter != "All") data <- data %>% filter(Structure == input$structure_filter)
-    if (input$probabilities_filter != "All") data <- data %>% filter(Probabilities == input$probabilities_filter)
-    if (input$graph_filter != "All") data <- data %>% filter(Graph == input$graph_filter)
-    if (input$area_filter != "All") data <- data %>% filter(Area == input$area_filter)
-    if (input$journal_filter != "All") data <- data %>% filter(Journal == input$journal_filter)
+    if (input$type_filter != "All") data <- data |> filter(Type == input$type_filter)
+    if (input$structure_filter != "All") data <- data |> filter(Structure == input$structure_filter)
+    if (input$probabilities_filter != "All") data <- data |> filter(Probabilities == input$probabilities_filter)
+    if (input$graph_filter != "All") data <- data |> filter(Graph == input$graph_filter)
+    if (input$area_filter != "All") data <- data |> filter(Area == input$area_filter)
+    if (input$journal_filter != "All") data <- data |> filter(Journal == input$journal_filter)
 
     # Apply numeric filters
-    data <- data %>%
-      filter(Nodes >= input$nodes_filter[1] & Nodes <= input$nodes_filter[2]) %>%
-      filter(Arcs >= input$arcs_filter[1] & Arcs <= input$arcs_filter[2]) %>%
-      filter(Parameters >= input$parameters_filter[1] & Parameters <= input$parameters_filter[2]) %>%
+    data <- data |>
+      filter(Nodes >= input$nodes_filter[1] & Nodes <= input$nodes_filter[2]) |>
+      filter(Arcs >= input$arcs_filter[1] & Arcs <= input$arcs_filter[2]) |>
+      filter(Parameters >= input$parameters_filter[1] & Parameters <= input$parameters_filter[2]) |>
       filter(Year >= input$year_filter[1] & Year <= input$year_filter[2])
 
     # Apply search term filter (case-insensitive)
     if (input$search_term != "") {
-      data <- data %>% filter(grepl(input$search_term, Name, ignore.case = TRUE))
+      data <- data |> filter(grepl(input$search_term, Name, ignore.case = TRUE))
     }
 
     data
@@ -206,7 +206,7 @@ server <- function(input, output, session) {
 
   # Update network names dropdown based on filtered dataframe
   update_network_dropdown <- function() {
-    networks <- filtered_summary() %>% pull(Name)
+    networks <- filtered_summary() |> dplyr::pull(Name)
     # Update dropdown with filtered networks or an empty list if no networks match
     updateSelectInput(session, "network_select", choices = if (length(networks) > 0) networks else character(0))
   }
@@ -219,7 +219,7 @@ server <- function(input, output, session) {
 
   # Update the network list dropdown
   update_network_list <- function() {
-    networks <- filtered_summary() %>% pull(Name)
+    networks <- filtered_summary() |> dplyr::pull(Name)
     # Update network list with filtered networks or an empty list if no networks match
     updateSelectInput(session, "network_list_display", choices = if (length(networks) > 0) networks else character(0))
   }
@@ -257,10 +257,10 @@ server <- function(input, output, session) {
   })
 
   # Render the summary table
-  output$summary_table <- renderDT({
+  output$summary_table <- DT::renderDT({
     datatable(
-      filtered_summary() %>%
-        mutate(
+      filtered_summary() |>
+        dplyr::mutate(
           Reference = paste0(
             '<div class="truncate" title="', Reference, '">',
             substr(Reference, 1, 50),

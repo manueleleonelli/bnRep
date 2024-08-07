@@ -1,0 +1,24 @@
+#' Conasense Bayesian Network
+#'
+#' Bayesian Neural Networks for 6G CONASENSE Services.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to support to optimization of the CONASENSE network. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{Communication}{(Bandwidth, CoverageArea, Latency, PacketLoss);}
+#'   \item{Navigation}{(Accuracy, Mobility, Speed);}
+#'   \item{Sensing}{(TransmissionRange, Angle, Uplink);}
+#'   \item{Services}{(Good, Moderate, Poor);}
+#' }
+#'
+#'
+#' @keywords DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Henrique, P. S. R., & Prasad, R. (2022, October). Bayesian Neural Networks for 6G CONASENSE Services. In 2022 25th International Symposium on Wireless Personal Multimedia Communications (WPMC) (pp. 291-296). IEEE.
+"conasense"
+
+
+
+
