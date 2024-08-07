@@ -1,0 +1,27 @@
+#' Aspergillus Bayesian Network
+#'
+#' Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network modelling the relationship between risk factors and death by Aspergillus. The original dataset was used to learn the Bayesian network. The vertices are:
+#' \describe{
+#'   \item{CMV}{CMV Infection (No, Si);}
+#'   \item{DT}{Diagnostic Time (<16 days, >=16 days);}
+#'   \item{DTH}{Death (No, Si);}
+#'   \item{GR}{Immunosuppresion Groups (Neutropenia, IS-convencional, IS-non-convencional);}
+#'   \item{ICU}{Accessed the ICU (No, Si);}
+#'   \item{IM}{Immunotherapy (No, Si);}
+#'   \item{MN}{Malnutrition (No, Si);}
+#'   \item{RP}{Radiological Pattern (No, Si);}
+#'   \item{SC}{Systemic Corticoids (No, Si);}
+#'   \item{SOT}{Solid Organ Transplant (No, Si);}
+#'   \item{VP}{Viral Pneumonia (No, Si);}
+#' }
+#'
+#'
+#' @keywords DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Filigheddu, M. T., Leonelli, M., Varando, G., Gómez-Bermejo, M. Á., Ventura-Díaz, S., Gorospe, L., & Fortún, J. (2024). Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi. Computational and Structural Biotechnology Journal, 24, 12-22.
+"aspergillus"

@@ -1,0 +1,49 @@
+
+cols <- c("Name","Type","Structure","Probabilities","Nodes","Arcs","Parameters","Graph","Year","Area","Journal","Reference")
+
+adhd <- c("adhd","Discrete","Fixed","Data",19,36,219,"Naive Bayes",2023,"Psychology","Current Psychology","Jiang, Z., Ma, W., Flory, K., Zhang, D., Zhou, W., Shi, D., ... & Liu, R. (2023). Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification. Current Psychology, 42(22), 19230-19240.")
+APSsystem <- c("APSsystem","Discrete","Knowledge","Knowledge",10,18,21,"Generic",2022,"Computer Science","Procedia Computer Science","Herrmann, J. P., Tackenberg, S., Padoano, E., Hartlief, J., Rautenstengel, J., Loeser, C., & Bohme, J. (2022). An ERP Data Quality Assessment Framework for the Implementation of an APS system using Bayesian Networks. Procedia Computer Science, 200, 194-204.")
+agropastoral5 <- c("agropastoral5","Discrete","Data","Data",5,4,26,"Naive Bayes",2022,"Multidisciplinary", "PLoS One","Palacios, O., Barcelo, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.")
+agropastoral4 <- c("agropastoral4","Discrete","Data","Data",21,28,78,"Generic",2022,"Multidisciplinary", "PLoS One","Palacios, O., Barcelo, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.")
+agropastoral3 <- c("agropastoral3","Discrete","Data","Data",11,30,85,"Generic",2022,"Multidisciplinary", "PLoS One","Palacios, O., Barcelo, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.")
+agropastoral2 <- c("agropastoral2","Discrete","Data","Data",11,34,109,"Generic",2022,"Multidisciplinary", "PLoS One","Palacios, O., Barcelo, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.")
+agropastoral1 <- c("agropastoral1","Discrete","Data","Data",15,24,84,"Generic",2022,"Multidisciplinary", "PLoS One","Palacios, O., Barcelo, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.")
+algal1 <- c("algal1","Discrete","Knowledge","Data",9,18,27,"Generic",2022,"Environmental Sciences","Hydrology and Earth System Sciences","Jackson-Blake, L. A., Clayer, F., Haande, S., Sample, J. E., & Moe, S. J. (2022). Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian network. Hydrology and Earth System Sciences, 26(12), 3103-3124.")
+algal2 <- c("algal2","Gaussian","Knowledge","Data",9,18,27,"Generic",2022,"Environmental Sciences","Hydrology and Earth System Sciences","Jackson-Blake, L. A., Clayer, F., Haande, S., Sample, J. E., & Moe, S. J. (2022). Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian network. Hydrology and Earth System Sciences, 26(12), 3103-3124.")
+algalactivity1 <- c("algalactivity1","Discrete","Data","Data",8,20,22,"Generic",2023, "Environmental Sciences","Water Research","Rezaabad, M. Z., Lacey, H., Marshall, L., & Johnson, F. (2023). Influence of resampling techniques on Bayesian network performance in predicting increased algal activity. Water Research, 244, 120558")
+algalactivity2 <- c("algalactivity2","Discrete","Data","Data",8,30,43,"Generic",2023, "Environmental Sciences","Water Research","Rezaabad, M. Z., Lacey, H., Marshall, L., & Johnson, F. (2023). Influence of resampling techniques on Bayesian network performance in predicting increased algal activity. Water Research, 244, 120558")
+arcticwaters <- c("arcticwaters","Discrete","Knowledge","Mixed",46,118,357,"Generic",2023,"Engineering", "Reliability Engineering & System Safety", "Fu, S., Zhang, Y., Zhang, M., Han, B., & Wu, Z. (2023). An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters. Reliability Engineering & System Safety, 238, 109459")
+asia <- c("asia","Discrete","Synthetic","Synthetic",8,16,18,"Generic",1988,"Statistics & Probability","Journal of the Royal Statistical Society: Series B","Lauritzen, S. L., & Spiegelhalter, D. J. (1988). Local computations with probabilities on graphical structures and their application to expert systems. Journal of the Royal Statistical Society: Series B (Methodological), 50(2), 157-194")
+aspergillus <- c("asia","Discrete","Data","Data",11,16,23,"Generic",2024,"Biology","Computational and Structural Biotechnology Journal","Filigheddu, M. T., Leonelli, M., Varando, G., Gomez-Bermejo, M. A., Ventura-Diaz, S., Gorospe, L., & Fortun, J. (2024). Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi. Computational and Structural Biotechnology Journal, 24, 12-22")
+augmenting <- c("augmenting","Discrete","Knowledge","Knowledge",6,6,53,"Generic",2019,"Engineering","International Symposium on Real-Time Distributed Computing","Ramakrishna, S., Dubey, A., Burruss, M. P., Hartsell, C., Mahadevan, N., Nannapaneni, S., ... & Karsai, G. (2019, May). Augmenting learning components for safety in resource constrained autonomous robots. In 2019 IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC) (pp. 108-117). IEEE")
+yangtze <- c("yangtze","Discrete","Knowledge","Expert",31,108,397,"Generic",2023,"Engineering","Ocean Engineering","Fu, S., Gu, S., Zhang, Y., Zhang, M., & Weng, J. (2023). Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary. Ocean Engineering, 286, 115637")
+witness <- c("witness","Discrete","Knowledge","Knowledge",6,5,35,"Naive Bayes",2023, "Law", "Artificial Intelligence and Law","Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395")
+beatles <- c("beatles","Discrete","Fixed","Knowledge",5,4,20,"Reverse Naive Bayes",2023, "Law", "Artificial Intelligence and Law","Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395")
+sallyclark <- c("sallyclark","Discrete","Knowledge","Knowledge",6,5,11,"Generic",2023, "Law", "Artificial Intelligence and Law","Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395")
+bank <- c("bank","Discrete","Data","Data",4,5,19,"Generic",2024, "Computer Science", "Data Mining and Knowledge Discovery","Leonelli, M., & Varando, G. (2024). Structural learning of simple staged trees. Data Mining and Knowledge Discovery, 38(3), 1520-1544")
+blockchain <- c("blockchain","Discrete","Data","Data",12,13,73,"Generic",2021,"Business","Technological Forecasting and Social Change","Kamble, S. S., Gunasekaran, A., Kumar, V., Belhadi, A., & Foropon, C. (2021). A machine learning based approach for predicting blockchain adoption in supply chain. Technological Forecasting and Social Change, 163, 120465")
+BOPfailure1 <- c("BOPfailure1", "Discrete","Knowledge","Expert",30,58,132,"Reverse Tree",2023,"Multidisciplinary", "PLoS One", "Satiarvand, M., Orak, N., Varshosaz, K., Hassan, E. M., & Cheraghi, M. (2023). Providing a comprehensive approach to oil well blowout risk assessment. Plos One, 18(12), e0296086" )
+BOPfailure2 <- c("BOPfailure2", "Discrete","Knowledge","Expert",46,45,350,"Reverse Tree",2023,"Multidisciplinary", "PLoS One", "Satiarvand, M., Orak, N., Varshosaz, K., Hassan, E. M., & Cheraghi, M. (2023). Providing a comprehensive approach to oil well blowout risk assessment. Plos One, 18(12), e0296086" )
+BOPfailure3 <- c("BOPfailure3", "Discrete","Knowledge","Expert",28,27,92,"Reverse Tree",2023,"Multidisciplinary", "PLoS One", "Satiarvand, M., Orak, N., Varshosaz, K., Hassan, E. M., & Cheraghi, M. (2023). Providing a comprehensive approach to oil well blowout risk assessment. Plos One, 18(12), e0296086" )
+building <- c("building","Gaussian","Knowledge","Knowledge",24,32,80,"Generic",2003,"Engineering","Reliability Engineering & System Safety","Castillo, E., & Kjaerulff, U. (2003). Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique. Reliability Engineering & System Safety, 79(2), 139-148")
+
+bnRep_summary <- data.frame(rbind(adhd,agropastoral1,agropastoral2,agropastoral3,agropastoral4,agropastoral5,algal1,algal2,algalactivity1,algalactivity2,APSsystem,arcticwaters,asia,aspergillus,augmenting,
+                                  bank,beatles,blockchain, BOPfailure1, BOPfailure2, BOPfailure3, building,
+                                  sallyclark,
+                                  witness,
+                                  yangtze))
+
+colnames(bnRep_summary) <- cols
+rownames(bnRep_summary) <- NULL
+bnRep_summary$Type <- factor(bnRep_summary$Type)
+bnRep_summary$Structure <- factor(bnRep_summary$Structure)
+bnRep_summary$Probabilities <- factor(bnRep_summary$Probabilities)
+bnRep_summary$Graph <- factor(bnRep_summary$Graph)
+bnRep_summary$Area <- factor(bnRep_summary$Area)
+bnRep_summary$Journal <- factor(bnRep_summary$Journal)
+bnRep_summary$Nodes <- as.numeric(bnRep_summary$Nodes)
+bnRep_summary$Arcs <- as.numeric(bnRep_summary$Arcs)
+bnRep_summary$Parameters <- as.numeric(bnRep_summary$Parameters)
+bnRep_summary$Year <- as.numeric(bnRep_summary$Year)
+
+usethis::use_data(bnRep_summary, overwrite = TRUE)

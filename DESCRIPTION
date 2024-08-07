@@ -1,16 +1,16 @@
 Package: bnRep
-Title: A repository of Bayesian networks from the academic literature
+Title: A Repository of Bayesian Networks from the Academic Literature
 Version: 0.0.1
 Authors@R: 
     person("Manuele", "Leonelli", , "manuele.leonelli@ie.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-2562-5192"))
-Description: What the package does (one paragraph).
+Description: A collection of Gaussian and discrete Bayesian networks collated from the recent literature. Look at the bnRep_summary file for an overview of the over 100 Bayesian networks in the package. The package includes a Shiny app to explore the repository, available at (this link).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 LazyData: true
-Imports: bnlearn
+Imports: bnlearn, bnmonitor, dplyr, DT, shiny, shinyjs, shinythemes, utils
 URL: https://github.com/manueleleonelli/bnRep
 BugReports: https://github.com/manueleleonelli/bnRep/issues
 Depends: 

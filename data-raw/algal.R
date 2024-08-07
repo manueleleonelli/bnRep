@@ -1,4 +1,4 @@
-
+# Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian network
 ## library(bnlearn)
 algal.dag = model2network("[TP_PS][WindSpeed][RainSum][Colour_PS][ChiA_PS|TP_PS][Colour|Colour_PS:RainSum][TP|TP_PS][ChiA|TP:WindSpeed:ChiA_PS][Cyanobacteria|Colour:ChiA]")
 
@@ -20,6 +20,6 @@ algal.cpt <- list(TP_PS=TP_PS.prob,Colour_PS=Colour_PS.prob,WindSpeed=WindSpeed.
                   RainSum=RainSum.prob, ChiA_PS=ChiA_PS.prob,TP=TP.prob,ChiA=ChiA.prob,
                   Colour=Colour.prob,Cyanobacteria=Cyanobacteria.prob)
 
-algal <- custom.fit(algal.dag,algal.cpt)
+algal1 <- custom.fit(algal.dag,algal.cpt)
 
-usethis::use_data(algal, overwrite = TRUE)
+usethis::use_data(algal1, overwrite = TRUE)

@@ -1,16 +1,25 @@
-#' World Health Organization TB data
+#' Algal Bayesian Networks
 #'
-#' A subset of data from the World Health Organization Global Tuberculosis
-#' Report ...
+#' Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian networks.
 #'
-#' @format ## `who`
-#' A data frame with 7,240 rows and 60 columns:
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to to forecast, in spring, mean total phosphorus and chlorophyll a concentration, mean water colour, and maximum cyanobacteria biovolume for the upcoming growing season (May–October) in Vansjø. Probabilities were given within the referenced paper. The vertices are:
 #' \describe{
-#'   \item{country}{Country name}
-#'   \item{iso2, iso3}{2 & 3 letter ISO country codes}
-#'   \item{year}{Year}
-#'   ...
+#'   \item{ChiA}{Mean lake chl a concentration - Current (Low, High);}
+#'   \item{ChiA_PS}{Mean lake chl a concentration - Previous (Low, High);}
+#'   \item{Colour}{Mean lake colour (Low, Medium, High);}
+#'   \item{Cyanobacteria}{Mean lake cyanobacterial biovolume (Low, High);}
+#'   \item{RainSum}{Precipitation sum (Low, High);}
+#'   \item{TP}{Mean lake TP concentration - Current (Low, High);}
+#'   \item{TP_PS}{Mean lake TP concentration - Previous (Low, High);}
+#'   \item{WindSpeed}{Mean daily mean wind speed (Low, High);}
 #' }
+#'
+#'
+#' @keywords DBN
 #' @importClassesFrom bnlearn bn.fit
-#' @source <https://www.who.int/teams/global-tuberculosis-programme/data>
-"algal"
+#' @references Jackson-Blake, L. A., Clayer, F., Haande, S., Sample, J. E., & Moe, S. J. (2022). Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian network. Hydrology and Earth System Sciences, 26(12), 3103-3124.
+#'
+"algal1"

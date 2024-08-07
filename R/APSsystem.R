@@ -1,0 +1,26 @@
+#' APSsystem Bayesian Network
+#'
+#' An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks.
+#'
+#'
+#' @format
+#' A discrete Bayesian network for data quality assessment. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{QPlanDeliveryTime}{(Complete, Incomplete);}
+#'   \item{QSetupTime}{(Complete, Incomplete);;}
+#'   \item{PlanDeliveryTime}{(Complete, Incomplete);}
+#'   \item{SetupTime}{(Complete, Incomplete);}
+#'   \item{NNTransactionData}{(Complete, Incomplete);}
+#'   \item{NNMasterData}{(Complete, Incomplete);}
+#'   \item{NNValues}{(High, Low);}
+#'   \item{Completeness}{(High, Low);}
+#'   \item{Consistency}{(High, Low);}
+#'   \item{DataQuality}{(High, Low);}
+#' }
+#'
+#' @usage NULL
+#'
+#' @keywords  DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Herrmann, J. P., Tackenberg, S., Padoano, E., Hartlief, J., Rautenstengel, J., Loeser, C., & Böhme, J. (2022). An ERP Data Quality Assessment Framework for the Implementation of an APS system using Bayesian Networks. Procedia Computer Science, 200, 194-204.
+"APSsystem"

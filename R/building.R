@@ -1,0 +1,40 @@
+#' Building Bayesian Network
+#'
+#' Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique
+#'
+#' @usage NULL
+#'
+#' @format
+#' A Gaussian Bayesian network to assess the damage of reinforced concrete structures of buildings. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{X1}{Damage assessment;}
+#'   \item{X2}{Cracking state;}
+#'   \item{X3}{Cracking state in shear domain;}
+#'   \item{X4}{Steel corrosion;}
+#'   \item{X5}{Cracking state in flexure domain;}
+#'   \item{X6}{Shrinkage cracking;}
+#'   \item{X7}{Worst cracking in flexure domain;}
+#'   \item{X8}{Corrosion state;}
+#'   \item{X9}{Weakness of the beam;}
+#'   \item{X10}{Deflection of the beam;}
+#'   \item{X11}{Position of the worst shear crack;}
+#'   \item{X12}{Breadth of the worst shear crack;}
+#'   \item{X13}{Position of the worst flexure crack;}
+#'   \item{X14}{Breadth of the worst flexure crack;}
+#'   \item{X15}{Length of the worst flexure cracks;}
+#'   \item{X16}{Cover;}
+#'   \item{X17}{Structure age;}
+#'   \item{X18}{Humidity;}
+#'   \item{X19}{pH value in the air;}
+#'   \item{X20}{Content of chlorine in the air;}
+#'   \item{X21}{Number of shear cracks;}
+#'   \item{X22}{Number of flexure cracks;}
+#'   \item{X23}{Shrinkage;}
+#'   \item{X24}{Corrosion;}
+#'    }
+#'
+#'
+#' @keywords NaiveBayes DBN BNC
+#' @importClassesFrom bnlearn bn.fit
+#' @references Castillo, E., & Kjærulff, U. (2003). Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique. Reliability Engineering & System Safety, 79(2), 139-148.
+"building"

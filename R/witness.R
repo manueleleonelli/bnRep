@@ -1,0 +1,22 @@
+#' Witness Bayesian Network
+#'
+#' Measuring coherence with Bayesian networks.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian modelling a situation where equally reliable witnesses try to identify a criminal. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{W1SteveDidIt}{Witness 1 report: Steve did it (True, False);}
+#'   \item{W2SteveDidIt}{Witness 2 report: Steve did it (True, False);}
+#'   \item{W3SteveMartinOrDavidDidIt}{Witness 3 report: Steve, Martin, or David did it (True, False);}
+#'   \item{W4SteveJohnOrJamesDidIt}{Witness 4 report: Steve, John, or James did it (True, False);}
+#'   \item{W5SteveJohnOrPeterDidIt}{Witness 5 report: Steve, John, or Peter did it (True, False);}
+#'   \item{WhoCommittedTheDeed}{Who is the criminal (Steve, Martin, David, John, James, Peter);}
+#' }
+#'
+#'
+#' @keywords NaiveBayes DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395.
+"witness"
