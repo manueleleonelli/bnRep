@@ -2,7 +2,6 @@
 #'
 #' This function loads a selected Bayesian network file.
 #'
-#' @import utils
 #' @param network_name The name of the network file to load.
 #' @return A bn.fit object representing the Bayesian network.
 #' @export

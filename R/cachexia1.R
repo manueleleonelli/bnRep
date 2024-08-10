@@ -18,5 +18,5 @@
 #'
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
-#' @references Görgen, C., & Leonelli, M. (2020). Model-preserving sensitivity analysis for families of Gaussian distributions. Journal of Machine Learning Research, 21(84), 1-32.
+#' @references Gorgen, C., & Leonelli, M. (2020). Model-preserving sensitivity analysis for families of Gaussian distributions. Journal of Machine Learning Research, 21(84), 1-32.
 "cachexia1"

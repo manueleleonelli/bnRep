@@ -39,6 +39,4 @@ Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical te
 \references{
 Castillo, E., & Kjærulff, U. (2003). Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique. Reliability Engineering & System Safety, 79(2), 139-148.
 }
-\keyword{BNC}
-\keyword{DBN}
-\keyword{NaiveBayes}
+\keyword{GBN}

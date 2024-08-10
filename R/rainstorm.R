@@ -1,0 +1,51 @@
+#' Rainstorm Bayesian Network
+#'
+#' Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to  simulate the dynamic change process of scenario deduction. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{EmAct1}{Activate the flood prevention emergency plan; organize emergency rescue teams to garrison key safety points and increase the intensity of inspections; each site is equipped with sufficient special flood prevention materials and equipment ("Effective","Void");}
+#'   \item{EmAct2}{Improve the level of flood prevention emergency response; organize the maintenance of houses; restrict people’s travel; clean up the water outlet in time; and do a good job in popular- izing flood prevention emergency measures ("Effective","Void");}
+#'   \item{EmAct3}{Vigorous dredging of drainage channels, all personnel involved in flood control ("Effective","Void");}
+#'   \item{EmAct4}{Strengthen inspections and inspections of rivers, reservoirs, geological disasters, urban infrastructure, etc.; force all factories with hidden dangers (enterprises that may have water inlets and hot furnaces, etc.) to stop work and production ("Effective","Void");}
+#'   \item{EmAct5}{Enterprises continue to close down and add infrastructure ("Effective","Void");}
+#'   \item{EmAct6}{Arrange professional personnel to guide the dangerous situation of the reservoir on the spot; excavate the drainage trough as soon as possible to reduce the water level, add hydrological stations, and strengthen supervision and early warning ("Effective","Void");}
+#'   \item{EmAct7}{Extensive excavation of emergency drainage channels; transfer of personnel in hazardous areas; and increase of emergency equipment and medical teams ("Effective","Void");}
+#'   \item{EmAct8}{Accelerate the transfer of personnel from disaster areas, add high-tech rescue equipment ("Effective","Void");}
+#'   \item{Scenario1}{Rainstorm ("True","False");}
+#'   \item{Scenario2}{Precipitation continues to increase ("True","False");}
+#'   \item{Scenario3}{The ground area is reduced by water ("True","False");}
+#'   \item{Scenario4}{The weather continued to deteriorate and heavy rainstorms occurred ("True","False");}
+#'   \item{Scenario5}{Secondary disasters occur ("True","False");}
+#'   \item{Scenario6}{Heavy rains trigger small floods ("True","False");}
+#'   \item{Scenario7}{Heavy rains triggered large flooding ("True","False");}
+#'   \item{Scenario8}{Floods trigger landslides ("True","False");}
+#'   \item{Scenario9}{All stagnant water is discharged ("True","False");}
+#'   \item{Scenario10}{The flood disappeared ("True","False");}
+#'   \item{Scenario11}{The danger was completely controlled and the rainstorm disappeared ("True","False");}
+#'   \item{Sent1}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Sent2}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Sent3}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Sent4}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Sent5}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Sent6}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Sent7}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Sent8}{Optimistic/pessimistic ("Optimism","Gloomy");}
+#'   \item{Target1}{The normal living order of the people, and make all the preparations for the deterioration of heavy rains ("Attain","Miss");}
+#'   \item{Target2}{Ensure that all the water outlets are unblocked, and all the rest are protected at home except for the necessary travel personnel ("Attain","Miss");}
+#'   \item{Target3}{Water in the ground area is accelerating and decreasing ("Attain","Miss");}
+#'   \item{Target4}{Ensure that all hidden factories are shut down, avoid other accidents such as explosions, and ensure that all infrastructure is operating normally ("Attain","Miss");}
+#'   \item{Target5}{The whole society is subordinate to the unified organization of the state ("Attain","Miss");}
+#'   \item{Target6}{Ensures reservoir danger is under control and casualties continue to decrease ("Attain","Miss");}
+#'   \item{Target7}{Ensure that the water level is controlled, all personnel in the danger area are evacuated, and there is no increase in the number of casualties ("Attain","Miss");}
+#'   \item{Target8}{The supply of medical supplies is timely, the efficiency of search and rescue is guaranteed, and the number of casualties is no longer increasing ("Attain","Miss");}
+#' }
+#'
+#'
+#' @keywords  DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Xie, X., Tian, Y., & Wei, G. (2023). Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory. Natural Hazards, 116(3), 2935-2955.
+"rainstorm"

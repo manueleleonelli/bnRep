@@ -30,4 +30,4 @@ distX1 = list(coef = c("(Intercept)" = 0, "X2" = 2, "X9" = 0.3, "X10" = 0.7), sd
 net <- model2network("[X24][X23][X22][X21][X20][X19][X18|X19][X17][X16][X15|X16:X17][X14][X13][X12|X21][X11|X12:X21][X10][X9|X10][X8|X18:X19:X20][X7|X14:X15:X16:X17][X6|X8:X23][X5|X7:X13:X22][X4|X5:X8:X24][X3|X11:X12:X21][X2|X3:X4:X5:X6][X1|X2:X9:X10]")
 building = custom.fit(net, dist = list(X1 = distX1, X2 = distX2, X3 = distX3,X4 = distX4, X5 = distX5, X6 = distX6,X7 = distX7,X8 = distX8,X9 = distX9,X10 = distX10,X11 = distX11,X12 = distX12,X13 = distX13,X14 = distX14,X15 = distX15,X16 = distX16,X17 = distX17,X18 = distX18,X19 = distX19,X20 = distX20,X21 = distX21,X22 = distX22,X23 = distX23,X24 = distX24))
 
-usethis::use_data(building, overwrite = TRUE)
+#usethis::use_data(building, overwrite = TRUE)

@@ -14,4 +14,4 @@ W5.prob <- array(c(0.8,0.2,0.05,0.95,0.05,0.95,0.8,0.2,0.05,0.95,0.8,0.2),dim=c(
 
 
 witness <- custom.fit(witness.dag, list(WhoCommittedTheDeed=Deed.prob,W1SteveDidIt=W1.prob,W2SteveDidIt=W2.prob,W3SteveMartinOrDavidDidIt=W3.prob,W4SteveJohnOrJamesDidIt=W4.prob,W5SteveJohnOrPeterDidIt=W5.prob))
-usethis::use_data(witness, overwrite = TRUE)
+#usethis::use_data(witness, overwrite = TRUE)

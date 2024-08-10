@@ -1,0 +1,37 @@
+#' Project Bayesian Network
+#'
+#' A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network  to analyze the criticality and possible impact of a project's failure on each other and on the entire portfolio. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{P1}{(F, T);}
+#'   \item{P2}{(F, T);}
+#'   \item{P3}{(F, T);}
+#'   \item{P4}{(F, T);}
+#'   \item{P5}{(F, T);}
+#'   \item{P6}{(F, T);}
+#'   \item{P7}{(F, T);}
+#'   \item{P8}{(F, T);}
+#'   \item{P9}{(F, T);}
+#'   \item{P10}{(F, T);}
+#'   \item{P11}{(F, T);}
+#'   \item{P12}{(F, T);}
+#'   \item{P13}{(F, T);}
+#'   \item{P14}{(F, T);}
+#'   \item{P15}{(F, T);}
+#'   \item{P16}{(F, T);}
+#'   \item{P17}{(F, T);}
+#'   \item{P18}{(F, T);}
+#'   \item{P19}{(F, T);}
+#'   \item{P20}{(F, T);}
+#'   \item{P21}{(F, T);}
+#' }
+#'
+#'
+#' @keywords DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Ebnerasoul, M., Ghannadpour, S. F., & Haeri, A. (2023). A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects. Environment, Development and Sustainability, 25(12), 13981-14001.
+"project"

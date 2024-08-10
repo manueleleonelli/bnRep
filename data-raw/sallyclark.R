@@ -15,5 +15,5 @@ BDisease.prob <- array(c(0.001,0.999,0.05,0.95),dim=c(2,2),dimnames = list(BDise
 
 sallyclark <- custom.fit(sallyclark.dag, list(AMurder=AMurder.prob,BMurder=BMurder.prob,ABruising=ABruising.prob,BBruising=BBruising.prob,ADisease=ADisease.prob, BDisease=BDisease.prob))
 
-usethis::use_data(sallyclark, overwrite = TRUE)
+#usethis::use_data(sallyclark, overwrite = TRUE)
 

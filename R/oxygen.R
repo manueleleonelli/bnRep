@@ -1,0 +1,46 @@
+#' Oxygen Bayesian Network
+#'
+#' Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic.
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to calculate failure rates of oxygen tanks in hospitals during the COVID-19 pandemic. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'  \item{CorrosionCausedByTheEnvironment}{(True, False);}
+#'  \item{CorrosiveEnvironment}{(True, False);}
+#'  \item{DefectInTheTankDryer}{(True, False);}
+#'  \item{DefectInTheTankPressureGauge}{(True, False);}
+#'  \item{DefectInTheTankReliabilityGauge}{(True, False);}
+#'  \item{DefectsInConnectingTankFastenersF1}{(True, False);}
+#'  \item{DefectsInConnectingTankFastenersF2}{(True, False);}
+#'  \item{DefectsInConnectionsAndGauges}{(True, False);}
+#'  \item{DefectsInInletAndOutletValvesV1}{(True, False);}
+#'  \item{DefectsInInletAndOutletValvesV2}{(True, False);}
+#'  \item{DefectsInTankEquipmentRepairs}{(True, False);}
+#'  \item{DefectsInTheExternalCoatingSystemOfTheTank}{(True, False);}
+#'  \item{DefectsInTheInspectionAndTestingProgramOfTankDevices}{(True, False);}
+#'  \item{DefectsInTheTankCoating}{(True, False);}
+#'  \item{ExternalCorrosionOfTheTank}{(True, False);}
+#'  \item{FailureInProtectiveMeasures}{(True, False);}
+#'  \item{FailureInRepairsAndMaintenance}{(True, False);}
+#'  \item{FailureOfConnectionsAndFasteners}{(True, False);}
+#'  \item{FailureOfGauges}{(True, False);}
+#'  \item{FailureToUseStandardAndUpdatedInstructions}{(True, False);}
+#'  \item{HumanError}{(True, False);}
+#'  \item{InadequacyOfPeopleSkills}{(True, False);}
+#'  \item{InternalCorrosionOfTheTank}{(True, False);}
+#'  \item{OperationalError}{(True, False);}
+#'  \item{OrganizationalWeakness}{(True, False);}
+#'  \item{OxygenLeakage}{(True, False);}
+#'  \item{TankCorrosion}{(True, False);}
+#'  \item{ValveLeakage}{(True, False);}
+#'  \item{WeakEducationSystem}{(True, False);}
+#'  \item{WeaknessInPurchasingTankEquipment}{(True, False);}
+#'  \item{WeaknessInTheInstallationOfTankEquipment}{(True, False);}
+#'  }
+#'
+#'
+#' @keywords ReverseTree DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Laal, F., Hanifi, S. M., Madvari, R. F., Khoshakhlagh, A. H., & Arefi, M. F. (2023). Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic. Heliyon, 9(8).
+"oxygen"

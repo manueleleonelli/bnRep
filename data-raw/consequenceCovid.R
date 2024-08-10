@@ -1,9 +1,9 @@
 # Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks
 
-library(haven)
-library(dplyr)
-library(bnlearn)
-library(qgraph)
+#library(haven)
+#library(dplyr)
+#library(bnlearn)
+#library(qgraph)
 data <- read_dta('/Users/manueleleonelli/Downloads/SI386_Manuele/SI386.dta')
 
 data <- data[c("d11","d70","qa6c","qa21a_1","qa22a","qa23a","qa26a_1","qa26a_2","qa29a","qa30","d1","d15a","d10","d25","d63")]
@@ -34,5 +34,5 @@ consequenceCovid <- averaged.network(ciao)
 consequenceCovid <- bn.fit(consequenceCovid,data)
 
 
-usethis::use_data(consequenceCovid, overwrite = TRUE)
+#usethis::use_data(consequenceCovid, overwrite = TRUE)
 

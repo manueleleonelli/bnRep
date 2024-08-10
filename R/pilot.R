@@ -1,0 +1,58 @@
+#' Pilot Bayesian Network
+#'
+#' Dynamic analysis of pilot transfer accidents.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to classify ADHD symptom. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'      \item{AdverseSeaSwell}{(Yes, No);}
+#'      \item{AdverseWind}{(Yes, No);}
+#'      \item{CommercialPressure}{(Yes, No);}
+#'      \item{ExcessiveEnvironmentFactors}{(Yes, No);}
+#'      \item{ExcessiveMotionVessel}{(Yes, No);}
+#'      \item{ExcessiveShipSpeed}{(Yes, No);}
+#'      \item{FailureHandholds}{(Yes, No);}
+#'      \item{HeavyRain}{(Yes, No);}
+#'      \item{HumanFailures}{(Yes, No);}
+#'      \item{ImproperShipHandling}{(Yes, No);}
+#'      \item{InappropriateAngle}{(Yes, No);}
+#'      \item{IncorrectHeigth}{(Yes, No);}
+#'      \item{IncorrectRigging}{(Yes, No);}
+#'      \item{IndividualFailure}{(Yes, No);}
+#'      \item{LackOfSafetyCulture}{(Yes, No);}
+#'      \item{LackOfSupervision}{(Yes, No);}
+#'      \item{ManeouveringFailures}{(Yes, No);}
+#'      \item{NonCertifiedPilotLadder}{(Yes, No);}
+#'      \item{NonComplyTrapdoor}{(Yes, No);}
+#'      \item{OperationalFailures}{(Yes, No);}
+#'      \item{OrganizationalFailure}{(Yes, No);}
+#'      \item{PilotLadder}{(Yes, No);}
+#'      \item{PilotTransferAccident}{(Yes, No);}
+#'      \item{PoorCombinationLadder}{(Yes, No);}
+#'      \item{PoorCommunicationWithPilotBoat}{(Yes, No);}
+#'      \item{PoorConditionPTA}{(Yes, No);}
+#'      \item{PoorIllumination}{(Yes, No);}
+#'      \item{PoorISMSystem}{(Yes, No);}
+#'      \item{PoorPilotLadder}{(Yes, No);}
+#'      \item{PTAEquipmentFailure}{(Yes, No);}
+#'      \item{PTAFailure}{(Yes, No);}
+#'      \item{PTAPreparedWindward}{(Yes, No);}
+#'      \item{RestrictedVisibility}{(Yes, No);}
+#'      \item{RetrievalLine}{(Yes, No);}
+#'      \item{RiggingFailure}{(Yes, No);}
+#'      \item{SecuringFailure}{(Yes, No);}
+#'      \item{SecuringFailurePilot}{(Yes, No);}
+#'      \item{SecuringFailurePTA}{(Yes, No);}
+#'      \item{ShipSideObstructed}{(Yes, No);}
+#'      \item{StructuralFailure}{(Yes, No);}
+#'      \item{SubstandardActs}{(Yes, No);}
+#'      \item{SubstandardConditions}{(Yes, No);}
+#' }
+#'
+#'
+#' @keywords ReverseTree DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Sakar, C., & Sokukcu, M. (2023). Dynamic analysis of pilot transfer accidents. Ocean Engineering, 287, 115823.
+"pilot"

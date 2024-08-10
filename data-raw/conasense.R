@@ -15,6 +15,6 @@ conasense.cpt <- list(Services = Services.prob, Communication = Communication.pr
 
 conasense <- custom.fit(conasense.dag,conasense.cpt)
 
-usethis::use_data(conasense, overwrite = TRUE)
+#usethis::use_data(conasense, overwrite = TRUE)
 
 

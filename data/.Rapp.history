@@ -1,2 +1,12 @@
 load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/algal.bn.rda")
 algal.bn
+load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/oxygen.rda")
+oxygen
+load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/phdarticles.rda")
+phdarticles
+load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/orbital.rda")
+orbital
+load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/onlinerisk.rda")
+onlinerisk
+load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/mountaingoat.rda")
+mountaingoat

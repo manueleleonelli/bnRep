@@ -47,5 +47,5 @@ cpt <- list(X12=X12.prob, X13=X13.prob,X14=X14.prob,X15=X15.prob,
 
 BOPfailure3 <- custom.fit(kick_detection.dag,cpt)
 
-usethis::use_data(BOPfailure3, overwrite = TRUE)
+#usethis::use_data(BOPfailure3, overwrite = TRUE)
 

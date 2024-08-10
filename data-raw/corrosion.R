@@ -41,6 +41,6 @@ probs <- list(OrganicDeposits=OrganicDeposits,InorganicDeposits=InorganicDeposit
 
 corrosion <- custom.fit(corrosion.dag,probs)
 
-usethis::use_data(corrosion, overwrite = TRUE)
+#usethis::use_data(corrosion, overwrite = TRUE)
 
 

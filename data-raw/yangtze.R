@@ -79,4 +79,4 @@ prob <- list(TrafficFlow=traffic.prob, Wind=wind.prob,
 
 yangtze <- custom.fit(yangtze.dag,prob)
 
-usethis::use_data(yangtze, overwrite = TRUE)
+#usethis::use_data(yangtze, overwrite = TRUE)
