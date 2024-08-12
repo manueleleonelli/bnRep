@@ -1,0 +1,27 @@
+
+#' Dioxins Bayesian Network
+#'
+#' Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to optimize the use of resources for food safety monitoring. The Bayesian network is learned as in the referenced paper. The vertices are:
+#' \describe{
+#'   \item{screeningResults}{The results from the screening DR CALUX method (negative, suspect);}
+#'   \item{year}{The monitoring year  (2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017);}
+#'   \item{trimester}{The quarter of the year (1, 2, 3, 4);}
+#'   \item{animalSpecies}{The animal species monitored (bovine animal, bovine animal for fattening, broiler, calf for fattening, cow, deer, duck, eel, fishm goat, goose, hen, horse, pig, poultry, rabbit, sheep, trout);}
+#'   \item{product}{The food product type (egg, liver, meat, milk);}
+#'   \item{sampling place}{The control points (aquaculture, farm, slaughterhouse);}
+#'   \item{euMonitoring}{The number of samples analyzed for EU monitoring to estimate background contamination in different products (0, 1, ..., 31);}
+#'   \item{gcResults}{The results from the GC/MS method (0, n, p);}
+#'   \item{sampleSize}{The number of samples collected during the monitoring period (196, 226, 254, 340, 352, 358, 365, 366, 379, 425).}
+#' }
+#'
+#'
+#' @keywords TAN DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Wang, Z., van der Fels-Klerx, H. J., & Oude Lansink, A. G. J. M. (2023). Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL-PCBs. Risk Analysis, 43(7), 1400-1413.
+"dioxins"
+

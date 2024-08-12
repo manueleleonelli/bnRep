@@ -1,0 +1,52 @@
+#' Shipping Bayesian Network
+#'
+#' Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to evaluate the occurrence likelihood of risk of transporting liquefied natural gas on the China–Australia Route. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{AirlineInherentRisks}{(Yes, No);}
+#'   \item{CoastalPortsRisk}{(Yes, No);}
+#'   \item{DeepChannel}{(Yes, No);}
+#'   \item{DifficultHandlingLNG}{(Yes, No);}
+#'   \item{FewerPorts}{(Yes, No);}
+#'   \item{FireRiskLNG}{(Yes, No);}
+#'   \item{HeavyFog}{(Yes, No);}
+#'   \item{HeavyTraffic}{(Yes, No);}
+#'   \item{HighCurrent}{(Yes, No);}
+#'   \item{HighWaves}{(Yes, No);}
+#'   \item{ImpactEpidemic}{(Yes, No);}
+#'   \item{InfluencePoliticalGame}{(Yes, No);}
+#'   \item{InfluenceWeather}{(Yes, No);}
+#'   \item{LNGLoadingRisk}{(Yes, No);}
+#'   \item{LNGTransportRisk}{(Yes, No);}
+#'   \item{LongDistance}{(Yes, No);}
+#'   \item{LowVisibility}{(Yes, No);}
+#'   \item{MaritimeSecurity}{(Yes, No);}
+#'   \item{MilitaryConflict}{(Yes, No);}
+#'   \item{NonTraditionalThreat}{(Yes, No);}
+#'   \item{ObjectiveFactors}{(Yes, No);}
+#'   \item{PiracyAttack}{(Yes, No);}
+#'   \item{PoorDraftLevel}{(Yes, No);}
+#'   \item{PoorOrganization}{(Yes, No);}
+#'   \item{SafetyPerformanceLNG}{(Yes, No);}
+#'   \item{SafetyRoutes}{(Yes, No);}
+#'   \item{SeaBreezeEffect}{(Yes, No);}
+#'   \item{SovereignityDispute}{(Yes, No);}
+#'   \item{StrongSeaBreeze}{(Yes, No);}
+#'   \item{StrongWinds}{(Yes, No);}
+#'   \item{SubjectiveFactors}{(Yes, No);}
+#'   \item{Thunderstorms}{(Yes, No);}
+#'   \item{TransportLNGRisk}{(Yes, No);}
+#'   \item{UncertainNavigablePeriod}{(Yes, No);}
+#'    \item{UnsafePersonnel}{(Yes, No);}
+#'     \item{VesselRisk}{(Yes, No);}
+#'    }
+#'
+#'
+#' @keywords ReverseTree DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Chang, Z., He, X., Fan, H., Guan, W., & He, L. (2023). Leverage Bayesian network and fault tree method on risk assessment of LNG maritime transport shipping routes: Application to the China-Australia route. Journal of Marine Science and Engineering, 11(9), 1722.
+"shipping"
