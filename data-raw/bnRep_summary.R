@@ -104,6 +104,12 @@ criminal4 <- c("criminal4","Discrete","Data","Data",8,9,19,"Generic",2022,"Law",
 criminal3 <- c("criminal3","Discrete","Data","Data",8,9,19,"Generic",2022,"Law","International Conference on Artificial Intelligence and Law","van Leeuwen, L., Verheij, B., Verbrugge, R., & Renooij, S. (2023, June). Using agent-based simulations to evaluate Bayesian Networks for criminal scenarios. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (pp. 323-332)")
 criminal2 <- c("criminal2","Discrete","Data","Data",12,14,50,"Generic",2022,"Law","International Conference on Artificial Intelligence and Law","van Leeuwen, L., Verheij, B., Verbrugge, R., & Renooij, S. (2023, June). Using agent-based simulations to evaluate Bayesian Networks for criminal scenarios. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (pp. 323-332)")
 criminal1 <- c("criminal1","Discrete","Data","Data",12,14,50,"Generic",2022,"Law","International Conference on Artificial Intelligence and Law","van Leeuwen, L., Verheij, B., Verbrugge, R., & Renooij, S. (2023, June). Using agent-based simulations to evaluate Bayesian Networks for criminal scenarios. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (pp. 323-332)")
+intentionalattacks <- c("intentionalattacks","Discrete","Synthetic","Synthetic",8,7,26,"Generic",2023,"Computer Science","Journal of Information Security and Applications","Chockalingam, S., Pieters, W., Teixeira, A. M., & van Gelder, P. (2023). Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures. Journal of Information Security and Applications, 75, 103497")
+softwarelogs1 <- c("softwarelogs1","Discrete","Data","Data",5,5,831,"Generic",2022,"Computer Science","IET Software","del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286")
+softwarelogs2 <- c("softwarelogs2","Discrete","Data","Data",40,67,32119,"Generic",2022,"Computer Science","IET Software","del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286")
+softwarelogs3 <- c("softwarelogs3","Discrete","Fixed","Data",14,13,707,"Naive",2022,"Computer Science","IET Software","del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286")
+softwarelogs4 <- c("softwarelogs4","Discrete","Data","Data",14,21,6447,"Generic",2022,"Computer Science","IET Software","del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286")
+
 
 bnRep_summary <- data.frame(rbind(adhd,agropastoral1,agropastoral2,agropastoral3,agropastoral4,agropastoral5,algal1,algal2,algalactivity1,algalactivity2,APSsystem,arcticwaters,asia,aspergillus,augmenting,
                                   bank,beatles,blockchain, BOPfailure1, BOPfailure2, BOPfailure3, building,
@@ -113,13 +119,13 @@ bnRep_summary <- data.frame(rbind(adhd,agropastoral1,agropastoral2,agropastoral3
                                   firealarm, flood, foodsecurity, foodallergy1, foodallergy2, foodallergy3,fundraising,
                                   gasifier, grounding,
                                   humanitarian,
-                                  income,intensification,
+                                  income,intensification, intentionalattacks,
                                   lexical, lidar,liquefaction,lithium,
                                   medicaltest,metal,moodstate,mountaingoat,
                                   onlinerisk, orbital, oxygen,
                                   phdarticles, pilot, poultry, project,projectmanagement,propellant,
                                   rainstorm, redmeat, resilience, rockquality,
-                                  sallyclark, salmonella1,salmonella2, shipping, simulation,
+                                  sallyclark, salmonella1,salmonella2, shipping, simulation, softwarelogs1, softwarelogs2, softwarelogs3, softwarelogs4,
                                   tbm, theft1, theft2,titanic, trajectories, transport, turbine1,turbine2,
                                   urinary,
                                   vaccine,

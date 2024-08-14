@@ -1,0 +1,22 @@
+#' Softwarelogs Bayesian Networks
+#'
+#' Bayesian Network analysis of software logs for data‐driven software maintenance.
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to discover poor performance indicators in a system and to explore usage patterns that usually require temporal analysis. The networks are given in the referenced paper. The vertices are:
+#' \describe{
+#'  \item{error}{Error that has occurred (com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.IllegalArgumentException, java.lang.NullPointerException, java.lang.NumberFormatException, javax.ejb.EJBException, javax.ejb.EJBTransactionRolledbackException);}
+#'  \item{class}{Class that throws the error (chessleague.db.AccountFacade, chessleague.ejb.AccountBean, chessleague.ejb.BidBean, chessleague.ejb.TeamBean, com.sun.ejb.containers.BaseContainer, com.sun.ejb.containers.EJBContainerTransactionManager, com.sun.gjc.common.DataSourceObjectBuilder, java.lang.NumberFormatException, java.net.URLClassLoader, org.apache.jsp.AdminLeagues_jsp, org.apache.jsp.AdminSuggestions_jsp, org.apache.jsp.AdminUsers_jsp, org.apache.jsp.AllLeagues_jsp, rg.apache.jsp.Bid_jsp, org.apache.jsp.Calendar_jsp, org.apache.jsp.Clasification_jsp, org.apache.jsp.DirectorOfChess_jsp, org.apache.jsp.ErrorPage_jsp, org.apache.jsp.Finance_jsp, org.apache.jsp.Help_jsp, org.apache.jsp.index_jsp, org.apache.jsp.Invite_jsp, org.apache.jsp.LastMovements_jsp,  org.apache.jsp.League_jsp, org.apache.jsp.Lineup_jsp, org.apache.jsp.Market_jsp,  org.apache.jsp.NewPassword_jsp, org.apache.jsp.NewSuggestion_jsp, org.apache.jsp.OfferPlayer_jsp, org.apache.jsp.OldSeasons_jsp, org.apache.jsp.Player_jsp, org.apache.jsp.Privacy_jsp, org.apache.jsp.Results_jsp, org.apache.jsp.SearchPlayer_jsp, org.apache.jsp.Start_jsp, org.apache.jsp.Team_jsp, org.apache.jsp.Trainer_jsp, org.apache.jsp.Transactions_jsp, org.apache.jsp.UserConfiguration_jsp, org.apache.jsp.ViewOffers_jsp, org.glassfish.hk2.external.org.objectweb.asm.ClassReader, org.jboss.weld.servlet.WeldTerminalListener);}
+#'  \item{method}{Method where the error has occured (_jspService, <init>, deleteAccount, findClass, forInputString, getDataSourceObject, getInfo, getSessionContext, mapLocal3xException, processSystemException, publishMessage, sendHeadlines, undoBid);}
+#'  \item{severity}{Severity of the entry (SEVERE, WARNING, INFO);}
+#'  \item{thread_name}{Method where the error has occurred (AutoDeployer, ContainerBackgroundProcessor/ChessLeague-war, ContainerBackgroundProcessor, deployment-jar-scanner, http-listener, RunLevelControllerThread).}
+#'  }
+#'
+#'
+#' @keywords DBN
+#' @importClassesFrom bnlearn bn.fit
+#' @references del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286.
+"softwarelogs1"
+
