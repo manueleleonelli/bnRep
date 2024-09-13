@@ -1,0 +1,29 @@
+#' BnRep Summary
+#'
+#' Summary of the Bayesian networks in \code{bnRep} reporting various graph, definition and application details
+#'
+#'
+#' @format
+#' A data frame with a row for each BN in \code{bnRep} and the following columns:
+#' \describe{
+#'   \item{Name}{Name of the R object storing the BN;}
+#'   \item{Type}{Type of Bayesian network (Discrete, Gaussian, Hybrid);}
+#'   \item{Structure}{How the graph of the BN was defined (Data, Expert, Fixed, Knowledge, Mixed, Synthetic);}
+#'   \item{Probabilities}{How the probabilities of the BN were defined (Data, Expert, Knowledge, Mixed, Synthetic);}
+#'   \item{Graph}{Type of graph of the BN (Generic, K-Dep, Naive Bayes, Reverse Naive Bayes, Reverse Tree, TAN, Tree);}
+#'   \item{Area}{Subject area of the Bayesian network using the SJR classification (Agricultural Sciences, Business, Chemical Engineering, etc.);}
+#'   \item{Nodes}{Number of nodes in the BN;}
+#'   \item{Arcs}{Number of arcs in the BN;}
+#'   \item{Parameters}{Number of free parameters in the BN;}
+#'   \item{Avg. Parents}{Average number of parents;}
+#'   \item{Max Parents}{Maximum number of parents;}
+#'   \item{Avg. Levels}{Average number of discrete variables' levels;}
+#'   \item{Max Levels}{Max number of discrete variables' levels;}
+#'   \item{Average Markov Blanket}{Average size of a node's Markov blanket;}
+#'   \item{Year}{Year of the publication where the BN appeared;}
+#'   \item{Journal}{Journal where the BN appeared;}
+#'   \item{Reference}{Reference of the paper where the BN appeared.}
+#' }
+#'
+#' @keywords Datasets
+"bnRep_summary"

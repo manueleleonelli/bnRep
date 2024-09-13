@@ -1,6 +1,6 @@
 #' Dioxins Bayesian Network
 #'
-#' Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs.
+#' Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs
 #'
 #' @usage NULL
 #'
@@ -19,7 +19,7 @@
 #' }
 #'
 #'
-#' @keywords TAN DBN
+#' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wang, Z., van der Fels-Klerx, H. J., & Oude Lansink, A. G. J. M. (2023). Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL-PCBs. Risk Analysis, 43(7), 1400-1413.
 "dioxins"

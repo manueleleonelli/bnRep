@@ -1,6 +1,6 @@
 #' Grounding Bayesian Network
 #'
-#' A framework for quantitative analysis of the causation of grounding accidents in arctic shipping.
+#' A framework for quantitative analysis of the causation of grounding accidents in arctic shipping
 #'
 #' @usage NULL
 #'
@@ -45,8 +45,7 @@
 #'   \item{WD}{Wrong decision (No,Yes);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Fu, S., Yu, Y., Chen, J., Xi, Y., & Zhang, M. (2022). A framework for quantitative analysis of the causation of grounding accidents in arctic shipping. Reliability Engineering & System Safety, 226, 108706.
 "grounding"

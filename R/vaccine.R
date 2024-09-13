@@ -1,6 +1,6 @@
 #' Vaccine Bayesian Network
 #'
-#' Sensitivity analysis in multilinear probabilistic models.
+#' Sensitivity analysis in multilinear probabilistic models
 #'
 #' @usage NULL
 #'
@@ -12,8 +12,7 @@
 #'   \item{Vaccine}{(No, Yes);}
 #'   }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leonelli, M., Gorgen, C., & Smith, J. Q. (2017). Sensitivity analysis in multilinear probabilistic models. Information Sciences, 411, 84-97.
 "vaccine"

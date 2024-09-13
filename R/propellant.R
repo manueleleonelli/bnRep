@@ -1,6 +1,6 @@
 #' Propellant Bayesian Network
 #'
-#' A Bayesian network-based safety assessment method for solid propellant granule-casting molding process.
+#' A Bayesian network-based safety assessment method for solid propellant granule-casting molding process
 #'
 #' @usage NULL
 #'
@@ -59,7 +59,7 @@
 #' }
 #'
 #'
-#' @keywords DBN ReverseTree
+#' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Bi, Y., Wang, S., Zhang, C., Cong, H., Gao, W., Qu, B., & Li, J. (2023). A bayesian network-based safety assessment method for solid propellant granule-casting molding process. Journal of Loss Prevention in the Process Industries, 83, 105089.
 "propellant"

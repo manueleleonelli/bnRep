@@ -1,0 +1,19 @@
+#' Fluids Bayesian Networks
+#'
+#'
+#' Use of Bayesian Networks for the investigation of the nature of biological material in casework
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to assess the presence of blood in the recovered material and combine potentially contradictory observations. The network was available from an associated repository. The vertices are:
+#' \describe{
+#' \item{OBTI}{Blood test (Positive, Negative, Weak positive);}
+#' \item{Visual}{(Red, Light red, Other);}
+#' \item{Concentration}{Concentration of total DNA (0-0.0002, 0.0002-0.0005, 0.0005-0.001, 0.001-0.002, 0.002-0.004, 0.004-0.01, 0.01-0.01, 0.02-inf);}
+#' \item{Blood}{(Yes, No);}
+#'  }
+#'
+#' @keywords NULL
+#' @importClassesFrom bnlearn bn.fit
+#' @references Samie, L., Champod, C., Delemont, S., Basset, P., Hicks, T., & Castella, V. (2022). Use of Bayesian Networks for the investigation of the nature of biological material in casework. Forensic Science International, 331, 111174.
+"fluids1"

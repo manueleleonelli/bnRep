@@ -1,6 +1,6 @@
 #' Lithium Bayesian Network
 #'
-#' Fire Accident Risk Analysis of Lithium Battery Energy Storage Systems during Maritime Transportation.
+#' Fire accident risk analysis of lithium battery energy storage systems during maritime transportation
 #' @usage NULL
 #'
 #' @format
@@ -55,7 +55,7 @@
 #' }
 #'
 #'
-#' @keywords ReverseTree DBN
+#' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Zhang, C., Sun, H., Zhang, Y., Li, G., Li, S., Chang, J., & Shi, G. (2023). Fire accident risk analysis of lithium battery energy storage systems during maritime transportation. Sustainability, 15(19), 14198.
 "lithium"

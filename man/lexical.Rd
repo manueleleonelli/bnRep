@@ -18,7 +18,7 @@ A Gaussian Bayesian network to analyze various measures of lexical dispersion an
 }
 }
 \description{
-Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics.
+Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics
 }
 \references{
 Baumann, A., & Sekanina, K. (2022). Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics. Linguistics Vanguard, 8(1), 209-224.

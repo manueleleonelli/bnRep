@@ -36,9 +36,8 @@ A discrete Bayesian network to identify critical risks and selecting optimal ris
 }
 }
 \description{
-Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects.
+Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects
 }
 \references{
 Qazi, A., Quigley, J., Dickson, A., & Kirytopoulos, K. (2016). Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects. International Journal of Project Management, 34(7), 1183-1198.
 }
-\keyword{DBN}

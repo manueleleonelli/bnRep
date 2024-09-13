@@ -24,9 +24,8 @@ A discrete Bayesian network to discover poor performance indicators in a system 
 }
 }
 \description{
-Bayesian Network analysis of software logs for data‐driven software maintenance.
+Bayesian Network analysis of software logs for data‐driven software maintenance
 }
 \references{
 del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286.
 }
-\keyword{DBN}

@@ -1,12 +1,17 @@
 #' Foodsecurity Bayesian Network
 #'
-#' Coherent combination of probabilistic outputs for group decision making: an algebraic approach.
+#' Coherent combination of probabilistic outputs for group decision making: an algebraic approach
 #'
 #' @usage NULL
 #'
 #' @format
-#' A discrete Bayesian network modelling a food security scenario. Probabilities were given within the referenced paper. The vertices are Cost, Educational_Attainment, Health, and Social_Cohesion.
-
+#' A discrete Bayesian network modelling a food security scenario. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'    \item{Cost}{}
+#'   \item{EducationalAttainment}{}
+#'    \item{Health}{}
+#'    \item{SocialCohesion}{}
+#'}
 #'
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit

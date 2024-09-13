@@ -1,0 +1,34 @@
+#' Catchment Bayesian Network
+#'
+#'
+#' A framework to diagnose the causes of river ecosystem deterioration using biological symptoms
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network  to estimate the probability of individual stressors being causal for biological degradation at the scale of individual riverine ecosystems (Catchment BN). The network was available from an associated repository. The vertices are:
+#' \describe{
+#' \item{Arable}{(Low, Enhanced, Intermediate, High);}
+#' \item{N}{(Low, Intermediate, High);}
+#' \item{Urban}{(None, Enhanced, High);}
+#' \item{Fines}{(Normal, Enhanced);}
+#' \item{Nitrate}{(Low, Enhanced);}
+#' \item{Grazer}{(Low, Medium, High);}
+#' \item{oPO4}{(Low, High);}
+#' \item{BufForest}{(Low, High);}
+#' \item{BOD5}{(Low, Enhanced, High);}
+#' \item{WaterQ}{(Low, Fair, Good);}
+#' \item{OrgMatter}{(Low, High);}
+#' \item{Stagnant}{(No, Yes);}
+#' \item{HabitatQ}{(Low, Fair, Good);}
+#' \item{Straight}{(No, Yes);}
+#' \item{FlowQ}{(Low, High);}
+#' \item{EPT}{(Low, Medium, High);}
+#' \item{ASPT}{(Low, Medium, High);}
+#' \item{SI}{(Low, Medium, High);}
+#' \item{Shredder}{(Low, Medium, High);}
+#'  }
+#'
+#' @keywords NULL
+#' @importClassesFrom bnlearn bn.fit
+#' @references Feld, C. K., Saeedghalati, M., & Hering, D. (2020). A framework to diagnose the causes of river ecosystem deterioration using biological symptoms. Journal of Applied Ecology, 57(11), 2271-2284.
+"catchment"

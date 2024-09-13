@@ -1,6 +1,6 @@
 #' Softwarelogs Bayesian Networks
 #'
-#' Bayesian Network analysis of software logs for data‐driven software maintenance.
+#' Bayesian Network analysis of software logs for data‐driven software maintenance
 #'
 #' @usage NULL
 #'
@@ -23,8 +23,7 @@
 #'    \item{user_type}{(ocasional, regular, very active);}
 #'        }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286.
 "softwarelogs4"

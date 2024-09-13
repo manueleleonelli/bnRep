@@ -21,4 +21,3 @@ Augmenting Learning Components for Safety in Resource Constrained Autonomous Rob
 \references{
 Ramakrishna, S., Dubey, A., Burruss, M. P., Hartsell, C., Mahadevan, N., Nannapaneni, S., ... & Karsai, G. (2019, May). Augmenting learning components for safety in resource constrained autonomous robots. In 2019 IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC) (pp. 108-117). IEEE.
 }
-\keyword{DBN}

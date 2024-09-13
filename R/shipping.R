@@ -1,6 +1,6 @@
 #' Shipping Bayesian Network
 #'
-#' Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route.
+#' Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route
 #'
 #' @usage NULL
 #'
@@ -46,7 +46,7 @@
 #'    }
 #'
 #'
-#' @keywords ReverseTree DBN
+#' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Chang, Z., He, X., Fan, H., Guan, W., & He, L. (2023). Leverage Bayesian network and fault tree method on risk assessment of LNG maritime transport shipping routes: Application to the China-Australia route. Journal of Marine Science and Engineering, 11(9), 1722.
 "shipping"

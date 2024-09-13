@@ -1,6 +1,6 @@
 #' Fundraising Bayesian Network
 #'
-#' A Coupled Mathematical Model of the Dissemination Route of Short-Term Fund-Raising Fraud
+#' A coupled mathematical model of the dissemination route of short-term fund-raising fraud
 #'
 #' @usage NULL
 #'
@@ -17,8 +17,7 @@
 #'   \item{PromotionalMessages}{(Yes, No);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Yang, S., Su, K., Wang, B., & Xu, Z. (2022). A coupled mathematical model of the dissemination route of short-term fund-raising fraud. Mathematics, 10(10), 1709.
 "fundraising"

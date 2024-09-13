@@ -25,15 +25,13 @@ A discrete Bayesian network to classify ADHD symptom. Probabilities were given w
 \item{TalksExcessively}{Talks excessively (Never, Sometimes, Often, Very Often);}
 \item{BlurtsOutAnswers}{Blurts out answers (Never, Sometimes, Often, Very Often);}
 \item{CantWaitForTurn}{Can't wait for turn (Never, Sometimes, Often, Very Often);}
-\item{IntrudesOthers}{Intrudes/interrupts others (Never, Sometimes, Often, Very Often).}
+\item{IntrudesOthers}{Intrudes/interrupts others (Never, Sometimes, Often, Very Often);}
 }
 }
 \description{
-Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification.
+Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification
 }
 \references{
 Jiang, Z., Ma, W., Flory, K., Zhang, D., Zhou, W., Shi, D., ... & Liu, R. (2023). Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification. Current Psychology, 42(22), 19230-19240.
 }
-\keyword{BNC}
-\keyword{DBN}
 \keyword{NaiveBayes}

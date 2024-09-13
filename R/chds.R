@@ -1,6 +1,6 @@
 #' Chds Bayesian Network
 #'
-#' Refining a Bayesian network using a chain event graph.
+#' Refining a Bayesian network using a chain event graph
 #'
 #' @usage NULL
 #'
@@ -13,8 +13,7 @@
 #'   \item{Admission}{Rate of hospital admissions (Yes, No);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords Tree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Barclay, L. M., Hutton, J. L., & Smith, J. Q. (2013). Refining a Bayesian network using a chain event graph. International Journal of Approximate Reasoning, 54(9), 1300-1309.
 "chds"

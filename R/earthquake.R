@@ -1,6 +1,6 @@
 #' Earthquake Bayesian Network
 #'
-#' A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia.
+#' A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia
 #'
 #' @usage NULL
 #'
@@ -49,8 +49,7 @@
 #'   \item{WIDO}{Waterway infrastructure damage - origin (Low, Medium, High);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Goerlandt, F., & Islam, S. (2021). A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia. Reliability Engineering & System Safety, 214, 107708.
 "earthquake"

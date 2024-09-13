@@ -1,0 +1,101 @@
+#' Cng Bayesian Network
+#'
+#' Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network for risk assessment in compressed natural gas (CNG) stations. The probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#' \item{X1}{Not up-to-date technology (T, F);}
+#' \item{X2}{Lack of maintenance (T, F);}
+#' \item{X3}{Unsafe equipment (T, F);}
+#' \item{X4}{Type of ignition material (T, F);}
+#' \item{X5}{The nature of the chemical substance (T, F);}
+#' \item{X6}{Inspection defect in wear detection (T, F);}
+#' \item{X7}{Improper use of the equipment (T, F);}
+#' \item{X8}{Leakage (T, F);}
+#' \item{X9}{High temperature (T, F);}
+#' \item{X10}{Low temperature (T, F);}
+#' \item{X11}{Horizontal wind speed (T, F);}
+#' \item{X12}{Vertical wind speed (T, F);}
+#' \item{X13}{Environmental stability and instability (T, F);}
+#' \item{X14}{Sunny hours (T, F);}
+#' \item{X15}{Relative humidity and evaporation rate (T, F);}
+#' \item{X16}{Lighting (T, F);}
+#' \item{X17}{Landslide (T, F);}
+#' \item{X18}{Flood (T, F);}
+#' \item{X19}{Earthquake (T, F);}
+#' \item{X20}{Land settlement (T, F);}
+#' \item{X21}{Deliberate vandalism (T, F);}
+#' \item{X22}{Incidents related to the missile site (T, F);}
+#' \item{X23}{Military attack (T, F);}
+#' \item{X24}{Explosion of other equipment (T, F);}
+#' \item{X25}{Deliberate error in the execution of the recipe (T, F);}
+#' \item{X26}{Accidental collision valves (T, F);}
+#' \item{X27}{Failure to issue a work permit (T, F);}
+#' \item{X28}{Artificial lighting (T, F);}
+#' \item{X29}{Natural lighting (T, F);}
+#' \item{X30}{Lack of cost (T, F);}
+#' \item{X31}{Requirements for conducting training classes by managers (T, F);}
+#' \item{X32}{Fatigue (T, F);}
+#' \item{X33}{Shift work (T, F);}
+#' \item{X34}{Stress - internal causes) (T, F);}
+#' \item{X35}{Stress - external causes (T, F);}
+#' \item{X36}{Not having enough experience and skills (T, F);}
+#' \item{X37}{Hearing loss - non-occupational causes (T, F);}
+#' \item{X38}{Hearing loss - occupational causes (T, F);}
+#' \item{X39}{Failure to notify the control room in time (T, F);}
+#' \item{X40}{Fear of explosion and fire by operator (T, F);}
+#' \item{X41}{Operator performance - temperature and humidity (T, F);}
+#' \item{X42}{Chemical pollutants - particles (T, F);}
+#' \item{X43}{Chemical pollutants - gas and steam (T, F);}
+#' \item{X44}{Solid waste (T, F);}
+#' \item{X45}{Liquid waste (T, F);}
+#' \item{X46}{Adjacent commercial use (T, F);}
+#' \item{X47}{Adjacent residential use (T, F);}
+#' \item{X48}{Adjacent industrial use (T, F);}
+#' \item{X49}{Land uses changes (T, F);}
+#' \item{X50}{Room metering - measurement of changes (T, F);}
+#' \item{X51}{Room metering - operator error (T, F);}
+#' \item{X52}{Lack of standard dryer quality (T, F);}
+#' \item{X53}{Disturbance in the electricity flow of the dryer (T, F);}
+#' \item{X54}{Fire dryer heaters (T, F);}
+#' \item{X55}{Leakage of tank (T, F);}
+#' \item{X56}{Adjacent tanks (T, F);}
+#' \item{X57}{Dispenser leakage and damage (T, F);}
+#' \item{X58}{Disregarding dispenser safety signs (T, F);}
+#' \item{X59}{Dispenser malfunction (T, F);}
+#' \item{X60}{Improper management performance (T, F);}
+#' \item{AdjacentLandUses}{(T, F);}
+#' \item{AnticipatedEvents}{(T, F);}
+#' \item{ChemicalContaminants}{(T, F);}
+#' \item{ClimateChanges}{(T, F);}
+#' \item{Dispenser}{(T, F);}
+#' \item{Dryer}{(T, F);}
+#' \item{EnvironmentChanges}{(T, F);}
+#' \item{Exhaustion}{(T, F);}
+#' \item{FailureToInspectAndOperateEquipment}{(T, F);}
+#' \item{FortuitousEvents}{(T, F);}
+#' \item{HearingLoss}{(T, F);}
+#' \item{HumanReasons}{(T, F);}
+#' \item{ImproperOperatorPerformance}{(T, F);}
+#' \item{InadequateTraining}{(T, F);}
+#' \item{LeakOfCNG}{(T, F);}
+#' \item{Lighting}{(T, F);}
+#' \item{MilitaryIncidents}{(T, F);}
+#' \item{NaturalDisasters}{(T, F);}
+#' \item{ProcessProblems}{(T, F);}
+#' \item{RoomMetering}{(T, F);}
+#' \item{Storage}{(T, F);}
+#' \item{Stress}{(T, F);}
+#' \item{TankStructure}{(T, F);}
+#' \item{Temperature}{(T, F);}
+#' \item{Wastes}{(T, F);}
+#' \item{WindSpeed}{(T, F);}
+#'  }
+#'
+#'
+#' @keywords ReverseTree
+#' @importClassesFrom bnlearn bn.fit
+#' @references Abbasi Kharajou, B., Ahmadi, H., Rafiei, M., & Moradi Hanifi, S. (2024). Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling. Scientific Reports, 14(1), 4266.
+"cng"

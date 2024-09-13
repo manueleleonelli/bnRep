@@ -10,3 +10,4 @@ load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/onlinerisk.rda")
 onlinerisk
 load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/mountaingoat.rda")
 mountaingoat
+load("/Users/manueleleonelli/Documents/GitHub/bnRep/data/T.rda")

@@ -23,9 +23,8 @@ A discrete Bayesian network modeling the factors affecting the income of individ
 }
 }
 \description{
-The FEDHC Bayesian network learning algorithm.
+The FEDHC Bayesian network learning algorithm
 }
 \references{
 Tsagris, M. (2022). The FEDHC Bayesian network learning algorithm. Mathematics, 10(15), 2604.
 }
-\keyword{DBN}

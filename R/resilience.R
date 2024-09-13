@@ -1,7 +1,7 @@
 #' Resilience Bayesian Network
 #'
 #'
-#' Quantifying resilience of socio-ecological systems through dynamic Bayesian networks.
+#' Quantifying resilience of socio-ecological systems through dynamic Bayesian networks
 #' @usage NULL
 #'
 #' @format
@@ -45,8 +45,7 @@
 #'   \item{Transformation2}{1980-2019 (true, false);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Franco-Gaviria, F., Amador-Jimenez, M., Millner, N., Durden, C., & Urrego, D. H. (2022). Quantifying resilience of socio-ecological systems through dynamic Bayesian networks. Frontiers in Forests and Global Change, 5, 889274.
 "resilience"

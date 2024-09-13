@@ -27,10 +27,9 @@ A discrete Bayesian network to predict building-wide water lead risk in over 4,0
 }
 }
 \description{
-Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks.
+Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks
 }
 \references{
 Mulhern, R. E., Kondash, A. J., Norman, E., Johnson, J., Levine, K., McWilliams, A., ... & Hoponick Redmon, J. (2023). Improved decision making for water lead testing in US child care facilities using machine-learned Bayesian networks. Environmental Science & Technology, 57(46), 17959-17970.
 }
-\keyword{DBN}
 \keyword{TAN}

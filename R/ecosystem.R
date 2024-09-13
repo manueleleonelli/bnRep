@@ -1,6 +1,6 @@
 #' Ecosystem Bayesian Network
 #'
-#' Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China.
+#' Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China
 #'
 #' @usage NULL
 #'
@@ -23,7 +23,7 @@
 #'  }
 #'
 #'
-#' @keywords ReverseTree DBN
+#' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wu, J., Jin, X., Wang, H., & Feng, Z. (2022). Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China. Ecological Indicators, 142, 109165.
 "ecosystem"

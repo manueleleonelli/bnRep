@@ -1,6 +1,6 @@
 #' Lidar Bayesian Network
 #'
-#' Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks.
+#' Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks
 #'
 #' @usage NULL
 #'
@@ -18,8 +18,7 @@
 #'   \item{VehicleDensityB}{(High, Low);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Bogart, C., Solorzano, L., & Lam, S. (2022, May). Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks. In Geospatial Informatics XII (Vol. 12099, pp. 28-36). SPIE.
 "lidar"

@@ -18,10 +18,9 @@ A discrete Bayesian network to model the uncertainty surrounding the occurrence 
 }
 }
 \description{
-Bayesian belief network modeling of accident occurrence in metal lathe machining operations.
+Bayesian belief network modeling of accident occurrence in metal lathe machining operations
 }
 \references{
 Akinyemi, O. O., Adeyemi, H. O., Olatunde, O. B., Folorunsho, O., & Musa, M. B. (2022). Bayesian belief network modeling of accident occurrence in metal lathe machining operations. Mindanao Journal of Science and Technology, 20(2).
 }
-\keyword{DBN}
 \keyword{ReverseNaiveBayes}

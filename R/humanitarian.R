@@ -1,6 +1,6 @@
 #' Humanitarian Bayesian Network
 #'
-#' You Only Derive Once (YODO): Automatic Differentiation for Efficient Sensitivity Analysis in Bayesian Networks.
+#' You only derive once (YODO): Automatic differentiation for efficient sensitivity analysis in Bayesian networks
 #' @usage NULL
 #'
 #' @format
@@ -29,8 +29,7 @@
 #'   \item{ACCESS_TO_HEALTH}{(low, medium, high);}
 #'    }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ballester-Ripoll, R., & Leonelli, M. (2022, September). You only derive once (YODO): automatic differentiation for efficient sensitivity analysis in Bayesian networks. In International Conference on Probabilistic Graphical Models (pp. 169-180). PMLR.
 "humanitarian"

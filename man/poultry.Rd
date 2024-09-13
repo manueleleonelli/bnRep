@@ -57,9 +57,8 @@ A discrete Bayesian network to provide further insights into the relationships a
 }
 }
 \description{
-Practical application of a Bayesian network approach to poultry epigenetics and stress.
+Practical application of a Bayesian network approach to poultry epigenetics and stress
 }
 \references{
 Videla Rodriguez, E. A., Pertille, F., Guerrero-Bosagna, C., Mitchell, J. B., Jensen, P., & Smith, V. A. (2022). Practical application of a Bayesian network approach to poultry epigenetics and stress. BMC Bioinformatics, 23(1), 261.
 }
-\keyword{DBN}

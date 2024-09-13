@@ -1,6 +1,6 @@
 #' Concrete Bayesian Networks
 #'
-#' Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks.
+#' Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks
 #'
 #' @usage NULL
 #'
@@ -14,8 +14,7 @@
 #'    \item{NumberOfStairwells}{(0, 1, 2, 3, 4);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords Tree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wu, P. Y., Johansson, T., Mangold, M., Sandels, C., & Mjornell, K. (2023). Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks. Expert Systems with Applications, 222, 119812.
 "concrete7"

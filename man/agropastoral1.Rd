@@ -25,9 +25,8 @@ A discrete Bayesian network to explore   the influence of the environment on sub
 }
 }
 \description{
-Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach.
+Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach
 }
 \references{
 Palacios, O., Barceló, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.
 }
-\keyword{DBN}

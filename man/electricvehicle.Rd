@@ -33,10 +33,9 @@ A discrete Bayesian network to evaluate the risk of electric vehicle fire accide
 }
 }
 \description{
-Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling.
+Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling
 }
 \references{
 Chen, J., Li, K., & Yang, S. (2022). Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling. Mathematics, 10(20), 3799.
 }
-\keyword{DBN}
 \keyword{ReverseTree}

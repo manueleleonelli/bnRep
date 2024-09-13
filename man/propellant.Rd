@@ -59,10 +59,9 @@ A discrete Bayesian network to assess the safety of the solid propellant granule
 }
 }
 \description{
-A Bayesian network-based safety assessment method for solid propellant granule-casting molding process.
+A Bayesian network-based safety assessment method for solid propellant granule-casting molding process
 }
 \references{
 Bi, Y., Wang, S., Zhang, C., Cong, H., Gao, W., Qu, B., & Li, J. (2023). A bayesian network-based safety assessment method for solid propellant granule-casting molding process. Journal of Loss Prevention in the Process Industries, 83, 105089.
 }
-\keyword{DBN}
 \keyword{ReverseTree}

@@ -1,6 +1,6 @@
-#' AlgalActivity Bayesian Networks
+#' Algalactivity Bayesian Networks
 #'
-#' Influence of resampling techniques on Bayesian network performance in predicting increased algal activity.
+#' Influence of resampling techniques on Bayesian network performance in predicting increased algal activity
 #'
 #' @usage NULL
 #'
@@ -17,8 +17,7 @@
 #'   \item{Tu}{(0, 1);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Rezaabad, M. Z., Lacey, H., Marshall, L., & Johnson, F. (2023). Influence of resampling techniques on Bayesian network performance in predicting increased algal activity. Water Research, 244, 120558.
 "algalactivity1"

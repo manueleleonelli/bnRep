@@ -18,9 +18,8 @@ A discrete Bayesian network to analyze the dissemination, identification, and ca
 }
 }
 \description{
-A Coupled Mathematical Model of the Dissemination Route of Short-Term Fund-Raising Fraud
+A coupled mathematical model of the dissemination route of short-term fund-raising fraud
 }
 \references{
 Yang, S., Su, K., Wang, B., & Xu, Z. (2022). A coupled mathematical model of the dissemination route of short-term fund-raising fraud. Mathematics, 10(10), 1709.
 }
-\keyword{DBN}

@@ -16,9 +16,8 @@ A discrete Bayesian network modeling transport choices of a population. Probabil
 }
 }
 \description{
-Bayesian networks: with examples in R.
+Bayesian networks: with examples in R
 }
 \references{
 Scutari, M., & Denis, J. B. (2014). Bayesian networks: with examples in R. Chapman and Hall/CRC.
 }
-\keyword{DBN}

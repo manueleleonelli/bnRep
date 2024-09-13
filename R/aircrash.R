@@ -1,0 +1,24 @@
+#' Aircrash Bayesian Network
+#'
+#' Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes
+#'
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to model the relationships between analytical results, circumstantial evidence and the concentration of alcohol at the time of death in cases of air crash. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#' \item{5HTOL5HIAARatio}{(Above 20, Below 20);}
+#' \item{BACAtTimeOfDeath}{(a101plus, a80-100, a50-80, a40-49, a30-39, a20-29, a10-19, Negative);}
+#' \item{EthanolConsumptionWithin8hrsOfDeath}{(Yes, No);}
+#' \item{MeasuredBAC}{(a101plus, a80-100, a50-80, a40-49, a30-39, a20-29, a10-19, Negative);}
+#' \item{PMAlcoholFormation}{(PMF, No PMF);}
+#' \item{UACPositive}{(UPositive, UNegative);}
+#' \item{VACPositive}{(Positive, Negative);}
+#' \item{VOCDetected}{(Detected, Not Detected);}
+#' \item{WitnessEvidenceOfETOHConsumption}{(Positive, Negative);}
+#'  }
+#'
+#' @keywords NULL
+#' @importClassesFrom bnlearn bn.fit
+#' @references Maskell, P. D., & Jackson, G. (2020). Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes. Forensic Science International, 308, 110174.
+"aircrash"

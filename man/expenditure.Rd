@@ -22,7 +22,7 @@ A Gaussian Bayesian network modeling the monthly credit card expenditure of indi
 }
 }
 \description{
-The FEDHC Bayesian network learning algorithm.
+The FEDHC Bayesian network learning algorithm
 }
 \references{
 Tsagris, M. (2022). The FEDHC Bayesian network learning algorithm. Mathematics, 10(15), 2604.

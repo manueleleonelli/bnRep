@@ -1,0 +1,41 @@
+#' Aerialvehicles Bayesian Network
+#'
+#' Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to analyze critical risks associated with unmanned aerial vehicles. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#'   \item{X1}{Mechanical failures (yes, no);}
+#'   \item{X2}{Battery failures (yes, no);}
+#'   \item{X3}{Flight control system failures (yes, no);}
+#'   \item{X4}{Gust (yes, no);}
+#'   \item{X5}{Rain and snow (yes, no);}
+#'   \item{X6}{Thunderstorm (yes, no);}
+#'   \item{X7}{Visibility (yes, no);}
+#'   \item{X8}{Communication link failures (yes, no);}
+#'   \item{X9}{GPS failures (yes, no);}
+#'   \item{X10}{Ostacles (yes, no);}
+#'   \item{X11}{Route planning issues (yes, no);}
+#'   \item{X12}{Unclear airspace division (yes, no);}
+#'   \item{X13}{Unqualified knowledge and skills (yes, no);}
+#'   \item{X14}{Weak safety awareness (yes, no);}
+#'   \item{X15}{Lack of experience (yes, no);}
+#'   \item{X16}{Careless (yes, no);}
+#'   \item{X17}{Fatigue (yes, no);}
+#'   \item{X18}{Violations (yes, no);}
+#'   \item{X19}{Lack of legal awareness (yes, no);}
+#'   \item{X20}{Psychological problems (yes, no);}
+#'   \item{X21}{Undefined subject of supervision responsibility (yes, no);}
+#'   \item{X22}{Lack of unified industry standard (yes, no);}
+#'   \item{X23}{Unclear airworthiness certification procedures (yes, no);}
+#'   \item{X24}{Long flight approval cycle (yes, no);}
+#'   \item{X25}{Weak laws and regulations (yes, no);}
+#'   \item{X26}{Inadequate training system (yes, no);}
+#'   \item{X27}{Lack of supervision system (yes, no);}
+#' }
+#'
+#' @keywords NULL
+#' @importClassesFrom bnlearn bn.fit
+#' @references Xiao, Q., Li, Y., Luo, F., & Liu, H. (2023). Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network. Technology in Society, 73, 102229.
+"aerialvehicles"

@@ -1,6 +1,6 @@
 #' Electricvehicle Bayesian Network
 #'
-#' Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling.
+#' Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling
 #'
 #' @usage NULL
 #'
@@ -35,7 +35,7 @@
 #' }
 #'
 #'
-#' @keywords ReverseTree DBN
+#' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Chen, J., Li, K., & Yang, S. (2022). Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling. Mathematics, 10(20), 3799.
 "electricvehicle"

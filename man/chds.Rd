@@ -14,9 +14,9 @@ A discrete Bayesian network looking at the effect the family’s social backgrou
 }
 }
 \description{
-Refining a Bayesian network using a chain event graph.
+Refining a Bayesian network using a chain event graph
 }
 \references{
 Barclay, L. M., Hutton, J. L., & Smith, J. Q. (2013). Refining a Bayesian network using a chain event graph. International Journal of Approximate Reasoning, 54(9), 1300-1309.
 }
-\keyword{DBN}
+\keyword{Tree}

@@ -1,6 +1,6 @@
 #' Intensification Bayesian Network
 #'
-#' Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach.
+#' Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach
 #'
 #' @usage NULL
 #'
@@ -25,8 +25,7 @@
 #'   \item{TopographicWetnessIndex}{(14-18, 18-23, 23-32);}
 #'   }
 #'
-#'
-#' @keywords  DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Gebrekidan, B. H., Heckelei, T., & Rasch, S. (2023). Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach. Agricultural Economics, 54(1), 23-43.
 "intensification"

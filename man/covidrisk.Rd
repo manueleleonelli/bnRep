@@ -24,4 +24,3 @@ Highly Efficient Structural Learning of Sparse Staged Trees
 \references{
 Leonelli, M., & Varando, G. (2022, September). Highly efficient structural learning of sparse staged trees. In International Conference on Probabilistic Graphical Models (pp. 193-204). PMLR.
 }
-\keyword{DBN}

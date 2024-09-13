@@ -1,0 +1,25 @@
+#' Safespeeds Bayesian Network
+#'
+#'
+#' Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to model driver expectations using measured speeds in 153 curves and data on the characteristics of the curve approaches. The probabilities were given in the referenced paper. The vertices are:
+#' \describe{
+#' \item{Angle}{(A010-100, A100-200, A200-310);}
+#' \item{CurveSign}{(Present, Not Present);}
+#' \item{Direction}{(Left, Right);}
+#' \item{ExpectedSafeSpeed}{(S060-069, S070-079, S080-089, S090-099, S100-109, S110-119, S120-129, S130-140);}
+#' \item{NumberOfLanes}{(One, Two, Three, Four);}
+#' \item{PrecedingCurveSpeed}{(S060-080, S080-100, S100-120, S120-140, Tangent);}
+#' \item{PrecedingRoadwayType}{(Connector Road, Deceleration Lane, Fork, Main Carriageway, Merge, Weaving Section);}
+#' \item{SpeedSign}{(AdvSpeed50, AdvSpeed60, AdvSpeed70, AdvSpeed80, AdvSpeed90, SpeedLimit50, SpeedLimit60, SpeedLimit70, SpeedLimit80, SpeedLimit90, NoSpeedLimit);}
+#' \item{WarningSign}{(Present, Not Present);}
+#'  }
+#'
+#'
+#' @keywords TAN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Vos, J., Farah, H., & Hagenzieker, M. (2024). Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks. Transportation Research Interdisciplinary Perspectives, 27, 101178.
+"safespeeds"

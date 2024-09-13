@@ -15,9 +15,8 @@ A discrete Bayesian network modeling the trajectory of patients hospitalized due
 }
 }
 \description{
-Context-specific causal discovery for categorical data using staged trees.
+Context-specific causal discovery for categorical data using staged trees
 }
 \references{
 Leonelli, M., & Varando, G. (2023, April). Context-specific causal discovery for categorical data using staged trees. In International Conference on Artificial Intelligence and Statistics (pp. 8871-8888). PMLR.
 }
-\keyword{DBN}

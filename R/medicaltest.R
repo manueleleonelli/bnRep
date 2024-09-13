@@ -1,6 +1,6 @@
 #' Medicaltest Bayesian Network
 #'
-#' Global sensitivity analysis of uncertain parameters in Bayesian networks.
+#' Global sensitivity analysis of uncertain parameters in Bayesian networks
 #'
 #' @usage NULL
 #'
@@ -13,7 +13,7 @@
 #' }
 #'
 #'
-#' @keywords ReverseNaiveBayes DBN
+#' @keywords ReverseNaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ballester-Ripoll, R., & Leonelli, M. (2024). Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks. arXiv preprint arXiv:2406.05764.
 "medicaltest"

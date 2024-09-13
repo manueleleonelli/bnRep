@@ -1,6 +1,6 @@
 #' Simulation Bayesian Network
 #'
-#' Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment.
+#' Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment
 #'
 #' @usage NULL
 #'
@@ -14,7 +14,7 @@
 #'  }
 #'
 #'
-#' @keywords ReverseNaiveBayes DBN
+#' @keywords ReverseNaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leoni, L., & De Carlo, F. (2023). Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment. Journal of Loss Prevention in the Process Industries, 83, 105081.
 "simulation"

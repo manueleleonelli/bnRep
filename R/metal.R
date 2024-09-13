@@ -1,6 +1,6 @@
 #' Metal Bayesian Network
 #'
-#' Bayesian belief network modeling of accident occurrence in metal lathe machining operations.
+#' Bayesian belief network modeling of accident occurrence in metal lathe machining operations
 #'
 #' @usage NULL
 #'
@@ -18,7 +18,7 @@
 #'   }
 #'
 #'
-#' @keywords ReverseNaiveBayes DBN
+#' @keywords ReverseNaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Akinyemi, O. O., Adeyemi, H. O., Olatunde, O. B., Folorunsho, O., & Musa, M. B. (2022). Bayesian belief network modeling of accident occurrence in metal lathe machining operations. Mindanao Journal of Science and Technology, 20(2).
 "metal"

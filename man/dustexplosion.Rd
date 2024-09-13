@@ -41,4 +41,3 @@ Scenario derivation and consequence evaluation of dust explosion accident based 
 \references{
 Pang, L., Zhang, M., Yang, K., & Sun, S. (2023). Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network. Journal of Loss Prevention in the Process Industries, 83, 105055.
 }
-\keyword{DBN}

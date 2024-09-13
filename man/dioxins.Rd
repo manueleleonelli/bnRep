@@ -19,10 +19,9 @@ A discrete Bayesian network to optimize the use of resources for food safety mon
 }
 }
 \description{
-Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs.
+Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs
 }
 \references{
 Wang, Z., van der Fels-Klerx, H. J., & Oude Lansink, A. G. J. M. (2023). Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL-PCBs. Risk Analysis, 43(7), 1400-1413.
 }
-\keyword{DBN}
 \keyword{TAN}

@@ -43,5 +43,4 @@ Providing a comprehensive approach to oil well blowout risk assessment
 \references{
 Satiarvand, M., Orak, N., Varshosaz, K., Hassan, E. M., & Cheraghi, M. (2023). Providing a comprehensive approach to oil well blowout risk assessment. Plos One, 18(12), e0296086.
 }
-\keyword{DBN}
 \keyword{ReverseTree}

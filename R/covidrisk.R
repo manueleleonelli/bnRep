@@ -18,8 +18,7 @@
 #'   \item{FINANCING}{(low, high);}
 #' }
 #'
-#'
-#' @keywords  DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leonelli, M., & Varando, G. (2022, September). Highly efficient structural learning of sparse staged trees. In International Conference on Probabilistic Graphical Models (pp. 193-204). PMLR.
 "covidrisk"

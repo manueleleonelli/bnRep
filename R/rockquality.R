@@ -1,6 +1,6 @@
 #' Rockquality Bayesian Network
 #'
-#' A probability prediction method for the classification of surrounding rock quality of tunnels with incomplete data using Bayesian networks.
+#' A probability prediction method for the classification of surrounding rock quality of tunnels with incomplete data using Bayesian networks
 #'
 #' @usage NULL
 #'
@@ -18,8 +18,7 @@
 #'   \item{WeatheringDegree}{(Fresh, Slight, Medium, Severe, Extreme).}
 #'   }
 #'
-#'
-#' @keywords DBN
+#'@keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ma, J., Li, T., Li, X., Zhou, S., Ma, C., Wei, D., & Dai, K. (2022). A probability prediction method for the classification of surrounding rock quality of tunnels with incomplete data using Bayesian networks. Scientific Reports, 12(1), 19846.
 "rockquality"

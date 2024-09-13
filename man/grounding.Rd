@@ -46,9 +46,8 @@ A discrete Bayesian network to for quantitative analysis of the causation of gro
 }
 }
 \description{
-A framework for quantitative analysis of the causation of grounding accidents in arctic shipping.
+A framework for quantitative analysis of the causation of grounding accidents in arctic shipping
 }
 \references{
 Fu, S., Yu, Y., Chen, J., Xi, Y., & Zhang, M. (2022). A framework for quantitative analysis of the causation of grounding accidents in arctic shipping. Reliability Engineering & System Safety, 226, 108706.
 }
-\keyword{DBN}

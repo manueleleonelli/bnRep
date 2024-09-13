@@ -1,6 +1,6 @@
 #' Foodallergy Bayesian Networks
 #'
-#' Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling.
+#' Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling
 #'
 #' @usage NULL
 #'
@@ -17,8 +17,7 @@
 #'   \item{Veg_Leg}{(T, F);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Belmabrouk, S., Abdelhedi, R., Bougacha, F., Bouzid, F., Gargouri, H., Ayadi, I., ... & Rebai, A. (2023). Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling. World Allergy Organization Journal, 16(9), 100813.
 "foodallergy3"

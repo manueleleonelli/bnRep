@@ -28,9 +28,8 @@ A discrete Bayesian network to model the relationship between the use of technol
 }
 }
 \description{
-The YODO algorithm: An eﬃcient computational framework for sensitivity analysis in Bayesian networks.
+The YODO algorithm: An eﬃcient computational framework for sensitivity analysis in Bayesian networks
 }
 \references{
 Ballester-Ripoll, R., & Leonelli, M. (2023). The YODO algorithm: An efficient computational framework for sensitivity analysis in Bayesian networks. International Journal of Approximate Reasoning, 159, 108929.
 }
-\keyword{DBN}

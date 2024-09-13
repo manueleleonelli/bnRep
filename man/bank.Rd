@@ -19,4 +19,3 @@ Structural learning of simple staged trees
 \references{
 Leonelli, M., & Varando, G. (2024). Structural learning of simple staged trees. Data Mining and Knowledge Discovery, 38(3), 1520-1544.
 }
-\keyword{DBN}

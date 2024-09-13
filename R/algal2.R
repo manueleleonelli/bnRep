@@ -1,6 +1,6 @@
 #' Algal Bayesian Networks
 #'
-#' Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian networks.
+#' Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian networks
 #'
 #' @usage NULL
 #'

@@ -46,10 +46,9 @@ A discrete Bayesian network to evaluate the occurrence likelihood of risk of tra
 }
 }
 \description{
-Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route.
+Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route
 }
 \references{
 Chang, Z., He, X., Fan, H., Guan, W., & He, L. (2023). Leverage Bayesian network and fault tree method on risk assessment of LNG maritime transport shipping routes: Application to the China-Australia route. Journal of Marine Science and Engineering, 11(9), 1722.
 }
-\keyword{DBN}
 \keyword{ReverseTree}

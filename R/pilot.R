@@ -1,6 +1,6 @@
 #' Pilot Bayesian Network
 #'
-#' Dynamic analysis of pilot transfer accidents.
+#' Dynamic analysis of pilot transfer accidents
 #'
 #' @usage NULL
 #'
@@ -52,7 +52,7 @@
 #' }
 #'
 #'
-#' @keywords ReverseTree DBN
+#' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Sakar, C., & Sokukcu, M. (2023). Dynamic analysis of pilot transfer accidents. Ocean Engineering, 287, 115823.
 "pilot"

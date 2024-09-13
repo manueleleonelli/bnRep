@@ -19,9 +19,8 @@ A discrete Bayesian network to compute posterior event probabilities for sample 
 }
 }
 \description{
-Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks.
+Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks
 }
 \references{
 Bogart, C., Solorzano, L., & Lam, S. (2022, May). Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks. In Geospatial Informatics XII (Vol. 12099, pp. 28-36). SPIE.
 }
-\keyword{DBN}

@@ -37,4 +37,3 @@ Dynamic Bayesian network model to study under-deposit corrosion
 \references{
 Dao, U., Sajid, Z., Khan, F., & Zhang, Y. (2023). Dynamic Bayesian network model to study under-deposit corrosion. Reliability Engineering & System Safety, 237, 109370.
 }
-\keyword{DBN}

@@ -17,9 +17,8 @@ A discrete Bayesian network to show the existence of dependencies between resist
 }
 }
 \description{
-Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain.
+Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain
 }
 \references{
 Teng, K. T. Y., Aerts, M., Jaspers, S., Ugarte-Ruiz, M., Moreno, M. A., Saez, J. L., ... & Alvarez, J. (2022). Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. BMC Veterinary Research, 18(1), 333.
 }
-\keyword{DBN}

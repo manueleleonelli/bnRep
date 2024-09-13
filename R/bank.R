@@ -13,8 +13,7 @@
 #'   \item{subscription}{(no, yes);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leonelli, M., & Varando, G. (2024). Structural learning of simple staged trees. Data Mining and Knowledge Discovery, 38(3), 1520-1544.
 "bank"

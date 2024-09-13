@@ -1,6 +1,6 @@
 #' Income Bayesian Network
 #'
-#'  The FEDHC Bayesian network learning algorithm.
+#'  The FEDHC Bayesian network learning algorithm
 #'
 #' @usage NULL
 #'
@@ -22,8 +22,7 @@
 #'   \item{Language}{(english, spanish, other);}
 #'    }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Tsagris, M. (2022). The FEDHC Bayesian network learning algorithm. Mathematics, 10(15), 2604.
 "income"

@@ -1,6 +1,6 @@
 #' Mountaingoat Bayesian Network
 #'
-#' Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada.
+#' Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada
 #'
 #' @usage NULL
 #'
@@ -17,7 +17,7 @@
 #' }
 #'
 #'
-#' @keywords DBN BNC
+#' @keywords KDep
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wilson, S. F., Nietvelt, C., Taylor, S., & Guertin, D. A. (2022). Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada. Frontiers in Environmental Science, 10, 958596.
 "mountaingoat"

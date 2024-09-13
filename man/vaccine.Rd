@@ -13,9 +13,8 @@ A (synthetic) discrete Bayesian network modeling a vaccine scenario. Probabiliti
 }
 }
 \description{
-Sensitivity analysis in multilinear probabilistic models.
+Sensitivity analysis in multilinear probabilistic models
 }
 \references{
 Leonelli, M., Gorgen, C., & Smith, J. Q. (2017). Sensitivity analysis in multilinear probabilistic models. Information Sciences, 411, 84-97.
 }
-\keyword{DBN}

@@ -18,8 +18,7 @@
 #'   \item{TRIC}{Triceps skin fold thickness (Low, High);}
 #' }
 #'
-#'
-#' @keywords  DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leonelli, M., Ramanathan, R., & Wilkerson, R. L. (2023). Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package. Knowledge-Based Systems, 278, 110882.
 "diabetes"

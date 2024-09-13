@@ -16,9 +16,9 @@ A (dynamic) discrete Bayesian network to to help operators recognize the approac
 }
 }
 \description{
-Approaching ntention prediction of orbital maneuver based on dynamic Bayesian network.
+Approaching ntention prediction of orbital maneuver based on dynamic Bayesian network
 }
 \references{
 Shibo, C. H. E. N., Jun, L. I., Yaen, X. I. E., Xiande, W. U., Shuhang, L. E. N. G., & Ruochu, Y. A. N. G. (2023). Approaching Intention Prediction of Orbital Maneuver Based on Dynamic Bayesian Network. Transactions of Nanjing University of Aeronautics & Astronautics, 40(4).
 }
-\keyword{DBN}
+\keyword{Tree}

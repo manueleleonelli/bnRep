@@ -1,0 +1,43 @@
+#' Inverters Bayesian Network
+#'
+#' Intelligent fault inference of inverters based on a three-layer Bayesian network
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to infer the probable uncertain faults. Probabilities were given within the referenced paper. The vertices are:
+#' \describe{
+#' \item{AbnormalPulseVoltageWaveform}{(TRUE, FALSE);}
+#' \item{APhaseFailure}{(TRUE, FALSE);}
+#' \item{APhaseNegativeWaveFormDistortion}{(TRUE, FALSE);}
+#' \item{APhasePositiveWaveFormDistortion}{(TRUE, FALSE);}
+#' \item{BPhaseFailure}{(TRUE, FALSE);}
+#' \item{BPhaseNegativeWaveFormDistortion}{(TRUE, FALSE);}
+#' \item{BPhasePositiveWaveFormDistortion}{(TRUE, FALSE);}
+#' \item{C1Failure}{(TRUE, FALSE);}
+#' \item{C1VoltageAnomaly}{(TRUE, FALSE);}
+#' \item{C2Failure}{(TRUE, FALSE);}
+#' \item{C2VoltageAnomaly}{(TRUE, FALSE);}
+#' \item{CapacitanceParameterWeakening}{(TRUE, FALSE);}
+#' \item{CPhaseFailure}{(TRUE, FALSE);}
+#' \item{CPhaseNegativeWaveFormDistortion}{(TRUE, FALSE);}
+#' \item{CPhasePositiveWaveFormDistortion}{(TRUE, FALSE);}
+#' \item{DCLinkFailure}{(TRUE, FALSE);}
+#' \item{G1PulseMissing}{(TRUE, FALSE);}
+#' \item{G2PulseMissing}{(TRUE, FALSE);}
+#' \item{G3PulseMissing}{(TRUE, FALSE);}
+#' \item{G4PulseMissing}{(TRUE, FALSE);}
+#' \item{G5PulseMissing}{(TRUE, FALSE);}
+#' \item{G6PulseMissing}{(TRUE, FALSE);}
+#' \item{T1OC}{(TRUE, FALSE);}
+#' \item{T2OC}{(TRUE, FALSE);}
+#' \item{T3OC}{(TRUE, FALSE);}
+#' \item{T4OC}{(TRUE, FALSE);}
+#' \item{T5OC}{(TRUE, FALSE);}
+#' \item{T6OC}{(TRUE, FALSE);}
+#' \item{VoltageWaveFormAsymmetry}{(TRUE, FALSE);}
+#'  }
+#'
+#' @keywords NULL
+#' @importClassesFrom bnlearn bn.fit
+#' @references Han, S., He, Y., Zheng, S., & Wang, F. (2019). Intelligent Fault Inference of Inverters Based on a Three-Layer Bayesian Network. Mathematical Problems in Engineering, 2019(1), 3653746.
+"inverters"

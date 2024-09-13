@@ -24,8 +24,7 @@
 #'   \item{CLASS}{Do you see yourself and your household belonging to...? (Working class, Lower class, Middle class, Upper class);}
 #' }
 #'
-#'
-#' @keywords  DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ballester-Ripoll, R., & Leonelli, M. (2024). Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks. arXiv preprint arXiv:2406.05764.
 "consequenceCovid"

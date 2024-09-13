@@ -1,6 +1,6 @@
 #' Phdarticles Bayesian Network
 #'
-#' The R package stagedtrees for structural learning of stratified staged trees.
+#' The R package stagedtrees for structural learning of stratified staged trees
 #'
 #' @usage NULL
 #'
@@ -15,8 +15,7 @@
 #'   \item{Prestige}{Prestige of the university (high, low);}
 #'  }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Carli, F., Leonelli, M., Riccomagno, E., & Varando, G. (2022). The R Package stagedtrees for Structural Learning of Stratified Staged Trees. Journal of Statistical Software, 102, 1-30.
 "phdarticles"

@@ -21,9 +21,8 @@ A discrete Bayesian network to predict the potential effects of message delivery
 }
 }
 \description{
-Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model.
+Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model
 }
 \references{
 Catellani, P., Carfora, V., & Piastra, M. (2022). Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model. Frontiers in Psychology, 13, 825602.
 }
-\keyword{DBN}

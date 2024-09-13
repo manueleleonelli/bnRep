@@ -20,8 +20,7 @@
 #'   \item{VP}{Viral Pneumonia (No, Si);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Filigheddu, M. T., Leonelli, M., Varando, G., Gómez-Bermejo, M. Á., Ventura-Díaz, S., Gorospe, L., & Fortún, J. (2024). Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi. Computational and Structural Biotechnology Journal, 24, 12-22.
 "aspergillus"

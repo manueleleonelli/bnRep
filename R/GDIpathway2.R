@@ -1,0 +1,43 @@
+#' GDIpathway Bayesian Networks
+#'
+#'
+#' Integrative network modeling highlights the crucial roles of Rho-GDI signaling pathway in the progression of non-small cell lung cancer
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to pinpoint key cellular factors and pathways likely to be involved with the onset and progression of non-small cell lung cancer (unhealthy patients). The network was available from an associated repository. The vertices are:
+#' \describe{
+#' \item{ARHGAP6}{(Above, Below);}
+#' \item{ARHGEF19}{(Above, Below);}
+#' \item{CD44}{(Above, Below);}
+#' \item{CDC42-IT1}{(Above, Below);}
+#' \item{CDH1}{(Above, Below);}
+#' \item{CFL2}{(Above, Below);}
+#' \item{DAGLB}{(Above, Below);}
+#' \item{DGKZ}{(Above, Below);}
+#' \item{DLC1}{(Above, Below);}
+#' \item{ECM1}{(Above, Below);}
+#' \item{ERMAP}{(Above, Below);}
+#' \item{ERMP1}{(Above, Below);}
+#' \item{GNA11}{(Above, Below);}
+#' \item{GNG11}{(Above, Below);}
+#' \item{GPRC5A}{(Above, Below);}
+#' \item{ITGB2}{(Above, Below);}
+#' \item{LACTB}{(Above, Below);}
+#' \item{LIMK2}{(Above, Below);}
+#' \item{PAAF1}{(Above, Below);}
+#' \item{PAK1}{(Above, Below);}
+#' \item{PAK1}{(Above, Below);}
+#' \item{PIP}{(Above, Below);}
+#' \item{PIP4K2A}{(Above, Below);}
+#' \item{PIP5K1B}{(Above, Below);}
+#' \item{RAC2}{(Above, Below);}
+#' \item{RHOJ}{(Above, Below);}
+#' \item{ROCK2}{(Above, Below);}
+#' \item{RTKN}{(Above, Below);}
+#'  }
+#'
+#' @keywords NULL
+#' @importClassesFrom bnlearn bn.fit
+#' @references Gupta, S., Vundavilli, H., Osorio, R. S. A., Itoh, M. N., Mohsen, A., Datta, A., ... & Tripathi, L. P. (2022). Integrative network modeling highlights the crucial roles of rho-GDI signaling pathway in the progression of non-small cell lung cancer. IEEE Journal of Biomedical and Health Informatics, 26(9), 4785-4793.
+"GDIpathway2"

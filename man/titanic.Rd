@@ -14,9 +14,8 @@ A discrete Bayesian network modeling the survival of the Titanic passengers. The
 }
 }
 \description{
-The R Package stagedtrees for Structural Learning of Stratified Staged Trees.
+The R Package stagedtrees for Structural Learning of Stratified Staged Trees
 }
 \references{
 Carli, F., Leonelli, M., Riccomagno, E., & Varando, G. (2022). The R Package stagedtrees for Structural Learning of Stratified Staged Trees. Journal of Statistical Software, 102, 1-30.
 }
-\keyword{DBN}

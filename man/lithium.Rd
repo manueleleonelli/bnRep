@@ -56,10 +56,9 @@ A discrete Bayesian network to o evaluate the fire accident risk of lithium batt
 }
 }
 \description{
-Fire Accident Risk Analysis of Lithium Battery Energy Storage Systems during Maritime Transportation.
+Fire accident risk analysis of lithium battery energy storage systems during maritime transportation
 }
 \references{
 Zhang, C., Sun, H., Zhang, Y., Li, G., Li, S., Chang, J., & Shi, G. (2023). Fire accident risk analysis of lithium battery energy storage systems during maritime transportation. Sustainability, 15(19), 14198.
 }
-\keyword{DBN}
 \keyword{ReverseTree}

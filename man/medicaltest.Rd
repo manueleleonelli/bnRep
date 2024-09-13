@@ -13,10 +13,9 @@ A discrete Bayesian network representing a synthethic example of two medical tes
 }
 }
 \description{
-Global sensitivity analysis of uncertain parameters in Bayesian networks.
+Global sensitivity analysis of uncertain parameters in Bayesian networks
 }
 \references{
 Ballester-Ripoll, R., & Leonelli, M. (2024). Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks. arXiv preprint arXiv:2406.05764.
 }
-\keyword{DBN}
 \keyword{ReverseNaiveBayes}

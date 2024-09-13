@@ -22,9 +22,8 @@ A discrete Bayesian network to predict the probability of blockchain adoption in
 }
 }
 \description{
-A machine learning based approach for predicting blockchain adoption in supply chain.
+A machine learning based approach for predicting blockchain adoption in supply chain
 }
 \references{
 Kamble, S. S., Gunasekaran, A., Kumar, V., Belhadi, A., & Foropon, C. (2021). A machine learning based approach for predicting blockchain adoption in supply chain. Technological Forecasting and Social Change, 163, 120465.
 }
-\keyword{DBN}

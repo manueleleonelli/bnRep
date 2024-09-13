@@ -1,6 +1,6 @@
 #' Transport Bayesian Network
 #'
-#' Bayesian networks: with examples in R.
+#' Bayesian networks: with examples in R
 #'
 #' @usage NULL
 #'
@@ -15,8 +15,7 @@
 #'   \item{T}{Transport (car, train, other);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Scutari, M., & Denis, J. B. (2014). Bayesian networks: with examples in R. Chapman and Hall/CRC.
 "transport"

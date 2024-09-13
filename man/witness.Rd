@@ -16,10 +16,9 @@ A discrete Bayesian modelling a situation where equally reliable witnesses try t
 }
 }
 \description{
-Measuring coherence with Bayesian networks.
+Measuring coherence with Bayesian networks
 }
 \references{
 Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395.
 }
-\keyword{DBN}
 \keyword{NaiveBayes}

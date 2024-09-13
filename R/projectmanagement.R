@@ -1,6 +1,6 @@
 #' Projectmanagement Bayesian Network
 #'
-#' Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects.
+#' Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects
 #'
 #' @usage NULL
 #'
@@ -35,8 +35,7 @@
 #'   \item{O4}{Cost overruns (YES, NO);}
 #'    }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Qazi, A., Quigley, J., Dickson, A., & Kirytopoulos, K. (2016). Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects. International Journal of Project Management, 34(7), 1183-1198.
 "projectmanagement"

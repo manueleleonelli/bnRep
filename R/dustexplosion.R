@@ -34,8 +34,7 @@
 #'   \item{TriggerSecondaryExplosion}{(True, False);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Pang, L., Zhang, M., Yang, K., & Sun, S. (2023). Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network. Journal of Loss Prevention in the Process Industries, 83, 105055.
 "dustexplosion"

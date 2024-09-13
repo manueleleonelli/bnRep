@@ -1,6 +1,6 @@
 #' Waterlead Bayesian Network
 #'
-#' Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks.
+#' Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks
 #'
 #' @usage NULL
 #'
@@ -27,7 +27,7 @@
 #' }
 #'
 #'
-#' @keywords DBN TAN
+#' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Mulhern, R. E., Kondash, A. J., Norman, E., Johnson, J., Levine, K., McWilliams, A., ... & Hoponick Redmon, J. (2023). Improved decision making for water lead testing in US child care facilities using machine-learned Bayesian networks. Environmental Science & Technology, 57(46), 17959-17970.
 "waterlead"

@@ -15,9 +15,9 @@ A discrete Bayesian network for evaluating the presence probability of blue conc
 }
 }
 \description{
-Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks.
+Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks
 }
 \references{
 Wu, P. Y., Johansson, T., Mangold, M., Sandels, C., & Mjornell, K. (2023). Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks. Expert Systems with Applications, 222, 119812.
 }
-\keyword{DBN}
+\keyword{Tree}

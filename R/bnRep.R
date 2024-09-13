@@ -1,24 +1,22 @@
-#' BN Summary
+#' bnRep: A repository of Bayesian network models
 #'
-#' Summary of the Bayesian networks in \code{bnRep}.
+#' A repository of discrete, Gaussian, and conditional linear Gaussian Bayesian networks from the recent academic literature.
 #'
-#' @format
-#' A data frame with a row for each BN in \code{bnRep} and the following columns:
-#' \describe{
-#'   \item{Name}{Name of the R object storing the BN;}
-#'   \item{Type}{Discrete or Gaussian BN;}
-#'   \item{Structure}{How the graph of the BN was defined (data, fixed, experts);}
-#'   \item{Probabilities}{How the probabilities of the BN were defined (data, fixed, experts);}
-#'   \item{Nodes}{Number of nodes in the BN;}
-#'   \item{Arcs}{Number of arcs in the BN;}
-#'   \item{Parameters}{Number of free parameters in the BN;}
-#'   \item{Graph}{Type of graph of the BN (NaiveBayes, ReverseNaiveBayes, TAN, Tree, ReverseTree, Generic);}
-#'   \item{Year}{Year of the publication where the BN appeared;}
-#'   \item{Area}{Area of the published paper where the BN appeared (Psychology, Computer Science, Medicine, Engineering, etc.);}
-#'   \item{Journal}{Journal where the BN appeared;}
-#'   \item{Reference}{Reference of the paper where the BN appeared.}
+#' @details
+#'
+#' The package includes over 200 Bayesian networks which appeared in recent academic papers. They can be accessed by their name, as provided in this documentation.
+#'
+#' They are stored as \code{bn.fit} objects from the \code{bnlearn} package. Recall that in order to plot them, the function \code{bn.net} must be used to convert them into a graph object.
+#'
+#' The package includes two handy functionalities:
+#'
+#' \itemize{
+#' \item The \code{bnRep_summary} object: a dataframe including a lot of details about the Bayesian networks in the repository;
+#' \item The \code{bnRep_app} function, which launchs a Shiny app to explore the Bayesian networks in the repository.
 #' }
+#
 #'
-#' @usage NULL
-#' @keywords Datasets
-"bnRep_summary"
+#' Thanks to the interface with \code{bnlearn}, functions from that package can be used to export the networks in other formats and use them in other platforms, such as Netica, Hugin, or Python.
+#'
+#' @name bnRep
+NULL

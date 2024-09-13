@@ -22,13 +22,12 @@ A discrete Bayesian network to analyze evolving hazard scenarios, such as gas pe
 \item{SBT}{Surface/bulk treatments of the polymeric membrane (Yes, No);}
 \item{SMT}{Sufficient membrane thickness (Yes, No);}
 \item{T}{Operating temperature (High, Low);}
-\item{V}{Operating cell voltage (High, Low).}
+\item{V}{Operating cell voltage (High, Low);}
 }
 }
 \description{
-Safety analysis of proton exchange membrane water electrolysis system.
+Safety analysis of proton exchange membrane water electrolysis system
 }
 \references{
 Liu, Y., Amin, M. T., Khan, F., & Pistikopoulos, E. N. (2023). Safety analysis of proton exchange membrane water electrolysis system. Journal of Environmental Chemical Engineering, 11(5), 110772.
 }
-\keyword{DBN}

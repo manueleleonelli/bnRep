@@ -1,6 +1,6 @@
 #' Blockchain Bayesian Network
 #'
-#' A machine learning based approach for predicting blockchain adoption in supply chain.
+#' A machine learning based approach for predicting blockchain adoption in supply chain
 #'
 #' @usage NULL
 #'
@@ -21,8 +21,7 @@
 #'   \item{TMS}{Top management support (Low, High);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Kamble, S. S., Gunasekaran, A., Kumar, V., Belhadi, A., & Foropon, C. (2021). A machine learning based approach for predicting blockchain adoption in supply chain. Technological Forecasting and Social Change, 163, 120465.
 "blockchain"

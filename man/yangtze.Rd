@@ -25,7 +25,7 @@ A discrete Bayesian network to determine the probabilities and consequences of a
 \item{InadequateCommunication}{Inadequate communication (Yes, No);}
 \item{NegligentLookout}{Negligent lookout (Yes, No);}
 \item{NoGiveWay}{No give way (Yes, No);}
-\item{QualifiedCrew}{Strengthen the supervision of competent and qualified crew according to law (Adopted, Unadopted);}
+\item{QualifiedCrew}{Strengthen the supervision of competent crew according to law (Adopted, Unadopted);}
 \item{ResourceManagement}{Enhance teamwork resource management training on the bridge (Adopted, Unadopted);}
 \item{SafetyTraining}{Strengthening crew safety awareness training (general) (Adopted, Unadopted);}
 \item{ShipAge}{Ship age (<10 years, 10-20 years, > 20 years);}
@@ -41,9 +41,8 @@ A discrete Bayesian network to determine the probabilities and consequences of a
 }
 }
 \description{
-Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary.
+Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary
 }
 \references{
 Fu, S., Gu, S., Zhang, Y., Zhang, M., & Weng, J. (2023). Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary. Ocean Engineering, 286, 115637.
 }
-\keyword{DBN}

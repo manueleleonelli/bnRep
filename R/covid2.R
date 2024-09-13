@@ -1,0 +1,28 @@
+#' Covid Bayesian Networks
+#'
+#'
+#' Uncovering hidden and complex relations of pandemic dynamics using an AI driven system
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to classify the severity of covid-19 given different symptoms (TAN structure). The probabilities were available from a repository. The vertices are:
+#' \describe{
+#' \item{CovidSeverity}{(1. 1, 2. 2, 3. 3, 4. 4, 5. 5, 6. 6);}
+#' \item{Cough}{(1. 0, 2. 1);}
+#' \item{Diarrhea}{(1. 0, 2. 1);}
+#' \item{Fatigue}{(1. 0, 2. 1);}
+#' \item{Fever}{(1. 0, 2. 1);}
+#' \item{Headache}{(1. 0, 2. 1);}
+#' \item{LossOfSmell}{(1. 0, 2. 1);}
+#' \item{LossOfTaste}{(1. 0, 2. 1);}
+#' \item{MuscleSore}{(1. 0, 2. 1);}
+#' \item{RunnyNose}{(1. 0, 2. 1);}
+#' \item{Sob}{(1. 0, 2. 1);}
+#' \item{SoreThroat}{(1. 0, 2. 1);}
+#'  }
+#'
+#'
+#' @keywords TAN
+#' @importClassesFrom bnlearn bn.fit
+#' @references Demirbaga, U., Kaur, N., & Aujla, G. S. (2024). Uncovering hidden and complex relations of pandemic dynamics using an AI driven system. Scientific Reports, 14(1), 15433.
+"covid2"

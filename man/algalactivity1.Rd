@@ -3,7 +3,7 @@
 \docType{data}
 \name{algalactivity1}
 \alias{algalactivity1}
-\title{AlgalActivity Bayesian Networks}
+\title{Algalactivity Bayesian Networks}
 \format{
 A discrete Bayesian network to to predict chlorophyll-a (chl-a) using a range of water quality parameters as predictors (Fig. 6 of the referenced paper). Probabilities were given within the referenced paper (a uniform was given to the vertex Chl_a since it was missing). The vertices are:
 \describe{
@@ -18,9 +18,8 @@ A discrete Bayesian network to to predict chlorophyll-a (chl-a) using a range of
 }
 }
 \description{
-Influence of resampling techniques on Bayesian network performance in predicting increased algal activity.
+Influence of resampling techniques on Bayesian network performance in predicting increased algal activity
 }
 \references{
 Rezaabad, M. Z., Lacey, H., Marshall, L., & Johnson, F. (2023). Influence of resampling techniques on Bayesian network performance in predicting increased algal activity. Water Research, 244, 120558.
 }
-\keyword{DBN}

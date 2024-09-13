@@ -16,9 +16,8 @@ A discrete Bayesian network modeling factors affecting the number of publication
 }
 }
 \description{
-The R package stagedtrees for structural learning of stratified staged trees.
+The R package stagedtrees for structural learning of stratified staged trees
 }
 \references{
 Carli, F., Leonelli, M., Riccomagno, E., & Varando, G. (2022). The R Package stagedtrees for Structural Learning of Stratified Staged Trees. Journal of Statistical Software, 102, 1-30.
 }
-\keyword{DBN}

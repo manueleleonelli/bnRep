@@ -1,6 +1,6 @@
 #' TBM Bayesian Network
 #'
-#' Risk assessment of TBM jamming based on Bayesian networks.
+#' Risk assessment of TBM jamming based on Bayesian networks
 #'
 #' @usage NULL
 #'
@@ -19,8 +19,7 @@
 #'  \item{Water.And.Mud_Inrush}{(Serious, Slight);}
 #'  }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Lin, P., Xiong, Y., Xu, Z., Wang, W., & Shao, R. (2022). Risk assessment of TBM jamming based on Bayesian networks. Bulletin of Engineering Geology and the Environment, 81, 1-15.
 "tbm"

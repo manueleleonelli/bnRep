@@ -1,6 +1,6 @@
 #' Onlinerisk Bayesian Network
 #'
-#' Online risk modeling of autonomous marine systems: Case study of autonomous operations under sea ice.
+#' Online risk modeling of autonomous marine systems: Case study of autonomous operations under sea ice
 #'
 #' @usage NULL
 #'
@@ -93,8 +93,7 @@
 #'   \item{Water_Environment}{(Good, Poor);}
 #'    }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Yang, R., Bremnes, J. E., & Utne, I. B. (2023). Online risk modeling of autonomous marine systems: case study of autonomous operations under sea ice. Ocean Engineering, 281, 114765.
 "onlinerisk"

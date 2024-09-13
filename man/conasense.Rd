@@ -14,9 +14,8 @@ A discrete Bayesian network to support to optimization of the CONASENSE network.
 }
 }
 \description{
-Bayesian Neural Networks for 6G CONASENSE Services.
+Bayesian Neural Networks for 6G CONASENSE Services
 }
 \references{
 Henrique, P. S. R., & Prasad, R. (2022, October). Bayesian Neural Networks for 6G CONASENSE Services. In 2022 25th International Symposium on Wireless Personal Multimedia Communications (WPMC) (pp. 291-296). IEEE.
 }
-\keyword{DBN}

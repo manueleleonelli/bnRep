@@ -22,9 +22,8 @@ A discrete Bayesian network describing a criminal scenario (bottom-left of Figur
 }
 }
 \description{
-Using agent-based simulations to evaluate Bayesian networks for criminal scenarios.
+Using agent-based simulations to evaluate Bayesian networks for criminal scenarios
 }
 \references{
 van Leeuwen, L., Verheij, B., Verbrugge, R., & Renooij, S. (2023, June). Using agent-based simulations to evaluate Bayesian Networks for criminal scenarios. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (pp. 323-332).
 }
-\keyword{DBN}

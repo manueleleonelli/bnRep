@@ -1,6 +1,6 @@
 #' Redmeat Bayesian Network
 #'
-#' Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model.
+#' Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model
 #'
 #' @usage NULL
 #'
@@ -20,8 +20,7 @@
 #'    \item{Systematic_Processing}{(high, medium, low);}
 #'    }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Catellani, P., Carfora, V., & Piastra, M. (2022). Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model. Frontiers in Psychology, 13, 825602.
 "redmeat"

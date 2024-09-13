@@ -52,10 +52,9 @@ A discrete Bayesian network to classify ADHD symptom. Probabilities were given w
 }
 }
 \description{
-Dynamic analysis of pilot transfer accidents.
+Dynamic analysis of pilot transfer accidents
 }
 \references{
 Sakar, C., & Sokukcu, M. (2023). Dynamic analysis of pilot transfer accidents. Ocean Engineering, 287, 115823.
 }
-\keyword{DBN}
 \keyword{ReverseTree}

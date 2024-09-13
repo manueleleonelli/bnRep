@@ -15,10 +15,9 @@ A discrete Bayesian network  to predict wheat yield. Probabilities were given wi
 }
 }
 \description{
-Embedding expert opinion in a Bayesian network model to predict wheat yield from spring-summer weather.
+Embedding expert opinion in a Bayesian network model to predict wheat yield from spring-summer weather
 }
 \references{
 Mahmood, S. A., Karampoiki, M., Hammond, J. P., Paraforos, D. S., Murdoch, A. J., & Todman, L. (2023). Embedding expert opinion in a Bayesian network model to predict wheat yield from spring-summer weather. Smart Agricultural Technology, 4, 100224.
 }
-\keyword{DBN}
 \keyword{ReverseNaiveBayes}

@@ -56,9 +56,8 @@ A discrete Bayesian network for the quantitative risk assessment of multiple nav
 }
 }
 \description{
-An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters.
+An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters
 }
 \references{
 Fu, S., Zhang, Y., Zhang, M., Han, B., & Wu, Z. (2023). An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters. Reliability Engineering & System Safety, 238, 109459.
 }
-\keyword{DBN}

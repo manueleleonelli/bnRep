@@ -1,6 +1,6 @@
 #' Intentionalattacks Bayesian Network
 #'
-#' Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures.
+#' Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures
 #'
 #' @usage NULL
 #'
@@ -17,8 +17,7 @@
 #'   \item{Z3}{Sensor sends correct water level measurements after recalibrating the sensor (True, False);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Chockalingam, S., Pieters, W., Teixeira, A. M., & van Gelder, P. (2023). Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures. Journal of Information Security and Applications, 75, 103497.
 "intentionalattacks"

@@ -19,9 +19,8 @@ A discrete Bayesian network to understand the effect of demographic factors on t
 }
 }
 \description{
-Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear.
+Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear
 }
 \references{
 Leonelli, M., & Varando, G. (2024). Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear. Applied Intelligence, 54(2), 1734-1750.
 }
-\keyword{DBN}

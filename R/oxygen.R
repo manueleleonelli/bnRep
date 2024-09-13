@@ -1,6 +1,6 @@
 #' Oxygen Bayesian Network
 #'
-#' Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic.
+#' Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic
 #' @usage NULL
 #'
 #' @format
@@ -40,7 +40,7 @@
 #'  }
 #'
 #'
-#' @keywords ReverseTree DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Laal, F., Hanifi, S. M., Madvari, R. F., Khoshakhlagh, A. H., & Arefi, M. F. (2023). Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic. Heliyon, 9(8).
 "oxygen"

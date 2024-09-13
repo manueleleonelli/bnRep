@@ -1,0 +1,38 @@
+#' Firerisk Bayesian Network
+#'
+#'
+#' Predictive study of fire risk in building using Bayesian networks
+#' @usage NULL
+#'
+#' @format
+#' A discrete Bayesian network to calculate the probability of fire ignition in buildings (root nodes were given a uniform distribution). The probabilities were available from a repository. The vertices are:
+#' \describe{
+#' \item{A1}{Deficient electrical installation (T, F);}
+#' \item{A2}{Bad quality of electical equipment (T, F);}
+#' \item{A3}{Contact between incompatible products (T, F);}
+#' \item{B1}{Mishandling of electrical devices (T, F);}
+#' \item{B2}{Electrical overload (T, F);}
+#' \item{B3}{Power cut (T, F);}
+#' \item{B4}{Degradation of electrical wires (T, F);}
+#' \item{B5}{Excessive heating in the conductors (T, F);}
+#' \item{B6}{Insulation fault (T, F);}
+#' \item{B7}{Short circuit (T, F);}
+#' \item{B8}{Strong intensity electric (T, F);}
+#' \item{B9}{Combustion of electrical equipment (T, F);}
+#' \item{B10}{Appearance of electric arcs (T, F);}
+#' \item{B11}{Appearence of sparks (T, F);}
+#' \item{B12}{Chemical reactions (T, F);}
+#' \item{B13}{Heat release (T, F);}
+#' \item{B14}{Appearance of new products (T, F);}
+#' \item{C1}{Electrical equipment malfunction (T, F);}
+#' \item{C2}{Electrocution (T, F);}
+#' \item{C3}{Fire ignition (T, F);}
+#' \item{C4}{Poisoning (T, F);}
+#' \item{C5}{Asphyxia (T, F);}
+#' \item{C6}{Explosion (T, F);}
+#'  }
+#'
+#' @keywords NULL
+#' @importClassesFrom bnlearn bn.fit
+#' @references Issa, S. K., Bakkali, H., Azmani, A., & Amami, B. (2024). Predictive study of fire risk in building using Bayesian networks. Journal of Theoretical and Applied Information Technology, 102(7).
+"firerisk"

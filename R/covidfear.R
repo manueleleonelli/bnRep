@@ -1,6 +1,6 @@
 #' Covidfear Bayesian Network
 #'
-#' Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear.
+#' Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear
 #'
 #' @usage NULL
 #'
@@ -18,8 +18,7 @@
 #'   \item{Hearth}{My heart races or palpitates when I think about getting COVID-19 (Disagree, Neither, Agree);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leonelli, M., & Varando, G. (2024). Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear. Applied Intelligence, 54(2), 1734-1750.
 "covidfear"

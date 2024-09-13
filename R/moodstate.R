@@ -1,6 +1,6 @@
 #' Moodstate Bayesian Network
 #'
-#' Inference of mood state indices by using a multimodal high-level information fusion technique.
+#' Inference of mood state indices by using a multimodal high-level information fusion technique
 #'
 #' @usage NULL
 #'
@@ -13,10 +13,11 @@
 #'   \item{Energy}{(0-2, 3-5);}
 #'   \item{Irritability}{(0-3, 4-5);}
 #'   \item{MoodState}{(+3, +2, +1, 0, -1, -2, -3);}
-#'   \item{Sleep}{(<6 Hours, >6 Hours;}#' }
+#'   \item{Sleep}{(<6 Hours, >6 Hours;}
+#'    }
 #'
 #'
-#' @keywords NaiveBayes DBN
+#' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Tai, C. H., Chung, K. H., Teng, Y. W., Shu, F. M., & Chang, Y. S. (2021). Inference of mood state indices by using a multimodal high-level information fusion technique. IEEE Access, 9, 61256-61268.
 "moodstate"

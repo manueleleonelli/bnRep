@@ -1,6 +1,6 @@
 #' Witness Bayesian Network
 #'
-#' Measuring coherence with Bayesian networks.
+#' Measuring coherence with Bayesian networks
 #'
 #' @usage NULL
 #'
@@ -16,7 +16,7 @@
 #' }
 #'
 #'
-#' @keywords NaiveBayes DBN
+#' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395.
 "witness"

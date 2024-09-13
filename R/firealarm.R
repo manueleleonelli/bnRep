@@ -1,6 +1,6 @@
 #' Firealarm Bayesian Network
 #'
-#' When do numbers really matter?.
+#' When do numbers really matter?
 #'
 #' @usage NULL
 #'
@@ -15,8 +15,7 @@
 #'   \item{Report}{(true, false);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Hei Chan, Adnan Darwiche (2002). "When do numbers really matter?". Journal of Artificial Intelligence Research 17 (265-287).
 "firealarm"

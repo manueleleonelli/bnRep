@@ -50,9 +50,9 @@ A discrete Bayesian network for the failure-risk assessment of process system. P
 }
 }
 \description{
-Failure risk assessment of coal gasifier based on the integration of bayesian network and trapezoidal intuitionistic fuzzy number-based similarity aggregation method (TpIFN-SAM).
+Failure risk assessment of coal gasifier based on the integration of bayesian network and trapezoidal intuitionistic fuzzy number-based similarity aggregation method (TpIFN-SAM)
 }
 \references{
 Liu, Y., Wang, S., Liu, Q., Liu, D., Yang, Y., Dan, Y., & Wu, W. (2022). Failure risk assessment of coal gasifier based on the integration of bayesian network and trapezoidal intuitionistic fuzzy number-based similarity aggregation method (TpIFN-SAM). Processes, 10(9), 1863.
 }
-\keyword{DBN}
+\keyword{ReverseTree}

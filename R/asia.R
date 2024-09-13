@@ -1,6 +1,6 @@
 #' Asia Bayesian Network
 #'
-#' Local Computation with Probabilities on Graphical Structures and their Application to Expert Systems.
+#' Local Computation with Probabilities on Graphical Structures and their Application to Expert Systems
 #'
 #' @usage NULL
 #'
@@ -17,8 +17,7 @@
 #'          \item{XRay_Result}{(True, False);}
 #' }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Lauritzen, S. L., & Spiegelhalter, D. J. (1988). Local computations with probabilities on graphical structures and their application to expert systems. Journal of the Royal Statistical Society: Series B (Methodological), 50(2), 157-194.
 "asia"

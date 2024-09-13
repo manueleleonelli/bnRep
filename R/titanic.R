@@ -1,6 +1,6 @@
 #' Titanic Bayesian Network
 #'
-#' The R Package stagedtrees for Structural Learning of Stratified Staged Trees.
+#' The R Package stagedtrees for Structural Learning of Stratified Staged Trees
 #'
 #' @usage NULL
 #'
@@ -13,8 +13,7 @@
 #'    \item{Survived}{(No, Yes).}
 #'  }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Carli, F., Leonelli, M., Riccomagno, E., & Varando, G. (2022). The R Package stagedtrees for Structural Learning of Stratified Staged Trees. Journal of Statistical Software, 102, 1-30.
 "titanic"

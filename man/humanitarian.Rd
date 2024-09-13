@@ -31,9 +31,8 @@ A discrete Bayesian network to assess the country-level risk associated with hum
 }
 }
 \description{
-You Only Derive Once (YODO): Automatic Differentiation for Efficient Sensitivity Analysis in Bayesian Networks.
+You only derive once (YODO): Automatic differentiation for efficient sensitivity analysis in Bayesian networks
 }
 \references{
 Ballester-Ripoll, R., & Leonelli, M. (2022, September). You only derive once (YODO): automatic differentiation for efficient sensitivity analysis in Bayesian networks. In International Conference on Probabilistic Graphical Models (pp. 169-180). PMLR.
 }
-\keyword{DBN}

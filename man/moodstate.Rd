@@ -13,13 +13,13 @@ A discrete Bayesian network to perform high-level information fusion. Probabilit
 \item{Energy}{(0-2, 3-5);}
 \item{Irritability}{(0-3, 4-5);}
 \item{MoodState}{(+3, +2, +1, 0, -1, -2, -3);}
-\item{Sleep}{(<6 Hours, >6 Hours;}#' }
+\item{Sleep}{(<6 Hours, >6 Hours;}
+}
 }
 \description{
-Inference of mood state indices by using a multimodal high-level information fusion technique.
+Inference of mood state indices by using a multimodal high-level information fusion technique
 }
 \references{
 Tai, C. H., Chung, K. H., Teng, Y. W., Shu, F. M., & Chang, Y. S. (2021). Inference of mood state indices by using a multimodal high-level information fusion technique. IEEE Access, 9, 61256-61268.
 }
-\keyword{DBN}
 \keyword{NaiveBayes}

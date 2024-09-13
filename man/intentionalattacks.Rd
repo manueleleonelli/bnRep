@@ -18,9 +18,8 @@ A discrete Bayesian network modeling a floodgate in the Netherlands. Probabiliti
 }
 }
 \description{
-Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures.
+Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures
 }
 \references{
 Chockalingam, S., Pieters, W., Teixeira, A. M., & van Gelder, P. (2023). Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures. Journal of Information Security and Applications, 75, 103497.
 }
-\keyword{DBN}

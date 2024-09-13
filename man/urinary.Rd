@@ -42,13 +42,12 @@ A discrete Bayesian network to describe the causal relationships among variables
 \item{UrinSym_haematuria}{(Yes, Unknown);}
 \item{UrinSym_PainOrDiscomf}{(Yes, Unknown);}
 \item{UrinSym_smelly}{(Yes, Unknown);}
-\item{WCCLevel}{(Above18, Btw10And18, Below10, NotDone).}
+\item{WCCLevel}{(Above18, Btw10And18, Below10, NotDone);}
 }
 }
 \description{
-Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data.
+Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data
 }
 \references{
 Ramsay, J. A., Mascaro, S., Campbell, A. J., Foley, D. A., Mace, A. O., Ingram, P., ... & Wu, Y. (2022). Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data. BMC Medical Research Methodology, 22(1), 218.
 }
-\keyword{DBN}

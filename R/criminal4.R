@@ -1,6 +1,6 @@
 #' Criminal Bayesian Networks
 #'
-#' Using agent-based simulations to evaluate Bayesian networks for criminal scenarios.
+#' Using agent-based simulations to evaluate Bayesian networks for criminal scenarios
 #'
 #' @usage NULL
 #'
@@ -17,8 +17,7 @@
 #'   \item{ECamera}{(0,1);}
 #'    }
 #'
-#'
-#' @keywords DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references van Leeuwen, L., Verheij, B., Verbrugge, R., & Renooij, S. (2023, June). Using agent-based simulations to evaluate Bayesian Networks for criminal scenarios. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (pp. 323-332).
 "criminal4"

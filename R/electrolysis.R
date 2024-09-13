@@ -1,6 +1,6 @@
 #' Electrolysis Bayesian Network
 #'
-#' Safety analysis of proton exchange membrane water electrolysis system.
+#' Safety analysis of proton exchange membrane water electrolysis system
 #' @usage NULL
 #'
 #' @format
@@ -21,11 +21,10 @@
 #'   \item{SBT}{Surface/bulk treatments of the polymeric membrane (Yes, No);}
 #'   \item{SMT}{Sufficient membrane thickness (Yes, No);}
 #'   \item{T}{Operating temperature (High, Low);}
-#'   \item{V}{Operating cell voltage (High, Low).}
+#'   \item{V}{Operating cell voltage (High, Low);}
 #' }
 #'
-#'
-#' @keywords  DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Liu, Y., Amin, M. T., Khan, F., & Pistikopoulos, E. N. (2023). Safety analysis of proton exchange membrane water electrolysis system. Journal of Environmental Chemical Engineering, 11(5), 110772.
 "electrolysis"

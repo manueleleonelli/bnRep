@@ -1,6 +1,6 @@
 #' APSsystem Bayesian Network
 #'
-#' An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks.
+#' An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks
 #'
 #'
 #' @format
@@ -19,8 +19,7 @@
 #' }
 #'
 #' @usage NULL
-#'
-#' @keywords  DBN
+#' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Herrmann, J. P., Tackenberg, S., Padoano, E., Hartlief, J., Rautenstengel, J., Loeser, C., & Böhme, J. (2022). An ERP Data Quality Assessment Framework for the Implementation of an APS system using Bayesian Networks. Procedia Computer Science, 200, 194-204.
 "APSsystem"
