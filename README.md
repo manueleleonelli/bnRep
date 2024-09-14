@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# bnRep <img src="https://github.com/manueleleonelli/bnRep/hex-bnRep.png" align="right" height="150px" width="150px"/>
+# bnRep <img src="https://github.com/manueleleonelli/bnRep/blob/master/hex-bnRep.png" align="right" height="150px" width="150px"/>
 
 <!-- badges: start -->
 <!-- badges: start -->
@@ -28,8 +28,7 @@ If you are interested in having your Bayesian network included in
 `bnRep` you must prepare three objects:
 
 - the Bayesian network as a `bn.fit` object (if not created with
-  `bnlearn` you can always use import functions, such as
-  \`read.bif()\`\`);
+  `bnlearn` you can always use import functions, such as `read.bif()`);
 
 - an R file with the same name of the `bn.fit` object reporting the
   documentation of the Bayesian network;
@@ -66,6 +65,31 @@ remotes::install_github("stagedtrees/stagedtrees")
 
 ### Usage
 
+We will use the `lawschool` Bayesian network as an example. To load it
+in the environment simply call `data(lawschool)` and to then plot it
+(for instance using `graphviz.plot` from the `bnlearn` package)
+
+``` r
+library(bnRep)
+library(bnlearn)
+data("lawschool")
+graphviz.plot(bn.net(lawschool))
+```
+
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="50%" />
+
+Notice that the function `bn.net` function must be used in order to plot
+the network.
+
 ### Exploring bnRep
+
+`bnRep` includes two features to explore the Bayesian networks in the
+repository:
+
+- `bnRep_summary`: a dataframe with important details about each network
+  in the repository.
+
+- `bnRep_app`: a Shiny app to interactively explore `bnRep_summary` and
+  filter the networks according to various criteria.
 
 ### An overview of the Bayesian networks in bnRep
