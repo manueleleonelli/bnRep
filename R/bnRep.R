@@ -18,5 +18,6 @@
 #'
 #' Thanks to the interface with \code{bnlearn}, functions from that package can be used to export the networks in other formats and use them in other platforms, such as Netica, Hugin, or Python.
 #'
+#'
 #' @name bnRep
 NULL

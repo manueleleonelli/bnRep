@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: 
     person("Manuele", "Leonelli", , "manuele.leonelli@ie.edu", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-2562-5192"))
-Description: A collection of Bayesian networks (discrete, Gaussian, and conditional linear Gaussian) collated from recent academic literature. The bnRep_summary object provides an overview of the Bayesian networks in the repository and the package documentation includes details about the variables in each network. A Shiny app to explore the repository can be launched with bnRep_app(), and is available online at https://manueleleonelli.shinyapps.io/bnRep/.
+Description: A collection of Bayesian networks (discrete, Gaussian, and conditional linear Gaussian) collated from recent academic literature. The bnRep_summary object provides an overview of the Bayesian networks in the repository and the package documentation includes details about the variables in each network. A Shiny app to explore the repository can be launched with bnRep_app(), and is available online at (link here).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -15,3 +15,11 @@ URL: https://github.com/manueleleonelli/bnRep
 BugReports: https://github.com/manueleleonelli/bnRep/issues
 Depends: 
     R (>= 2.10)
+Suggests: 
+    knitr,
+    rmarkdown,
+    ggplot2,
+    scales,
+    stringr,
+    RColorBrewer
+VignetteBuilder: knitr

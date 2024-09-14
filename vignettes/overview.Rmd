@@ -1,24 +1,22 @@
 ---
-output: github_document
+title: "overview"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{overview}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
+  comment = "#>"
 )
 ```
 
-# bnRep <img src="https://github.com/manueleleonelli/bnRep/blob/master/hex-bnRep.png" align="right" height="150px" width="150px"/>
-
-<!-- badges: start -->
-
-<!-- badges: start -->
-<!-- badges: end -->
+```{r setup}
+library(bnRep)
+```
 
 The R package `bnRep` includes the largest repository of Bayesian networks, which were all collected from recent academic literature in a variety of fields! If you are using any Bayesian network from `bnRep` you should cite:
 
@@ -70,7 +68,6 @@ We will use the `lawschool` Bayesian network as an example. To load it in the en
 ```{r message=F, out.width="50%"}
 library(bnRep)
 library(bnlearn)
-library(qgraph)
 data("lawschool")
 qgraph::qgraph(bn.net(lawschool))
 ```
@@ -96,9 +93,11 @@ colnames(bnRep_summary)
 The following plots show some summary statistics of the repository.
 
 ```{r echo=F,message= F, out.width="50%"}
-# Load necessary libraries
 library(ggplot2)
 library(dplyr)
+library(stringr)
+library(scales)
+library(RColorBrewer)
 
 # Assuming bnRep_summary is your data frame and Type is a factor column
 # Creating the barplot with percentages on the Y-axis and labels on the bars
@@ -306,25 +305,6 @@ ggplot(bnRep_summary, aes(x = Arcs)) +
   scale_x_log10() +  # Set x-axis to log10 scale
   labs(title = "Distribution of Arcs (Log10 Scale)",
        x = "Number of Arcs (log10 scale)",
-       y = "Count") +
-  theme_minimal(base_size = 15) +  # Use a clean theme with larger base text size
-  theme(
-    plot.title = element_text(hjust = 0.5, face = "bold"),  # Center the title
-    axis.title.x = element_text(face = "bold"),  # Make x-axis title bold
-    axis.title.y = element_text(face = "bold"),  # Make y-axis title bold
-    panel.grid.major = element_line(color = "gray80"),  # Customize grid lines
-    panel.grid.minor = element_blank(),  # Remove minor grid lines for a cleaner look
-    axis.text.x = element_text(angle = 45, hjust = 1)  # Angle the x-axis labels for better readability
-  ) +
-  scale_fill_brewer(palette = "Set2") 
-```
-
-```{r echo =F, out.width="50%"}
-ggplot(bnRep_summary, aes(x = Parameters)) +
-  geom_histogram(binwidth = 0.1, fill = "skyblue", color = "black", alpha = 0.7) +  # Customize the appearance
-  scale_x_log10() +  # Set x-axis to log10 scale
-  labs(title = "Distribution of Parameters (Log10 Scale)",
-       x = "Number of Parameters (log10 scale)",
        y = "Count") +
   theme_minimal(base_size = 15) +  # Use a clean theme with larger base text size
   theme(

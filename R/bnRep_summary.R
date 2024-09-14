@@ -25,5 +25,8 @@
 #'   \item{Reference}{Reference of the paper where the BN appeared.}
 #' }
 #'
+#' @examples
+#' summary(bnRep_summary)
+#'
 #' @keywords Datasets
 "bnRep_summary"

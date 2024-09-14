@@ -32,4 +32,8 @@ bnRep_summary
 \description{
 Summary of the Bayesian networks in \code{bnRep} reporting various graph, definition and application details.
 }
+\examples{
+summary(bnRep_summary)
+
+}
 \keyword{Datasets}

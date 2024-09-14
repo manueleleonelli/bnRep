@@ -22,8 +22,7 @@ academic literature.” ArXiv 24….
         year = {2024}
       }
 
-Go to <https://manueleleonelli.shinyapps.io/bnRep/> to explore the
-repository online!
+Go to (link here) to explore the repository online!
 
 ## Contribution
 
@@ -60,10 +59,10 @@ package.
 
 ``` r
 # Install stable version from CRAN:
-install.packages("stagedtrees")
+install.packages("bnRep")
 
 # Or the development version from GitHub:
-remotes::install_github("stagedtrees/stagedtrees")
+remotes::install_github("manueleleonelli/bnRep")
 ```
 
 ### Usage
@@ -75,8 +74,9 @@ in the environment simply call `data(lawschool)` and to then plot it
 ``` r
 library(bnRep)
 library(bnlearn)
+library(qgraph)
 data("lawschool")
-graphviz.plot(bn.net(lawschool))
+qgraph::qgraph(bn.net(lawschool))
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="50%" />
@@ -94,7 +94,7 @@ repository:
 
 - `bnRep_app`: a Shiny app to interactively explore `bnRep_summary` and
   filter the networks according to various criteria. The app is also
-  available online at <https://manueleleonelli.shinyapps.io/bnRep/>.
+  available online at (link here).
 
 Here’s the columns of `bnRep_summary`:
 
