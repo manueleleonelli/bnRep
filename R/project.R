@@ -1,6 +1,6 @@
-#' Project Bayesian Network
+#' project Bayesian Network
 #'
-#' A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects
+#' A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects.
 #'
 #' @usage NULL
 #'

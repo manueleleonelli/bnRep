@@ -1,6 +1,6 @@
-#' Inverters Bayesian Network
+#' inverters Bayesian Network
 #'
-#' Intelligent fault inference of inverters based on a three-layer Bayesian network
+#' Intelligent fault inference of inverters based on a three-layer Bayesian network.
 #' @usage NULL
 #'
 #' @format

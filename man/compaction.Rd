@@ -3,7 +3,7 @@
 \docType{data}
 \name{compaction}
 \alias{compaction}
-\title{Compaction Bayesian Network}
+\title{compaction Bayesian Network}
 \format{
 A discrete Bayesian network  to highlight the financial consequences of failing to adopt controlled traffic farming management for a particular agricultural enterprise. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network  to highlight the financial consequences of failing 
 }
 }
 \description{
-A Bayesian approach toward the use of qualitative information to inform on- farm decision making: The example of soil compaction
+A Bayesian approach toward the use of qualitative information to inform on-farm decision making: The example of soil compaction.
 }
 \references{
 Roberton, S. D., Lobsey, C. R., & Bennett, J. M. (2021). A Bayesian approach toward the use of qualitative information to inform on-farm decision making: the example of soil compaction. Geoderma, 382, 114705.

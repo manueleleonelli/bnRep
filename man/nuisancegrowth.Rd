@@ -3,7 +3,7 @@
 \docType{data}
 \name{nuisancegrowth}
 \alias{nuisancegrowth}
-\title{Nuisancegrowth Bayesian Network}
+\title{nuisancegrowth Bayesian Network}
 \format{
 A discrete Bayesian network approach to integrate the perception of nuisance with the consequences of plant removal. Probabilities were given within the referenced paper (missing entries were given uniform probabilities). The vertices are:
 \describe{
@@ -29,7 +29,7 @@ A discrete Bayesian network approach to integrate the perception of nuisance wit
 }
 }
 \description{
-Drivers of perceived nuisance growth by aquatic plants
+Drivers of perceived nuisance growth by aquatic plants.
 }
 \references{
 Thiemer, K., Immerzeel, B., Schneider, S., Sebola, K., Coetzee, J., Baldo, M., ... & Vermaat, J. E. (2023). Drivers of perceived nuisance growth by aquatic plants. Environmental Management, 71(5), 1024-1036.

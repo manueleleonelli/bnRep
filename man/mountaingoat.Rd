@@ -3,7 +3,7 @@
 \docType{data}
 \name{mountaingoat}
 \alias{mountaingoat}
-\title{Mountaingoat Bayesian Network}
+\title{mountaingoat Bayesian Network}
 \format{
 A discrete Bayesian network to predict the suitability of habitats for mountain goats. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -17,7 +17,7 @@ A discrete Bayesian network to predict the suitability of habitats for mountain 
 }
 }
 \description{
-Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada
+Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada.
 }
 \references{
 Wilson, S. F., Nietvelt, C., Taylor, S., & Guertin, D. A. (2022). Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada. Frontiers in Environmental Science, 10, 958596.

@@ -1,6 +1,6 @@
-#' Foodsecurity Bayesian Network
+#' foodsecurity Bayesian Network
 #'
-#' Coherent combination of probabilistic outputs for group decision making: an algebraic approach
+#' Coherent combination of probabilistic outputs for group decision making: an algebraic approach.
 #'
 #' @usage NULL
 #'

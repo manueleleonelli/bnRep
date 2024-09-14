@@ -3,7 +3,7 @@
 \docType{data}
 \name{healthinsurance}
 \alias{healthinsurance}
-\title{Healthinsurance Bayesian Network}
+\title{healthinsurance Bayesian Network}
 \format{
 A conditional linear-Gaussian Bayesian network to predict health insurance charges. The DAG structure was taken from the referenced paper and the probabilities learned from data. The vertices are:
 \describe{
@@ -17,7 +17,7 @@ A conditional linear-Gaussian Bayesian network to predict health insurance charg
 }
 }
 \description{
-Discrete latent variables discovery and structure learning in mixed Bayesian networks
+Discrete latent variables discovery and structure learning in mixed Bayesian networks.
 }
 \references{
 Peled, A., & Fine, S. (2021). Discrete Latent Variables Discovery and Structure Learning in Mixed Bayesian Networks. In 20th IEEE International Conference on Machine Learning and Applications (pp. 248-255). IEEE.

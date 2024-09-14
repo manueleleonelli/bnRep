@@ -1,7 +1,7 @@
-#' Enrollment Bayesian Network
+#' enrollment Bayesian Network
 #'
 #'
-#' Research on evaluation methods for sustainable enrollment plan configurations in Chinese universities based on Bayesian networks
+#' Research on evaluation methods for sustainable enrollment plan configurations in Chinese universities based on Bayesian networks.
 #' @usage NULL
 #'
 #' @format

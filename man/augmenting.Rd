@@ -3,7 +3,7 @@
 \docType{data}
 \name{augmenting}
 \alias{augmenting}
-\title{Augmenting Bayesian Network}
+\title{augmenting Bayesian Network}
 \format{
 A discrete Bayesian network to estimate the probability that the car will remain on track, given its current state and control actions. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network to estimate the probability that the car will remain
 }
 }
 \description{
-Augmenting Learning Components for Safety in Resource Constrained Autonomous Robots
+Augmenting learning components for safety in resource constrained autonomous robots.
 }
 \references{
 Ramakrishna, S., Dubey, A., Burruss, M. P., Hartsell, C., Mahadevan, N., Nannapaneni, S., ... & Karsai, G. (2019, May). Augmenting learning components for safety in resource constrained autonomous robots. In 2019 IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC) (pp. 108-117). IEEE.

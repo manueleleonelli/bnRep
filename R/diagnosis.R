@@ -1,6 +1,6 @@
-#' Diagnosis Bayesian Network
+#' diagnosis Bayesian Network
 #'
-#' An interpretable unsupervised Bayesian network model for fault detection and diagnosis
+#' An interpretable unsupervised Bayesian network model for fault detection and diagnosis.
 #'
 #' @usage NULL
 #'

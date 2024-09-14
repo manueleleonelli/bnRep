@@ -1,7 +1,7 @@
-#' Stocks Bayesian Network
+#' stocks Bayesian Network
 #'
 #'
-#' Gaussian Bayesian network model of healthcare, food and energy sectors in the pandemic: Turkiye case
+#' Gaussian Bayesian network model of healthcare, food and energy sectors in the pandemic: Turkiye case.
 #' @usage NULL
 #'
 #' @format

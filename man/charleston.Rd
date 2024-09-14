@@ -3,7 +3,7 @@
 \docType{data}
 \name{charleston}
 \alias{charleston}
-\title{Charleston Bayesian Network}
+\title{charleston Bayesian Network}
 \format{
 A discrete Bayesian network for risk and resilience assessment of climate change impacts within the Charleston Harbor Watershed of South Carolina (Region 3). The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -34,7 +34,7 @@ A discrete Bayesian network for risk and resilience assessment of climate change
 }
 }
 \description{
-Parameterization framework and quantiﬁcation approach for integrated risk and resilience assessments
+Parameterization framework and quantiﬁcation approach for integrated risk and resilience assessments.
 }
 \references{
 Cains, M. G., & Henshel, D. (2021). Parameterization framework and quantification approach for integrated risk and resilience assessments. Integrated Environmental Assessment and Management, 17(1), 131-146.

@@ -1,7 +1,7 @@
-#' Fire Bayesian Network
+#' fire Bayesian Network
 #'
 #'
-#' Psychological response in fire: A fuzzy Bayesian network approach using expert judgment
+#' Psychological response in fire: A fuzzy Bayesian network approach using expert judgment.
 #' @usage NULL
 #'
 #' @format

@@ -1,6 +1,6 @@
-#' Covidfear Bayesian Network
+#' covidfear Bayesian Network
 #'
-#' Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear
+#' Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear.
 #'
 #' @usage NULL
 #'

@@ -1,6 +1,6 @@
-#' Aircrash Bayesian Network
+#' aircrash Bayesian Network
 #'
-#' Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes
+#' Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes.
 #'
 #' @usage NULL
 #'

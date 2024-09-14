@@ -1,6 +1,6 @@
-#' Theft Bayesian Networks
+#' theft Bayesian Networks
 #'
-#' Evaluating methods for setting a prior probability of guilt
+#' Evaluating methods for setting a prior probability of guilt.
 #'
 #' @usage NULL
 #'

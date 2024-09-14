@@ -5,13 +5,15 @@ library(shinyjs)
 library(dplyr)
 library(bnlearn)  # Assuming this is needed for graphviz.plot
 library(DT)       # For interactive tables
+library(qgraph)
+library(bnRep)
 
 # Define UI for the application
 ui <- fluidPage(
   shinyjs::useShinyjs(),  # Enable shinyjs for additional functionalities
   theme = shinythemes::shinytheme("cosmo"),  # A modern and elegant theme
 
-  titlePanel("Bayesian Network Viewer"),
+  titlePanel("bnRep Explorer"),
 
   tabsetPanel(
     tabPanel(
@@ -33,11 +35,12 @@ ui <- fluidPage(
           hr(),  # Horizontal line separator
 
           # Sliders for numeric filters
+          sliderInput("year_filter", "Year:", min = 1900, max = 2100, value = c(1900, 2100), step = 1, sep = ""),
           sliderInput("nodes_filter", "Number of Nodes:", min = 0, max = 100, value = c(0, 100), step = 1),
           sliderInput("arcs_filter", "Number of Arcs:", min = 0, max = 100, value = c(0, 100), step = 1),
           sliderInput("parameters_filter", "Number of Parameters:", min = 0, max = 100, value = c(0, 100), step = 1),
-          sliderInput("year_filter", "Year:", min = 1900, max = 2100, value = c(1900, 2100), step = 1, sep = "")
-        ),
+
+          ),
 
         mainPanel(
           width = 9,  # Set width of the main panel
@@ -52,7 +55,12 @@ ui <- fluidPage(
                      fluidRow(
                        column(4, textInput("search_term", "Search Networks:", "")),
                        column(4, uiOutput("network_select_ui")),
-                       column(4, actionButton("plot_btn", "Plot Network", icon = icon("play-circle")))
+                       column(4,
+                              radioButtons("plot_method", "Plotting Method:",
+                                           choices = list("Graphviz" = "graphviz", "qgraph" = "qgraph"),
+                                           inline = TRUE),
+                              actionButton("plot_btn", "Plot Network", icon = icon("play-circle"))
+                       )
                      ),
                      style = "background-color: #e9ecef; border-radius: 8px; padding: 15px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1);"  # Custom styling
                    )
@@ -72,7 +80,7 @@ ui <- fluidPage(
       "Data Explorer",
       fluidRow(
         column(12,
-               h3("Explore bnRep_summary Data"),
+               h3("Explore the BNs in bnRep"),
                DT::DTOutput("summary_table")
         )
       )
@@ -178,7 +186,6 @@ server <- function(input, output, session) {
       filter(Arcs >= input$arcs_filter[1] & Arcs <= input$arcs_filter[2]) |>
       filter(Parameters >= input$parameters_filter[1] & Parameters <= input$parameters_filter[2]) |>
       filter(Year >= input$year_filter[1] & Year <= input$year_filter[2])
-
     # Apply search term filter (case-insensitive)
     if (input$search_term != "") {
       data <- data |> filter(grepl(input$search_term, Name, ignore.case = TRUE))
@@ -203,6 +210,7 @@ server <- function(input, output, session) {
     updateSelectInput(session, "area_filter", choices = unique_areas)
     updateSelectInput(session, "journal_filter", choices = unique_journals)
   }
+
 
   # Update network names dropdown based on filtered dataframe
   update_network_dropdown <- function() {
@@ -241,6 +249,7 @@ server <- function(input, output, session) {
     updateSliderInput(session, "arcs_filter", min = ranges$arcs[1], max = ranges$arcs[2], value = ranges$arcs)
     updateSliderInput(session, "parameters_filter", min = ranges$parameters[1], max = ranges$parameters[2], value = ranges$parameters)
     updateSliderInput(session, "year_filter", min = ranges$year[1], max = ranges$year[2], value = ranges$year)
+
   })
 
   # Render the network plot based on selected network when button is clicked
@@ -252,14 +261,22 @@ server <- function(input, output, session) {
 
     # Render the network using graphviz.plot
     output$network_plot <- renderPlot({
-      graphviz.plot(selected_network)
+      if (input$plot_method == "graphviz") {
+        graphviz.plot(selected_network)
+      } else if (input$plot_method == "qgraph") {
+        qgraph::qgraph(arcs(selected_network))
+      }
     })
   })
 
   # Render the summary table
   output$summary_table <- DT::renderDT({
+    # Convert all character columns to factors, except for 'Name' and 'Reference'
+    transformed_summary <- filtered_summary() %>%
+      mutate(across(where(is.character) & !c(Name, Reference), as.factor))
+
     datatable(
-      filtered_summary() |>
+      transformed_summary %>%
         dplyr::mutate(
           Reference = paste0(
             '<div class="truncate" title="', Reference, '">',
@@ -274,7 +291,9 @@ server <- function(input, output, session) {
         buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
         colReorder = TRUE,
         keys = TRUE,
-        pageLength = 10
+        pageLength = 10,
+        autoWidth = TRUE,
+        columnDefs = list(list(width = '300px', targets = "_all"))
       ),
       filter = 'top',
       escape = FALSE,  # Allow HTML rendering

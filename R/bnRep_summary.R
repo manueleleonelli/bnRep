@@ -1,6 +1,6 @@
 #' BnRep Summary
 #'
-#' Summary of the Bayesian networks in \code{bnRep} reporting various graph, definition and application details
+#' Summary of the Bayesian networks in \code{bnRep} reporting various graph, definition and application details.
 #'
 #'
 #' @format

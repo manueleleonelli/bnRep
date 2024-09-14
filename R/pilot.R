@@ -1,6 +1,6 @@
-#' Pilot Bayesian Network
+#' pilot Bayesian Network
 #'
-#' Dynamic analysis of pilot transfer accidents
+#' Dynamic analysis of pilot transfer accidents.
 #'
 #' @usage NULL
 #'

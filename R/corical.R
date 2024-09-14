@@ -1,7 +1,7 @@
-#' Corical Bayesian Network
+#' corical Bayesian Network
 #'
 #'
-#' Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a Bayesian network modelling framework
+#' Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a Bayesian network modelling framework.
 #' @usage NULL
 #'
 #' @format

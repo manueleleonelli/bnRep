@@ -3,7 +3,7 @@
 \docType{data}
 \name{projectmanagement}
 \alias{projectmanagement}
-\title{Projectmanagement Bayesian Network}
+\title{projectmanagement Bayesian Network}
 \format{
 A discrete Bayesian network to identify critical risks and selecting optimal risk mitigation strategies at the commencement stage of a project. Probabilities were given within the referenced paper (uniform priors were given to root nodes). The vertices are:
 \describe{
@@ -36,7 +36,7 @@ A discrete Bayesian network to identify critical risks and selecting optimal ris
 }
 }
 \description{
-Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects
+Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects.
 }
 \references{
 Qazi, A., Quigley, J., Dickson, A., & Kirytopoulos, K. (2016). Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects. International Journal of Project Management, 34(7), 1183-1198.

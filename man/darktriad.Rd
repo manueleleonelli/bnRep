@@ -3,7 +3,7 @@
 \docType{data}
 \name{darktriad}
 \alias{darktriad}
-\title{Darktriad Bayesian Network}
+\title{darktriad Bayesian Network}
 \format{
 A conditional linear Gaussian Bayesian network to examine the validity of the constructed models as predictable. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -24,7 +24,7 @@ A conditional linear Gaussian Bayesian network to examine the validity of the co
 }
 }
 \description{
-Bayesian Network modeling for Dark Triad, aggression, and empathy
+Bayesian Network modeling for Dark Triad, aggression, and empathy.
 }
 \references{
 Zaitsu, W. (2024). Bayesian Network modeling for Dark Triad, aggression, and empathy. Personality and Individual Differences, 230, 112805.

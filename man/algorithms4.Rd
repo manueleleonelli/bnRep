@@ -3,7 +3,7 @@
 \docType{data}
 \name{algorithms4}
 \alias{algorithms4}
-\title{Algorithms Bayesian Networks}
+\title{algorithms Bayesian Networks}
 \format{
 A discrete Bayesian network to illustrate the algorithms developed in the associated paper (Figure 2, bottom). The probabilities were available from a repository. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network to illustrate the algorithms developed in the associ
 }
 }
 \description{
-Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation
+Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation.
 }
 \references{
 Scutari, M. (2024). Entropy and the Kullback-Leibler Divergence for Bayesian Networks: Computational Complexity and Efficient Implementation. Algorithms, 17(1), 24.

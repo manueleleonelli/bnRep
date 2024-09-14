@@ -3,7 +3,7 @@
 \docType{data}
 \name{turbine2}
 \alias{turbine2}
-\title{Turbine Bayesian Networks}
+\title{turbine Bayesian Networks}
 \format{
 A Gaussian Bayesian network for the estimation of technical relationships among structural dynamic responses of the tower of a floating spar-type offshore wind turbine. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -26,7 +26,7 @@ A Gaussian Bayesian network for the estimation of technical relationships among 
 }
 }
 \description{
-Potential use of Bayesian Networks for estimating relationship among rotational dynamics of floating offshore wind turbine tower in extreme environmental conditions
+Potential use of Bayesian Networks for estimating relationship among rotational dynamics of floating offshore wind turbine tower in extreme environmental conditions.
 }
 \references{
 Rostam-Alilou, A. A., Zhang, C., Salboukh, F., & Gunes, O. (2022). Potential use of Bayesian Networks for estimating relationship among rotational dynamics of floating offshore wind turbine tower in extreme environmental conditions. Ocean Engineering, 244, 110230.

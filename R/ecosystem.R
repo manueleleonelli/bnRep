@@ -1,6 +1,6 @@
-#' Ecosystem Bayesian Network
+#' ecosystem Bayesian Network
 #'
-#' Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China
+#' Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China.
 #'
 #' @usage NULL
 #'

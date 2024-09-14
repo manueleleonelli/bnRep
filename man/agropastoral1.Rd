@@ -3,7 +3,7 @@
 \docType{data}
 \name{agropastoral1}
 \alias{agropastoral1}
-\title{Agropastoral Bayesian Networks}
+\title{agropastoral Bayesian Networks}
 \format{
 A discrete Bayesian network to explore   the influence of the environment on subsistence strategies (Fig. 5 of the paper). The structure of the BN was given within the referenced paper together with a dataset. Probabilities were learned using the dataset and the discretization mentioned in the paper. The vertices are:
 \describe{
@@ -25,7 +25,7 @@ A discrete Bayesian network to explore   the influence of the environment on sub
 }
 }
 \description{
-Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach
+Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach.
 }
 \references{
 Palacios, O., Barceló, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.

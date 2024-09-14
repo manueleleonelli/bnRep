@@ -1,6 +1,6 @@
-#' Concrete Bayesian Networks
+#' concrete Bayesian Networks
 #'
-#' Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks
+#' Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks.
 #'
 #' @usage NULL
 #'

@@ -1,7 +1,7 @@
-#' Catchment Bayesian Network
+#' catchment Bayesian Network
 #'
 #'
-#' A framework to diagnose the causes of river ecosystem deterioration using biological symptoms
+#' A framework to diagnose the causes of river ecosystem deterioration using biological symptoms.
 #' @usage NULL
 #'
 #' @format

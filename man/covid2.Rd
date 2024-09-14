@@ -3,7 +3,7 @@
 \docType{data}
 \name{covid2}
 \alias{covid2}
-\title{Covid Bayesian Networks}
+\title{covid Bayesian Networks}
 \format{
 A discrete Bayesian network to classify the severity of covid-19 given different symptoms (TAN structure). The probabilities were available from a repository. The vertices are:
 \describe{
@@ -22,7 +22,7 @@ A discrete Bayesian network to classify the severity of covid-19 given different
 }
 }
 \description{
-Uncovering hidden and complex relations of pandemic dynamics using an AI driven system
+Uncovering hidden and complex relations of pandemic dynamics using an AI driven system.
 }
 \references{
 Demirbaga, U., Kaur, N., & Aujla, G. S. (2024). Uncovering hidden and complex relations of pandemic dynamics using an AI driven system. Scientific Reports, 14(1), 15433.

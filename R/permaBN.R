@@ -1,7 +1,7 @@
-#' PermaBN Bayesian Network
+#' permaBN Bayesian Network
 #'
 #'
-#' PermaBN: A Bayesian Network framework to help predict permafrost thaw in the Arctic
+#' PermaBN: A Bayesian Network framework to help predict permafrost thaw in the Arctic.
 #' @usage NULL
 #'
 #' @format

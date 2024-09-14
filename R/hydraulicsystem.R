@@ -1,6 +1,6 @@
-#' Hydraulicsystem Bayesian Network
+#' hydraulicsystem Bayesian Network
 #'
-#' Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network
+#' Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network.
 #' @usage NULL
 #'
 #' @format

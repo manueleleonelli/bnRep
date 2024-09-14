@@ -3,7 +3,7 @@
 \docType{data}
 \name{ricci}
 \alias{ricci}
-\title{Ricci Bayesian Network}
+\title{ricci Bayesian Network}
 \format{
 A discrete Bayesian network modeling the results of a promotion exam within a fire department. The DAG was taken from the referenced paper and the probabilities learned from the associated dataset (the variable Promoted was constructed manually). The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network modeling the results of a promotion exam within a fi
 }
 }
 \description{
-A survey on datasets for fairness-aware machine learning
+A survey on datasets for fairness-aware machine learning.
 }
 \references{
 Le Quy, T., Roy, A., Iosifidis, V., Zhang, W., & Ntoutsi, E. (2022). A survey on datasets for fairness-aware machine learning. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 12(3), e1452.

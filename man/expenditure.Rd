@@ -3,7 +3,7 @@
 \docType{data}
 \name{expenditure}
 \alias{expenditure}
-\title{Expenditure Bayesian Network}
+\title{expenditure Bayesian Network}
 \format{
 A Gaussian Bayesian network modeling the monthly credit card expenditure of individuals. The code to learn the Bayesian network was given within the referenced paper (Figure 12.c). The vertices are:
 \describe{
@@ -22,7 +22,7 @@ A Gaussian Bayesian network modeling the monthly credit card expenditure of indi
 }
 }
 \description{
-The FEDHC Bayesian network learning algorithm
+The FEDHC Bayesian network learning algorithm.
 }
 \references{
 Tsagris, M. (2022). The FEDHC Bayesian network learning algorithm. Mathematics, 10(15), 2604.

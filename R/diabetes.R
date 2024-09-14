@@ -1,6 +1,6 @@
-#' Diabetes Bayesian Network
+#' ciabetes Bayesian Network
 #'
-#' Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package
+#' Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package.
 #'
 #' @usage NULL
 #'

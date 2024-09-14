@@ -1,6 +1,6 @@
-#' Propellant Bayesian Network
+#' propellant Bayesian Network
 #'
-#' A Bayesian network-based safety assessment method for solid propellant granule-casting molding process
+#' A Bayesian network-based safety assessment method for solid propellant granule-casting molding process.
 #'
 #' @usage NULL
 #'

@@ -1,6 +1,6 @@
-#' Corrosion Bayesian Network
+#' corrosion Bayesian Network
 #'
-#' Dynamic Bayesian network model to study under-deposit corrosion
+#' Dynamic Bayesian network model to study under-deposit corrosion.
 #'
 #' @usage NULL
 #'

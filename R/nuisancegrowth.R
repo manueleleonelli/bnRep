@@ -1,6 +1,6 @@
-#' Nuisancegrowth Bayesian Network
+#' nuisancegrowth Bayesian Network
 #'
-#' Drivers of perceived nuisance growth by aquatic plants
+#' Drivers of perceived nuisance growth by aquatic plants.
 #'
 #' @usage NULL
 #'

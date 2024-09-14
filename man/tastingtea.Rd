@@ -3,7 +3,7 @@
 \docType{data}
 \name{tastingtea}
 \alias{tastingtea}
-\title{Tastingtea Bayesian Network}
+\title{tastingtea Bayesian Network}
 \format{
 A discrete Bayesian network for modelling the Lady Tasting Tea experiment. The probabilities were given in the referenced paper. The vertices are:
 \describe{
@@ -27,7 +27,7 @@ A discrete Bayesian network for modelling the Lady Tasting Tea experiment. The p
 }
 }
 \description{
-A Bayesian network for modelling the Lady tasting tea experiment
+A Bayesian network for modelling the Lady tasting tea experiment.
 }
 \references{
 Xie, G. (2024). A Bayesian network for modelling the Lady tasting tea experiment. PloS one, 19(7), e0307866.

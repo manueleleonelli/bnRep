@@ -3,7 +3,7 @@
 \docType{data}
 \name{earthquake}
 \alias{earthquake}
-\title{Earthquake Bayesian Network}
+\title{earthquake Bayesian Network}
 \format{
 A discrete Bayesian network for estimating the delays in maritime transportation to island communities in British Columbia, resulting from a major earthquake in the region. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -50,7 +50,7 @@ A discrete Bayesian network for estimating the delays in maritime transportation
 }
 }
 \description{
-A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia
+A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia.
 }
 \references{
 Goerlandt, F., & Islam, S. (2021). A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia. Reliability Engineering & System Safety, 214, 107708.

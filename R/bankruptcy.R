@@ -1,7 +1,7 @@
-#' Bankruptcy Bayesian Network
+#' bankruptcy Bayesian Network
 #'
 #'
-#' Using Bayesian networks for bankruptcy prediction: Some methodological issues
+#' Using Bayesian networks for bankruptcy prediction: Some methodological issues.
 #' @usage NULL
 #'
 #' @format

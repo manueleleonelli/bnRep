@@ -3,7 +3,7 @@
 \docType{data}
 \name{tubercolosis}
 \alias{tubercolosis}
-\title{Tubercolosis Bayesian Network}
+\title{tubercolosis Bayesian Network}
 \format{
 A discrete Bayesian network to educate, inform, and prescribe measures to take when visiting a high prevalence location. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -15,7 +15,7 @@ A discrete Bayesian network to educate, inform, and prescribe measures to take w
 }
 }
 \description{
-A decision support system for tuberculosis prevalence in South Africa
+A decision support system for tuberculosis prevalence in South Africa.
 }
 \references{
 Razwiedani, M., & Kogeda, O. P. (2021). A Decision Support System for Tuberculosis Prevalence in South Africa. In Computational Science and Its Applications. Springer International Publishing.

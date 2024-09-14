@@ -3,7 +3,7 @@
 \docType{data}
 \name{chds}
 \alias{chds}
-\title{Chds Bayesian Network}
+\title{chds Bayesian Network}
 \format{
 A discrete Bayesian network looking at the effect the family’s social background, the economic status and the number of family life events have on the child’s health which is measured by rates of hospital admission. The Bayesian network is learned as in the referenced paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network looking at the effect the family’s social backgrou
 }
 }
 \description{
-Refining a Bayesian network using a chain event graph
+Refining a Bayesian network using a chain event graph.
 }
 \references{
 Barclay, L. M., Hutton, J. L., & Smith, J. Q. (2013). Refining a Bayesian network using a chain event graph. International Journal of Approximate Reasoning, 54(9), 1300-1309.

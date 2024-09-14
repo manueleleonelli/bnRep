@@ -3,7 +3,7 @@
 \docType{data}
 \name{nanomaterials1}
 \alias{nanomaterials1}
-\title{Nanomaterial Bayesian Networks}
+\title{nanomaterial Bayesian Networks}
 \format{
 A discrete Bayesian network for the assessment of the occupational risk associated with the handling of nanomaterials in research laboratories (before expert opinion). Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -59,7 +59,7 @@ A discrete Bayesian network for the assessment of the occupational risk associat
 }
 }
 \description{
-Probabilistic model for assessing occupational risk during the handling of nanomaterials
+Probabilistic model for assessing occupational risk during the handling of nanomaterials.
 }
 \references{
 Schmidt, J. R. A., Nogueira, D. J., Nassar, S. M., Vaz, V. P., da Silva, M. L. N., Vicentini, D. S., & Matias, W. G. (2020). Probabilistic model for assessing occupational risk during the handling of nanomaterials. Nanotoxicology, 14(9), 1258-1270.

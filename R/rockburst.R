@@ -1,7 +1,7 @@
-#' Rockburst Bayesian Network
+#' rockburst Bayesian Network
 #'
 #'
-#' Dynamic early warning of rockburst using microseismic multi-parameters based on Bayesian network
+#' Dynamic early warning of rockburst using microseismic multi-parameters based on Bayesian network.
 #' @usage NULL
 #'
 #' @format

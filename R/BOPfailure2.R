@@ -1,6 +1,6 @@
 #' BOPfailure Bayesian Networks
 #'
-#' Providing a comprehensive approach to oil well blowout risk assessment
+#' Providing a comprehensive approach to oil well blowout risk assessment.
 #'
 #' @usage NULL
 #'

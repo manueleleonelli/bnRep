@@ -3,7 +3,7 @@
 \docType{data}
 \name{diabetes}
 \alias{diabetes}
-\title{Diabetes Bayesian Network}
+\title{ciabetes Bayesian Network}
 \format{
 A discrete Bayesian network to predict whether or not a patient has diabetes, based on certain diagnostic measurements. The Bayesian network is learned as in the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network to predict whether or not a patient has diabetes, ba
 }
 }
 \description{
-Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package
+Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package.
 }
 \references{
 Leonelli, M., Ramanathan, R., & Wilkerson, R. L. (2023). Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package. Knowledge-Based Systems, 278, 110882.

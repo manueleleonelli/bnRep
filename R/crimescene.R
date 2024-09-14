@@ -1,6 +1,6 @@
-#' Crimescene Bayesian Network
+#' crimescene Bayesian Network
 #'
-#' How did the DNA of a suspect get to the crime scene? A practical study in DNA transfer during lock-picking
+#' How did the DNA of a suspect get to the crime scene? A practical study in DNA transfer during lock-picking.
 #'
 #' @usage NULL
 #'

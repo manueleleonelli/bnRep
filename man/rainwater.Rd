@@ -3,7 +3,7 @@
 \docType{data}
 \name{rainwater}
 \alias{rainwater}
-\title{Rainwater Bayesian Network}
+\title{rainwater Bayesian Network}
 \format{
 A discrete Bayesian network to predict if a given short-term time series leads to results similar to those obtained using a long-term time series. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network to predict if a given short-term time series leads t
 }
 }
 \description{
-Short-term instead of long-term rainfall time series in rainwater harvesting simulation in houses: An assessment using Bayesian Network
+Short-term instead of long-term rainfall time series in rainwater harvesting simulation in houses: An assessment using Bayesian Network.
 }
 \references{
 Geraldi, M. S., & Ghisi, E. (2019). Short-term instead of long-term rainfall time series in rainwater harvesting simulation in houses: An assessment using Bayesian Network. Resources, Conservation and Recycling, 144, 1-12.

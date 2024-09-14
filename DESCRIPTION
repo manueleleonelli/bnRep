@@ -10,7 +10,7 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 LazyData: true
-Imports: bnlearn, dplyr, DT, shiny, shinyjs, shinythemes
+Imports: bnlearn, dplyr, DT, qgraph,shiny, shinyjs, shinythemes
 URL: https://github.com/manueleleonelli/bnRep
 BugReports: https://github.com/manueleleonelli/bnRep/issues
 Depends: 

@@ -1,7 +1,7 @@
-#' Tubercolosis Bayesian Network
+#' tubercolosis Bayesian Network
 #'
 #'
-#' A decision support system for tuberculosis prevalence in South Africa
+#' A decision support system for tuberculosis prevalence in South Africa.
 #' @usage NULL
 #'
 #' @format

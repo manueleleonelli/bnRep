@@ -3,7 +3,7 @@
 \docType{data}
 \name{curacao3}
 \alias{curacao3}
-\title{Curacao Bayesian Networks}
+\title{curacao Bayesian Networks}
 \format{
 A discrete Bayesian network to determine land use suitability and potential conflicts for emerging land uses (Urban fabric BN). The probabilities were given in the referenced paper (input nodes are given a uniform distribution). The vertices are:
 \describe{
@@ -29,7 +29,7 @@ A discrete Bayesian network to determine land use suitability and potential conf
 }
 }
 \description{
-Supporting spatial planning with a novel method based on participatory Bayesian networks: An application in Curacao
+Supporting spatial planning with a novel method based on participatory Bayesian networks: An application in Curacao.
 }
 \references{
 Steward, R., Chopin, P., & Verburg, P. H. (2024). Supporting spatial planning with a novel method based on participatory Bayesian networks: An application in Curacao. Environmental Science & Policy, 156, 103733.

@@ -1,6 +1,6 @@
-#' Intensification Bayesian Network
+#' intensification Bayesian Network
 #'
-#' Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach
+#' Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach.
 #'
 #' @usage NULL
 #'

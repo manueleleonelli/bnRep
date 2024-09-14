@@ -3,7 +3,7 @@
 \docType{data}
 \name{algorithms5}
 \alias{algorithms5}
-\title{Algorithms Bayesian Networks}
+\title{algorithms Bayesian Networks}
 \format{
 A conditional linear Gaussian Bayesian network to illustrate the algorithms developed in the associated paper (Figure 3, top). The probabilities were available from a repository. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A conditional linear Gaussian Bayesian network to illustrate the algorithms deve
 }
 }
 \description{
-Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation
+Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation.
 }
 \references{
 Scutari, M. (2024). Entropy and the Kullback-Leibler Divergence for Bayesian Networks: Computational Complexity and Efficient Implementation. Algorithms, 17(1), 24.

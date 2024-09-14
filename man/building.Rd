@@ -3,7 +3,7 @@
 \docType{data}
 \name{building}
 \alias{building}
-\title{Building Bayesian Network}
+\title{building Bayesian Network}
 \format{
 A Gaussian Bayesian network to assess the damage of reinforced concrete structures of buildings. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -34,7 +34,7 @@ A Gaussian Bayesian network to assess the damage of reinforced concrete structur
 }
 }
 \description{
-Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique
+Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique.
 }
 \references{
 Castillo, E., & Kjærulff, U. (2003). Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique. Reliability Engineering & System Safety, 79(2), 139-148.

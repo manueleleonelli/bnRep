@@ -3,7 +3,7 @@
 \docType{data}
 \name{flood}
 \alias{flood}
-\title{Flood Bayesian Network}
+\title{flood Bayesian Network}
 \format{
 A discrete Bayesian network to analyse land use tillage practices for flood management, considering climate, soilscape, slope, and farming systems. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -32,7 +32,7 @@ A discrete Bayesian network to analyse land use tillage practices for flood mana
 }
 }
 \description{
-A trade-off between farm production and flood alleviation using land use tillage preferences as a natural flood management (NFM) strategy
+A trade-off between farm production and flood alleviation using land use tillage preferences as a natural flood management (NFM) strategy.
 }
 \references{
 Ali, Q. (2023). A trade-off between farm production and flood alleviation using land use tillage preferences as a natural flood management (NFM) strategy. Smart Agricultural Technology, 6, 100361.

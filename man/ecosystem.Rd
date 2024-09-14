@@ -3,7 +3,7 @@
 \docType{data}
 \name{ecosystem}
 \alias{ecosystem}
-\title{Ecosystem Bayesian Network}
+\title{ecosystem Bayesian Network}
 \format{
 A discrete Bayesian network to infer the supply and demand match for cultural ecosystem services. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -23,7 +23,7 @@ A discrete Bayesian network to infer the supply and demand match for cultural ec
 }
 }
 \description{
-Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China
+Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China.
 }
 \references{
 Wu, J., Jin, X., Wang, H., & Feng, Z. (2022). Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China. Ecological Indicators, 142, 109165.

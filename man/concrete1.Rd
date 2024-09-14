@@ -3,7 +3,7 @@
 \docType{data}
 \name{concrete1}
 \alias{concrete1}
-\title{Concrete Bayesian Networks}
+\title{concrete Bayesian Networks}
 \format{
 A discrete Bayesian network for evaluating the presence probability of blue concrete (Model 1.1 of the referenced paper). Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network for evaluating the presence probability of blue conc
 }
 }
 \description{
-Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks
+Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks.
 }
 \references{
 Wu, P. Y., Johansson, T., Mangold, M., Sandels, C., & Mjornell, K. (2023). Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks. Expert Systems with Applications, 222, 119812.

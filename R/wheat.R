@@ -1,6 +1,6 @@
-#' Wheat Bayesian Network
+#' wheat Bayesian Network
 #'
-#' Embedding expert opinion in a Bayesian network model to predict wheat yield from spring-summer weather
+#' Embedding expert opinion in a Bayesian network model to predict wheat yield from spring-summer weather.
 #'
 #' @usage NULL
 #'

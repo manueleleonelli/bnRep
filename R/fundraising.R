@@ -1,6 +1,6 @@
-#' Fundraising Bayesian Network
+#' fundraising Bayesian Network
 #'
-#' A coupled mathematical model of the dissemination route of short-term fund-raising fraud
+#' A coupled mathematical model of the dissemination route of short-term fund-raising fraud.
 #'
 #' @usage NULL
 #'

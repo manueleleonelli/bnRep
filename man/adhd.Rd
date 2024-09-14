@@ -3,7 +3,7 @@
 \docType{data}
 \name{adhd}
 \alias{adhd}
-\title{ADHD Bayesian Network}
+\title{adhd Bayesian Network}
 \format{
 A discrete Bayesian network to classify ADHD symptom. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -29,7 +29,7 @@ A discrete Bayesian network to classify ADHD symptom. Probabilities were given w
 }
 }
 \description{
-Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification
+Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification.
 }
 \references{
 Jiang, Z., Ma, W., Flory, K., Zhang, D., Zhou, W., Shi, D., ... & Liu, R. (2023). Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification. Current Psychology, 42(22), 19230-19240.

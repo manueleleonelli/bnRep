@@ -1,6 +1,6 @@
-#' Adversarialbehavior Bayesian Network
+#' adversarialbehavior Bayesian Network
 #'
-#' Inferring adversarial behaviour in cyber-physical power systems using a Bayesian attack graph approach
+#' Inferring adversarial behaviour in cyber-physical power systems using a Bayesian attack graph approach.
 #'
 #' @usage NULL
 #'

@@ -1,6 +1,6 @@
-#' Electrolysis Bayesian Network
+#' electrolysis Bayesian Network
 #'
-#' Safety analysis of proton exchange membrane water electrolysis system
+#' Safety analysis of proton exchange membrane water electrolysis system.
 #' @usage NULL
 #'
 #' @format

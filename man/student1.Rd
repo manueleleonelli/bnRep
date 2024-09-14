@@ -3,7 +3,7 @@
 \docType{data}
 \name{student1}
 \alias{student1}
-\title{Student Bayesian Networks}
+\title{student Bayesian Networks}
 \format{
 A discrete Bayesian network modeling students' achievement in the secondary education of two Portuguese schools in 2005–2006 in the Portuguese subject. The DAG was taken from the referenced paper and the probabilities learned from the associated dataset. The vertices are:
 \describe{
@@ -36,7 +36,7 @@ A discrete Bayesian network modeling students' achievement in the secondary educ
 }
 }
 \description{
-A survey on datasets for fairness-aware machine learning
+A survey on datasets for fairness-aware machine learning.
 }
 \references{
 Le Quy, T., Roy, A., Iosifidis, V., Zhang, W., & Ntoutsi, E. (2022). A survey on datasets for fairness-aware machine learning. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 12(3), e1452.

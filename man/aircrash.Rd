@@ -3,7 +3,7 @@
 \docType{data}
 \name{aircrash}
 \alias{aircrash}
-\title{Aircrash Bayesian Network}
+\title{aircrash Bayesian Network}
 \format{
 A discrete Bayesian network to model the relationships between analytical results, circumstantial evidence and the concentration of alcohol at the time of death in cases of air crash. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network to model the relationships between analytical result
 }
 }
 \description{
-Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes
+Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes.
 }
 \references{
 Maskell, P. D., & Jackson, G. (2020). Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes. Forensic Science International, 308, 110174.

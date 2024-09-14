@@ -1,6 +1,6 @@
-#' Income Bayesian Network
+#' income Bayesian Network
 #'
-#'  The FEDHC Bayesian network learning algorithm
+#'  The FEDHC Bayesian network learning algorithm.
 #'
 #' @usage NULL
 #'

@@ -3,7 +3,7 @@
 \docType{data}
 \name{fire}
 \alias{fire}
-\title{Fire Bayesian Network}
+\title{fire Bayesian Network}
 \format{
 A discrete Bayesian network to model causal relationship of psychological response at the initial stage of fire events. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -21,7 +21,7 @@ A discrete Bayesian network to model causal relationship of psychological respon
 }
 }
 \description{
-Psychological response in fire: A fuzzy Bayesian network approach using expert judgment
+Psychological response in fire: A fuzzy Bayesian network approach using expert judgment.
 }
 \references{
 Ramli, N., Ghani, N. A., Ahmad, N., & Hashim, I. H. M. (2021). Psychological response in fire: a fuzzy Bayesian network approach using expert judgment. Fire Technology, 57, 2305-2338.

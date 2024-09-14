@@ -1,6 +1,6 @@
-#' Simulation Bayesian Network
+#' simulation Bayesian Network
 #'
-#' Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment
+#' Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment.
 #'
 #' @usage NULL
 #'

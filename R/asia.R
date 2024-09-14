@@ -1,6 +1,6 @@
-#' Asia Bayesian Network
+#' asia Bayesian Network
 #'
-#' Local Computation with Probabilities on Graphical Structures and their Application to Expert Systems
+#' Local computation with probabilities on graphical structures and their application to expert systems.
 #'
 #' @usage NULL
 #'

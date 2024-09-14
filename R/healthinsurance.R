@@ -1,6 +1,6 @@
-#' Healthinsurance Bayesian Network
+#' healthinsurance Bayesian Network
 #'
-#' Discrete latent variables discovery and structure learning in mixed Bayesian networks
+#' Discrete latent variables discovery and structure learning in mixed Bayesian networks.
 #'
 #' @usage NULL
 #'

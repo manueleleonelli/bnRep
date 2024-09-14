@@ -3,7 +3,7 @@
 \docType{data}
 \name{urinary}
 \alias{urinary}
-\title{Urinary Bayesian Network}
+\title{urinary Bayesian Network}
 \format{
 A discrete Bayesian network to describe the causal relationships among variables relevant to paediatric urinary tract infections. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -46,7 +46,7 @@ A discrete Bayesian network to describe the causal relationships among variables
 }
 }
 \description{
-Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data
+Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data.
 }
 \references{
 Ramsay, J. A., Mascaro, S., Campbell, A. J., Foley, D. A., Mace, A. O., Ingram, P., ... & Wu, Y. (2022). Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data. BMC Medical Research Methodology, 22(1), 218.

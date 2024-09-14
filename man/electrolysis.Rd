@@ -3,7 +3,7 @@
 \docType{data}
 \name{electrolysis}
 \alias{electrolysis}
-\title{Electrolysis Bayesian Network}
+\title{electrolysis Bayesian Network}
 \format{
 A discrete Bayesian network to analyze evolving hazard scenarios, such as gas permeation/crossover during proton exchange membrane water electrolysis based on fluid dynamics and electrochemistry of electrolysis. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -26,7 +26,7 @@ A discrete Bayesian network to analyze evolving hazard scenarios, such as gas pe
 }
 }
 \description{
-Safety analysis of proton exchange membrane water electrolysis system
+Safety analysis of proton exchange membrane water electrolysis system.
 }
 \references{
 Liu, Y., Amin, M. T., Khan, F., & Pistikopoulos, E. N. (2023). Safety analysis of proton exchange membrane water electrolysis system. Journal of Environmental Chemical Engineering, 11(5), 110772.

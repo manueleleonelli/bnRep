@@ -3,7 +3,7 @@
 \docType{data}
 \name{intentionalattacks}
 \alias{intentionalattacks}
-\title{Intentionalattacks Bayesian Network}
+\title{intentionalattacks Bayesian Network}
 \format{
 A discrete Bayesian network modeling a floodgate in the Netherlands. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A discrete Bayesian network modeling a floodgate in the Netherlands. Probabiliti
 }
 }
 \description{
-Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures
+Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures.
 }
 \references{
 Chockalingam, S., Pieters, W., Teixeira, A. M., & van Gelder, P. (2023). Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures. Journal of Information Security and Applications, 75, 103497.

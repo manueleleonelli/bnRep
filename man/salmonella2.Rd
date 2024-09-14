@@ -3,7 +3,7 @@
 \docType{data}
 \name{salmonella2}
 \alias{salmonella2}
-\title{Salmonella Bayesian Networks}
+\title{salmonella Bayesian Networks}
 \format{
 A discrete Bayesian network to show the existence of dependencies between resistance to antimicrobials. Probabilities were given within the referenced paper. The vertices are (s stands for susceptible, r for resistant):
 \describe{
@@ -20,7 +20,7 @@ A discrete Bayesian network to show the existence of dependencies between resist
 }
 }
 \description{
-Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain
+Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain.
 }
 \references{
 Teng, K. T. Y., Aerts, M., Jaspers, S., Ugarte-Ruiz, M., Moreno, M. A., Saez, J. L., ... & Alvarez, J. (2022). Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain. BMC Veterinary Research, 18(1), 333.

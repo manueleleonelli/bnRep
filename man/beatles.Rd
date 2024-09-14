@@ -3,7 +3,7 @@
 \docType{data}
 \name{beatles}
 \alias{beatles}
-\title{Beatles Bayesian Network}
+\title{beatles Bayesian Network}
 \format{
 A discrete Bayesian modelling a situation where a member of the Beatles band might be dead. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -15,7 +15,7 @@ A discrete Bayesian modelling a situation where a member of the Beatles band mig
 }
 }
 \description{
-Measuring coherence with Bayesian networks
+Measuring coherence with Bayesian networks.
 }
 \references{
 Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395.

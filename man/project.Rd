@@ -3,7 +3,7 @@
 \docType{data}
 \name{project}
 \alias{project}
-\title{Project Bayesian Network}
+\title{project Bayesian Network}
 \format{
 A discrete Bayesian network  to analyze the criticality and possible impact of a project's failure on each other and on the entire portfolio. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -31,7 +31,7 @@ A discrete Bayesian network  to analyze the criticality and possible impact of a
 }
 }
 \description{
-A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects
+A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects.
 }
 \references{
 Ebnerasoul, M., Ghannadpour, S. F., & Haeri, A. (2023). A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects. Environment, Development and Sustainability, 25(12), 13981-14001.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{corticosteroid}
 \alias{corticosteroid}
-\title{Corticosteroid Bayesian Network}
+\title{corticosteroid Bayesian Network}
 \format{
 A discrete Bayesian network to compute the conditional probability of complete clinical response and remission. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -13,7 +13,7 @@ A discrete Bayesian network to compute the conditional probability of complete c
 }
 }
 \description{
-Corticosteroid discontinuation, complete clinical response and remission in juvenile dermatomyositis
+Corticosteroid discontinuation, complete clinical response and remission in juvenile dermatomyositis.
 }
 \references{
 Kishi, T., Warren-Hicks, W., Bayat, N., Targoff, I. N., Huber, A. M., Ward, M. M., ... & with the Childhood Myositis Heterogeneity Study Group. (2021). Corticosteroid discontinuation, complete clinical response and remission in juvenile dermatomyositis. Rheumatology, 60(5), 2134-2145.

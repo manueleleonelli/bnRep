@@ -3,7 +3,7 @@
 \docType{data}
 \name{enrollment}
 \alias{enrollment}
-\title{Enrollment Bayesian Network}
+\title{enrollment Bayesian Network}
 \format{
 A discrete Bayesian network for sustainable enrollment plan configurations aimed at enhancing the advanced education rate. The probabilities were given in the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A discrete Bayesian network for sustainable enrollment plan configurations aimed
 }
 }
 \description{
-Research on evaluation methods for sustainable enrollment plan configurations in Chinese universities based on Bayesian networks
+Research on evaluation methods for sustainable enrollment plan configurations in Chinese universities based on Bayesian networks.
 }
 \references{
 Wang, K., Wang, T., Wang, T., & Cai, Z. (2024). Research on Evaluation Methods for Sustainable Enrollment Plan Configurations in Chinese Universities Based on Bayesian Networks. Sustainability, 16(7), 2998.

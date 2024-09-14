@@ -1,6 +1,6 @@
-#' Yangtze Bayesian Network
+#' yangtze Bayesian Network
 #'
-#' Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary
+#' Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary.
 #'
 #' @usage NULL
 #'

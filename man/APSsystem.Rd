@@ -20,7 +20,7 @@ A discrete Bayesian network for data quality assessment. Probabilities were give
 }
 }
 \description{
-An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks
+An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks.
 }
 \references{
 Herrmann, J. P., Tackenberg, S., Padoano, E., Hartlief, J., Rautenstengel, J., Loeser, C., & Böhme, J. (2022). An ERP Data Quality Assessment Framework for the Implementation of an APS system using Bayesian Networks. Procedia Computer Science, 200, 194-204.

@@ -1,0 +1,11 @@
+bibentry(
+  bibtype  = "Article",
+  title    = "bnRep: A repository of {Bayesian} networks from the academic literature",
+  author   = "Leonelli, Manuele",
+  journal  = "ArXiv",
+  year     = "2024",
+  volume   = "NA",
+  number   = "NA",
+  pages    = "NA",
+  doi      = "NA"
+)

@@ -1,6 +1,6 @@
-#' Conasense Bayesian Network
+#' conasense Bayesian Network
 #'
-#' Bayesian Neural Networks for 6G CONASENSE Services
+#' Bayesian neural networks for 6G CONASENSE services.
 #'
 #' @usage NULL
 #'

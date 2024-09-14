@@ -1,7 +1,7 @@
-#' Gonorrhoeae Bayesian Network
+#' gonorrhoeae Bayesian Network
 #'
 #'
-#' Policy, practice, and prediction: model-based approaches to evaluating N. gonorrhoeae antibiotic susceptibility test uptake in Australia
+#' Policy, practice, and prediction: model-based approaches to evaluating N. gonorrhoeae antibiotic susceptibility test uptake in Australia.
 #' @usage NULL
 #'
 #' @format

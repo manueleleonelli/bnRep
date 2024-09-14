@@ -3,7 +3,7 @@
 \docType{data}
 \name{parkinson}
 \alias{parkinson}
-\title{Parkinson Bayesian Network}
+\title{parkinson Bayesian Network}
 \format{
 A Gaussian Bayesian network to simulate a down-expression of the putative drug target CD33, including potential impact on cognitive impairment and brain pathophysiology. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -44,7 +44,7 @@ A Gaussian Bayesian network to simulate a down-expression of the putative drug t
 }
 }
 \description{
-AI reveals insights into link between CD33 and cognitive impairment in Alzheimer's Disease
+AI reveals insights into link between CD33 and cognitive impairment in Alzheimer's disease.
 }
 \references{
 Raschka, T., Sood, M., Schultz, B., Altay, A., Ebeling, C., & Frohlich, H. (2023). AI reveals insights into link between CD33 and cognitive impairment in Alzheimer's Disease. PLOS Computational Biology, 19(2), e1009894.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{oildepot}
 \alias{oildepot}
-\title{Oildepot Bayesian Network}
+\title{oildepot Bayesian Network}
 \format{
 A discrete Bayesian network for failure risk analysis of oil storage tank leakage. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -51,7 +51,7 @@ A discrete Bayesian network for failure risk analysis of oil storage tank leakag
 }
 }
 \description{
-Dynamic risk analysis of oil depot storage tank failure using a fuzzy Bayesian network model
+Dynamic risk analysis of oil depot storage tank failure using a fuzzy Bayesian network model.
 }
 \references{
 Zhou, Q. Y., Li, B., Lu, Y., Chen, J., Shu, C. M., & Bi, M. S. (2023). Dynamic risk analysis of oil depot storage tank failure using a fuzzy Bayesian network model. Process Safety and Environmental Protection, 173, 800-811.

@@ -1,6 +1,6 @@
-#' Oxygen Bayesian Network
+#' oxygen Bayesian Network
 #'
-#' Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic
+#' Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic.
 #' @usage NULL
 #'
 #' @format

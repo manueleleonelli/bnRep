@@ -3,7 +3,7 @@
 \docType{data}
 \name{tbm}
 \alias{tbm}
-\title{TBM Bayesian Network}
+\title{tbm Bayesian Network}
 \format{
 A discrete Bayesian network  to assess the risk of tunnel boring machine jamming. The Bayesian network was learned as in the referenced paper. The vertices are:
 \describe{
@@ -20,7 +20,7 @@ A discrete Bayesian network  to assess the risk of tunnel boring machine jamming
 }
 }
 \description{
-Risk assessment of TBM jamming based on Bayesian networks
+Risk assessment of TBM jamming based on Bayesian networks.
 }
 \references{
 Lin, P., Xiong, Y., Xu, Z., Wang, W., & Shao, R. (2022). Risk assessment of TBM jamming based on Bayesian networks. Bulletin of Engineering Geology and the Environment, 81, 1-15.

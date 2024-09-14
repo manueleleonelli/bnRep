@@ -3,7 +3,7 @@
 \docType{data}
 \name{burglar}
 \alias{burglar}
-\title{Burglar Bayesian Network}
+\title{burglar Bayesian Network}
 \format{
 A discrete Bayesian network modeling a simple burglary scenario (Model 1, Table 2). The network was available from an associated repository. The vertices are:
 \describe{
@@ -13,7 +13,7 @@ A discrete Bayesian network modeling a simple burglary scenario (Model 1, Table 
 }
 }
 \description{
-Strategies for selecting and evaluating information
+Strategies for selecting and evaluating information.
 }
 \references{
 Liefgreen, A., Pilditch, T., & Lagnado, D. (2020). Strategies for selecting and evaluating information. Cognitive Psychology, 123, 101332.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{vessel1}
 \alias{vessel1}
-\title{Vessel Bayesian Networks}
+\title{vessel Bayesian Networks}
 \format{
 A discrete Bayesian network to understand the occurrence of accidents in fishing vessels and to estimate the occurrence of accidents in variable conditions (Sinking, Fig. 1). Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -26,7 +26,7 @@ A discrete Bayesian network to understand the occurrence of accidents in fishing
 }
 }
 \description{
-Analysis of fishing vessel accidents with Bayesian network and Chi-square methods
+Analysis of fishing vessel accidents with Bayesian network and Chi-square methods.
 }
 \references{
 Ugurlu, F., Yildiz, S., Boran, M., Ugurlu, O., & Wang, J. (2020). Analysis of fishing vessel accidents with Bayesian network and Chi-square methods. Ocean Engineering, 198, 106956.

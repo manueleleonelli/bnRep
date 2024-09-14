@@ -3,7 +3,7 @@
 \docType{data}
 \name{fundraising}
 \alias{fundraising}
-\title{Fundraising Bayesian Network}
+\title{fundraising Bayesian Network}
 \format{
 A discrete Bayesian network to analyze the dissemination, identification, and causation of fund-raising fraud. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A discrete Bayesian network to analyze the dissemination, identification, and ca
 }
 }
 \description{
-A coupled mathematical model of the dissemination route of short-term fund-raising fraud
+A coupled mathematical model of the dissemination route of short-term fund-raising fraud.
 }
 \references{
 Yang, S., Su, K., Wang, B., & Xu, Z. (2022). A coupled mathematical model of the dissemination route of short-term fund-raising fraud. Mathematics, 10(10), 1709.

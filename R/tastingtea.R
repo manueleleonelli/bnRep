@@ -1,7 +1,7 @@
-#' Tastingtea Bayesian Network
+#' tastingtea Bayesian Network
 #'
 #'
-#' A Bayesian network for modelling the Lady tasting tea experiment
+#' A Bayesian network for modelling the Lady tasting tea experiment.
 #' @usage NULL
 #'
 #' @format

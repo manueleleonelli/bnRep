@@ -3,7 +3,7 @@
 \docType{data}
 \name{crimescene}
 \alias{crimescene}
-\title{Crimescene Bayesian Network}
+\title{crimescene Bayesian Network}
 \format{
 A discrete Bayesian network to study DNA transfer during lock-picking. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network to study DNA transfer during lock-picking. Probabili
 }
 }
 \description{
-How did the DNA of a suspect get to the crime scene? A practical study in DNA transfer during lock-picking
+How did the DNA of a suspect get to the crime scene? A practical study in DNA transfer during lock-picking.
 }
 \references{
 Mayuoni-Kirshenbaum, L., Waiskopf, O., Finkelstein, N., & Pasternak, Z. (2022). How did the DNA of a suspect get to the crime scene? A practical study in DNA transfer during lock-picking. Australian Journal of Forensic Sciences, 54(1), 15-25.

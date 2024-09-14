@@ -1,4 +1,4 @@
-#' bnRep: A repository of Bayesian network models
+#' bnRep: A Repository of Bayesian Network Models
 #'
 #' A repository of discrete, Gaussian, and conditional linear Gaussian Bayesian networks from the recent academic literature.
 #'

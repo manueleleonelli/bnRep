@@ -3,7 +3,7 @@
 \docType{data}
 \name{soil}
 \alias{soil}
-\title{Soil Bayesian Network}
+\title{soil Bayesian Network}
 \format{
 A discrete Bayesian network  to display the water treatment impact on soil characteristics. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network  to display the water treatment impact on soil chara
 }
 }
 \description{
-Characteristic study of some parameters of soil irrigated by magnetized waters
+Characteristic study of some parameters of soil irrigated by magnetized waters.
 }
 \references{
 Ben Amor, H., Elaoud, A., Ben Hassen, H., Ben Salah, N., Masmoudi, A., & Elmoueddeb, K. (2020). Characteristic study of some parameters of soil irrigated by magnetized waters. Arabian Journal of Geosciences, 13, 1-11.

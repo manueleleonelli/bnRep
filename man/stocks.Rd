@@ -3,7 +3,7 @@
 \docType{data}
 \name{stocks}
 \alias{stocks}
-\title{Stocks Bayesian Network}
+\title{stocks Bayesian Network}
 \format{
 A Gaussian Bayesian network to explore the causal relations between the healthcare, food, and energy sectors. The probabilities were given in the paper. The vertices are:
 \describe{
@@ -23,7 +23,7 @@ A Gaussian Bayesian network to explore the causal relations between the healthca
 }
 }
 \description{
-Gaussian Bayesian network model of healthcare, food and energy sectors in the pandemic: Turkiye case
+Gaussian Bayesian network model of healthcare, food and energy sectors in the pandemic: Turkiye case.
 }
 \references{
 Sener, E., & Demir, I. (2024). Gaussian Bayesian network model of healthcare, food and energy sectors in the pandemic: Turkiye case. Heliyon, 10(1).

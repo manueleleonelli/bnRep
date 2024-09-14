@@ -1,6 +1,6 @@
-#' Lexical Bayesian Network
+#' lexical Bayesian Network
 #'
-#' Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics
+#' Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics.
 #' @usage NULL
 #'
 #' @format

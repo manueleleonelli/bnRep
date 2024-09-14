@@ -1,6 +1,6 @@
-#' Megacities Bayesian Network
+#' megacities Bayesian Network
 #'
-#' Air pollution risk assessment related to fossil fuel-driven vehicles in megacities in China by employing the Bayesian network coupled with the Fault Tree method
+#' Air pollution risk assessment related to fossil fuel-driven vehicles in megacities in China by employing the Bayesian network coupled with the fault tree method.
 #' @usage NULL
 #'
 #' @format

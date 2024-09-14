@@ -1,6 +1,6 @@
-#' Parkinson Bayesian Network
+#' parkinson Bayesian Network
 #'
-#' AI reveals insights into link between CD33 and cognitive impairment in Alzheimer's Disease
+#' AI reveals insights into link between CD33 and cognitive impairment in Alzheimer's disease.
 #' @usage NULL
 #'
 #' @format

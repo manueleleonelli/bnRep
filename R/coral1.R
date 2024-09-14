@@ -1,7 +1,7 @@
-#' Coral Bayesian Networks
+#' coral Bayesian Networks
 #'
 #'
-#' Assessing coral reef condition indicators for local and global stressors using Bayesian networks
+#' Assessing coral reef condition indicators for local and global stressors using Bayesian networks.
 #' @usage NULL
 #'
 #' @format

@@ -1,6 +1,6 @@
-#' Waterlead Bayesian Network
+#' waterlead Bayesian Network
 #'
-#' Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks
+#' Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks.
 #'
 #' @usage NULL
 #'

@@ -1,6 +1,6 @@
-#' Darktriad Bayesian Network
+#' darktriad Bayesian Network
 #'
-#' Bayesian Network modeling for Dark Triad, aggression, and empathy
+#' Bayesian Network modeling for Dark Triad, aggression, and empathy.
 #'
 #' @usage NULL
 #'

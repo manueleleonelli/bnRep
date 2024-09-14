@@ -3,7 +3,7 @@
 \docType{data}
 \name{phdarticles}
 \alias{phdarticles}
-\title{Phdarticles Bayesian Network}
+\title{phdarticles Bayesian Network}
 \format{
 A discrete Bayesian network modeling factors affecting the number of publications of PhD students. The Bayesian network is learned as in the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network modeling factors affecting the number of publication
 }
 }
 \description{
-The R package stagedtrees for structural learning of stratified staged trees
+The R package stagedtrees for structural learning of stratified staged trees.
 }
 \references{
 Carli, F., Leonelli, M., Riccomagno, E., & Varando, G. (2022). The R Package stagedtrees for Structural Learning of Stratified Staged Trees. Journal of Statistical Software, 102, 1-30.

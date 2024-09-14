@@ -1,6 +1,6 @@
-#' Onlinerisk Bayesian Network
+#' onlinerisk Bayesian Network
 #'
-#' Online risk modeling of autonomous marine systems: Case study of autonomous operations under sea ice
+#' Online risk modeling of autonomous marine systems: Case study of autonomous operations under sea ice.
 #'
 #' @usage NULL
 #'

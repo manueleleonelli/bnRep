@@ -3,7 +3,7 @@
 \docType{data}
 \name{accidents}
 \alias{accidents}
-\title{Accidents Bayesian Network}
+\title{accidents Bayesian Network}
 \format{
 A discrete Bayesian network to provide transport authorities and ship owners with useful insights for maritime accident prevention. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -27,7 +27,7 @@ A discrete Bayesian network to provide transport authorities and ship owners wit
 }
 }
 \description{
-Analysis of maritime transport accidents using Bayesian networks
+Analysis of maritime transport accidents using Bayesian networks.
 }
 \references{
 Fan, S., Yang, Z., Blanco-Davis, E., Zhang, J., & Yan, X. (2020). Analysis of maritime transport accidents using Bayesian networks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, 234(3), 439-454.

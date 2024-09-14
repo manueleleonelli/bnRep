@@ -1,6 +1,6 @@
-#' ADHD Bayesian Network
+#' adhd Bayesian Network
 #'
-#' Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification
+#' Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification.
 #'
 #' @usage NULL
 #'

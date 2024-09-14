@@ -3,7 +3,7 @@
 \docType{data}
 \name{simulation}
 \alias{simulation}
-\title{Simulation Bayesian Network}
+\title{simulation Bayesian Network}
 \format{
 A discrete Bayesian network to assist asset managers in evaluating the risk arising from the operations. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network to assist asset managers in evaluating the risk aris
 }
 }
 \description{
-Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment
+Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment.
 }
 \references{
 Leoni, L., & De Carlo, F. (2023). Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment. Journal of Loss Prevention in the Process Industries, 83, 105081.

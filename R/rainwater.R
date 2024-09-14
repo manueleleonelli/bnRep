@@ -1,6 +1,6 @@
-#' Rainwater Bayesian Network
+#' rainwater Bayesian Network
 #'
-#' Short-term instead of long-term rainfall time series in rainwater harvesting simulation in houses: An assessment using Bayesian Network
+#' Short-term instead of long-term rainfall time series in rainwater harvesting simulation in houses: An assessment using Bayesian Network.
 #'
 #' @usage NULL
 #'

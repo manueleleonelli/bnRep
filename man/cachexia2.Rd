@@ -3,7 +3,7 @@
 \docType{data}
 \name{cachexia2}
 \alias{cachexia2}
-\title{Cachexia Bayesian Networks}
+\title{cachexia Bayesian Networks}
 \format{
 A Gaussian Bayesian networks comparing the dependence of metabolomics for people who do not suffer of Cachexia. The Bayesian network is learned as in the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A Gaussian Bayesian networks comparing the dependence of metabolomics for people
 }
 }
 \description{
-Model-preserving sensitivity analysis for families of Gaussian distributions
+Model-preserving sensitivity analysis for families of Gaussian distributions.
 }
 \references{
 Gorgen, C., & Leonelli, M. (2020). Model-preserving sensitivity analysis for families of Gaussian distributions. Journal of Machine Learning Research, 21(84), 1-32.

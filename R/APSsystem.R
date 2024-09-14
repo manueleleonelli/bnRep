@@ -1,6 +1,6 @@
 #' APSsystem Bayesian Network
 #'
-#' An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks
+#' An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks.
 #'
 #'
 #' @format

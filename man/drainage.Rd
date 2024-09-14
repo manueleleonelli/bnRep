@@ -3,7 +3,7 @@
 \docType{data}
 \name{drainage}
 \alias{drainage}
-\title{Drainage Bayesian Network}
+\title{drainage Bayesian Network}
 \format{
 A discrete Bayesian network for fault diagnosis of a coal mine drainage system. The probabilities were available from a repository. The vertices are:
 \describe{
@@ -21,7 +21,7 @@ A discrete Bayesian network for fault diagnosis of a coal mine drainage system. 
 }
 }
 \description{
-Fuzzy Bayesian network fault diagnosis method based on fault tree for coal mine drainage system
+Fuzzy Bayesian network fault diagnosis method based on fault tree for coal mine drainage system.
 }
 \references{
 Shi, X., Gu, H., & Yao, B. (2024). Fuzzy Bayesian Network Fault Diagnosis Method Based on Fault Tree for Coal Mine Drainage System. IEEE Sensors Journal.

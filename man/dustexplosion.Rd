@@ -3,7 +3,7 @@
 \docType{data}
 \name{dustexplosion}
 \alias{dustexplosion}
-\title{Dustexplosion Bayesian Network}
+\title{dustexplosion Bayesian Network}
 \format{
 A discrete Bayesian network for the accurate solution of scenario state probability. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -36,7 +36,7 @@ A discrete Bayesian network for the accurate solution of scenario state probabil
 }
 }
 \description{
-Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network
+Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network.
 }
 \references{
 Pang, L., Zhang, M., Yang, K., & Sun, S. (2023). Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network. Journal of Loss Prevention in the Process Industries, 83, 105055.

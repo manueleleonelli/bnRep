@@ -1,6 +1,6 @@
-#' Argument Bayesian Network
+#' argument Bayesian Network
 #'
-#' Towards an empirically informed normative Bayesian scheme-based account of argument from expert opinion
+#' Towards an empirically informed normative Bayesian scheme-based account of argument from expert opinion.
 #' @usage NULL
 #'
 #' @format

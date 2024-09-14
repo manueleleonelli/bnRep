@@ -3,7 +3,7 @@
 \docType{data}
 \name{coral2}
 \alias{coral2}
-\title{Coral Bayesian Networks}
+\title{coral Bayesian Networks}
 \format{
 A discrete Bayesian network for the evaluation of threats to reef condition globally (recently killed corals). The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A discrete Bayesian network for the evaluation of threats to reef condition glob
 }
 }
 \description{
-Assessing coral reef condition indicators for local and global stressors using Bayesian networks
+Assessing coral reef condition indicators for local and global stressors using Bayesian networks.
 }
 \references{
 Carriger, J. F., Yee, S. H., & Fisher, W. S. (2021). Assessing coral reef condition indicators for local and global stressors using Bayesian networks. Integrated Environmental Assessment and Management, 17(1), 165-187.

@@ -30,6 +30,6 @@ A data frame with a row for each BN in \code{bnRep} and the following columns:
 bnRep_summary
 }
 \description{
-Summary of the Bayesian networks in \code{bnRep} reporting various graph, definition and application details
+Summary of the Bayesian networks in \code{bnRep} reporting various graph, definition and application details.
 }
 \keyword{Datasets}

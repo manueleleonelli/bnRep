@@ -1,6 +1,6 @@
-#' Constructionproductivity Bayesian Network
+#' constructionproductivity Bayesian Network
 #'
-#' Construction productivity prediction through Bayesian networks for building projects: case from Vietnam
+#' Construction productivity prediction through Bayesian networks for building projects: case from Vietnam.
 #'
 #' @usage NULL
 #'

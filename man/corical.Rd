@@ -3,7 +3,7 @@
 \docType{data}
 \name{corical}
 \alias{corical}
-\title{Corical Bayesian Network}
+\title{corical Bayesian Network}
 \format{
 A discrete Bayesian network to perform risk-benefit analysis of vaccination. The probabilities were given in the referenced paper. The vertices are:
 \describe{
@@ -30,7 +30,7 @@ A discrete Bayesian network to perform risk-benefit analysis of vaccination. The
 }
 }
 \description{
-Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a Bayesian network modelling framework
+Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a Bayesian network modelling framework.
 }
 \references{
 Lau, C. L., Mayfield, H. J., Sinclair, J. E., Brown, S. J., Waller, M., Enjeti, A. K., ... & Litt, J. (2021). Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a Bayesian network modelling framework. Vaccine, 39(51), 7429-7440.

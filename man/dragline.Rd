@@ -3,7 +3,7 @@
 \docType{data}
 \name{dragline}
 \alias{dragline}
-\title{Dragline Bayesian Network}
+\title{dragline Bayesian Network}
 \format{
 A discrete Bayesian network for the evaluation of the reliability of a draglines system. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -61,7 +61,7 @@ A discrete Bayesian network for the evaluation of the reliability of a draglines
 }
 }
 \description{
-Bayesian network approach for dragline reliability analysis: A case study
+Bayesian network approach for dragline reliability analysis: A case study.
 }
 \references{
 Kumar, D., Jana, D., Gupta, S., & Yadav, P. K. (2023). Bayesian network approach for dragline reliability analysis: A case study. Mining, Metallurgy & Exploration, 40(1), 347-365.

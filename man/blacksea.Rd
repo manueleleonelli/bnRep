@@ -3,7 +3,7 @@
 \docType{data}
 \name{blacksea}
 \alias{blacksea}
-\title{Blacksea Bayesian Network}
+\title{blacksea Bayesian Network}
 \format{
 A discrete Bayesian network to analyze the marine accidents. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -58,7 +58,7 @@ A discrete Bayesian network to analyze the marine accidents. The probabilities w
 }
 }
 \description{
-Analyzing collision, grounding, and sinking accidents occurring in the Black Sea utilizing HFACS and Bayesian networks
+Analyzing collision, grounding, and sinking accidents occurring in the Black Sea utilizing HFACS and Bayesian networks.
 }
 \references{
 Ugurlu, O., Yildiz, S., Loughney, S., Wang, J., Kuntchulia, S., & Sharabidze, I. (2020). Analyzing collision, grounding, and sinking accidents occurring in the Black Sea utilizing HFACS and Bayesian networks. Risk analysis, 40(12), 2610-2638.

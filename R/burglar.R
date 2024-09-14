@@ -1,7 +1,7 @@
-#' Burglar Bayesian Network
+#' burglar Bayesian Network
 #'
 #'
-#' Strategies for selecting and evaluating information
+#' Strategies for selecting and evaluating information.
 #' @usage NULL
 #'
 #' @format

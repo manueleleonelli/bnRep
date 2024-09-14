@@ -1,6 +1,6 @@
-#' Turbine Bayesian Networks
+#' turbine Bayesian Networks
 #'
-#' Potential use of Bayesian Networks for estimating relationship among rotational dynamics of floating offshore wind turbine tower in extreme environmental conditions
+#' Potential use of Bayesian Networks for estimating relationship among rotational dynamics of floating offshore wind turbine tower in extreme environmental conditions.
 #' @usage NULL
 #'
 #' @format

@@ -1,6 +1,6 @@
-#' Cachexia Bayesian Networks
+#' cachexia Bayesian Networks
 #'
-#' Model-preserving sensitivity analysis for families of Gaussian distributions
+#' Model-preserving sensitivity analysis for families of Gaussian distributions.
 #'
 #' @usage NULL
 #'

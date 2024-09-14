@@ -3,7 +3,7 @@
 \docType{data}
 \name{cng}
 \alias{cng}
-\title{Cng Bayesian Network}
+\title{cng Bayesian Network}
 \format{
 A discrete Bayesian network for risk assessment in compressed natural gas (CNG) stations. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -96,7 +96,7 @@ A discrete Bayesian network for risk assessment in compressed natural gas (CNG) 
 }
 }
 \description{
-Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling
+Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling.
 }
 \references{
 Abbasi Kharajou, B., Ahmadi, H., Rafiei, M., & Moradi Hanifi, S. (2024). Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling. Scientific Reports, 14(1), 4266.

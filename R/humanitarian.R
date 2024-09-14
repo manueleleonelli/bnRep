@@ -1,6 +1,6 @@
-#' Humanitarian Bayesian Network
+#' humanitarian Bayesian Network
 #'
-#' You only derive once (YODO): Automatic differentiation for efficient sensitivity analysis in Bayesian networks
+#' You only derive once (YODO): Automatic differentiation for efficient sensitivity analysis in Bayesian networks.
 #' @usage NULL
 #'
 #' @format

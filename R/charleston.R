@@ -1,7 +1,7 @@
-#' Charleston Bayesian Network
+#' charleston Bayesian Network
 #'
 #'
-#' Parameterization framework and quantiﬁcation approach for integrated risk and resilience assessments
+#' Parameterization framework and quantiﬁcation approach for integrated risk and resilience assessments.
 #' @usage NULL
 #'
 #' @format

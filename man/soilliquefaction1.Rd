@@ -3,7 +3,7 @@
 \docType{data}
 \name{soilliquefaction1}
 \alias{soilliquefaction1}
-\title{Soilliquefaction Bayesian Networks}
+\title{soilliquefaction Bayesian Networks}
 \format{
 A discrete Bayesian network to evaluate the earthquake-induced liquefaction potential of soil based on the cone penetration test field case history records (Fig. 1.a). The data was available in the reference paper and was discretized as suggested in the paper. The DAGs were given in the paper and probabilities were learned using the Bayes method with imaginary sample size of one. The vertices are:
 \describe{
@@ -17,7 +17,7 @@ A discrete Bayesian network to evaluate the earthquake-induced liquefaction pote
 }
 }
 \description{
-Application of machine learning algorithms for the evaluation of seismic soil liquefaction potential
+Application of machine learning algorithms for the evaluation of seismic soil liquefaction potential.
 }
 \references{
 Ahmad, M., Tang, X. W., Qiu, J. N., Ahmad, F., & Gu, W. J. (2021). Application of machine learning algorithms for the evaluation of seismic soil liquefaction potential. Frontiers of Structural and Civil Engineering, 15, 490-505.

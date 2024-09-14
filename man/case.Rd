@@ -3,7 +3,7 @@
 \docType{data}
 \name{case}
 \alias{case}
-\title{Case Bayesian Network}
+\title{case Bayesian Network}
 \format{
 A discrete Bayesian network for concrete legal fact idioms that qualify events in a narrative Bayesian network. The network was available from a public repository. The vertices are:
 \describe{
@@ -33,7 +33,7 @@ A discrete Bayesian network for concrete legal fact idioms that qualify events i
 }
 }
 \description{
-Building a stronger case: Combining evidence and law in scenario-based Bayesian networks
+Building a stronger case: Combining evidence and law in scenario-based Bayesian networks.
 }
 \references{
 Van Leeuwen, L., Verbrugge, R., Verheij, B., & Renooij, S. (2024, June). Building a Stronger Case: Combining Evidence and Law in Scenario-Based Bayesian Networks. In 3rd International Conference on Hybrid Human-Artificial Intelligence, HHAI 2024 (pp. 291-299). IOS Press.

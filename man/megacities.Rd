@@ -3,7 +3,7 @@
 \docType{data}
 \name{megacities}
 \alias{megacities}
-\title{Megacities Bayesian Network}
+\title{megacities Bayesian Network}
 \format{
 A discrete Bayesian network to quantitatively assess the risk factors of excess vehicle emissions and their impact on air quality for China's typical megacities. Probabilities were given within the referenced paper (the model refers to Beijing in 2014). The vertices are:
 \describe{
@@ -28,7 +28,7 @@ A discrete Bayesian network to quantitatively assess the risk factors of excess 
 }
 }
 \description{
-Air pollution risk assessment related to fossil fuel-driven vehicles in megacities in China by employing the Bayesian network coupled with the Fault Tree method
+Air pollution risk assessment related to fossil fuel-driven vehicles in megacities in China by employing the Bayesian network coupled with the fault tree method.
 }
 \references{
 Li, H., Huang, W., Qian, Y., & Klemes, J. J. (2023). Air pollution risk assessment related to fossil fuel-driven vehicles in megacities in China by employing the Bayesian network coupled with the Fault Tree method. Journal of Cleaner Production, 383, 135458.

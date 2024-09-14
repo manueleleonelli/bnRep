@@ -3,7 +3,7 @@
 \docType{data}
 \name{aerialvehicles}
 \alias{aerialvehicles}
-\title{Aerialvehicles Bayesian Network}
+\title{aerialvehicles Bayesian Network}
 \format{
 A discrete Bayesian network to analyze critical risks associated with unmanned aerial vehicles. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -37,7 +37,7 @@ A discrete Bayesian network to analyze critical risks associated with unmanned a
 }
 }
 \description{
-Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network
+Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network.
 }
 \references{
 Xiao, Q., Li, Y., Luo, F., & Liu, H. (2023). Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network. Technology in Society, 73, 102229.

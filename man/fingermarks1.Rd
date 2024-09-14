@@ -3,7 +3,7 @@
 \docType{data}
 \name{fingermarks1}
 \alias{fingermarks1}
-\title{Fingermarks Bayesian Networks}
+\title{fingermarks Bayesian Networks}
 \format{
 A discrete Bayesian network for the evaluation of fingermarks given activity level propositions. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -22,7 +22,7 @@ A discrete Bayesian network for the evaluation of fingermarks given activity lev
 }
 }
 \description{
-Using case specific experiments to evaluate fingermarks on knives given activity level propositions
+Using case specific experiments to evaluate fingermarks on knives given activity level propositions.
 }
 \references{
 de Ronde, A., Kokshoorn, B., de Puit, M., & de Poot, C. J. (2021). Using case specific experiments to evaluate fingermarks on knives given activity level propositions. Forensic Science International, 320, 110710.

@@ -1,6 +1,6 @@
-#' Pneumonia Bayesian Network
+#' pneumonia Bayesian Network
 #'
-#' Predicting the causative pathogen among children with pneumonia using a causal Bayesian network
+#' Predicting the causative pathogen among children with pneumonia using a causal Bayesian network.
 #' @usage NULL
 #'
 #' @format

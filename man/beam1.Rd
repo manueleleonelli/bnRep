@@ -3,7 +3,7 @@
 \docType{data}
 \name{beam1}
 \alias{beam1}
-\title{Beams Bayesian Network}
+\title{beams Bayesian Network}
 \format{
 A discrete Bayesian network assess the structural reliability of bridge systems (Figure 2). Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network assess the structural reliability of bridge systems 
 }
 }
 \description{
-Bayesian networks and their application to the reliability of FRP strengthened beams
+Bayesian networks and their application to the reliability of FRP strengthened beams.
 }
 \references{
 Obaid, O., & Leblouba, M. (2022, March). Bayesian Networks and Their Application to the Reliability of FRP Strengthened Beams. In International Civil Engineering and Architecture Conference (pp. 277-284). Singapore: Springer Nature Singapore.

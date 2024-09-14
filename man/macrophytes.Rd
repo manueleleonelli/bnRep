@@ -3,7 +3,7 @@
 \docType{data}
 \name{macrophytes}
 \alias{macrophytes}
-\title{Macrophytes Bayesian Network}
+\title{macrophytes Bayesian Network}
 \format{
 A discrete Bayesian network o assess the implications of macrophyte removal on interrelated ecosystem properties across a wide range of environmental conditions. The probabilities were given within the referenced paper (missing probabilities were given a uniform distribution). The vertices are:
 \describe{
@@ -25,7 +25,7 @@ A discrete Bayesian network o assess the implications of macrophyte removal on i
 }
 }
 \description{
-Mechanical removal of macrophytes in freshwater ecosystems: Implications for ecosystem structure and function
+Mechanical removal of macrophytes in freshwater ecosystems: Implications for ecosystem structure and function.
 }
 \references{
 Thiemer, K., Schneider, S. C., & Demars, B. O. (2021). Mechanical removal of macrophytes in freshwater ecosystems: Implications for ecosystem structure and function. Science of the Total Environment, 782, 146671.

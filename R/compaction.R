@@ -1,7 +1,7 @@
-#' Compaction Bayesian Network
+#' compaction Bayesian Network
 #'
 #'
-#' A Bayesian approach toward the use of qualitative information to inform on- farm decision making: The example of soil compaction
+#' A Bayesian approach toward the use of qualitative information to inform on-farm decision making: The example of soil compaction.
 #' @usage NULL
 #'
 #' @format

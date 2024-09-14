@@ -3,7 +3,7 @@
 \docType{data}
 \name{adversarialbehavior}
 \alias{adversarialbehavior}
-\title{Adversarialbehavior Bayesian Network}
+\title{adversarialbehavior Bayesian Network}
 \format{
 A discrete Bayesian network to define and solve the inference problem of adversarial movement in the grid infrastructure towards targets of physical impact. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network to define and solve the inference problem of adversa
 }
 }
 \description{
-Inferring adversarial behaviour in cyber-physical power systems using a Bayesian attack graph approach
+Inferring adversarial behaviour in cyber-physical power systems using a Bayesian attack graph approach.
 }
 \references{
 Sahu, A., & Davis, K. (2023). Inferring adversarial behaviour in cyber-physical power systems using a Bayesian attack graph approach. IET Cyber-Physical Systems: Theory & Applications, 8(2), 91-108.

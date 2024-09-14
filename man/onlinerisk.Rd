@@ -3,7 +3,7 @@
 \docType{data}
 \name{onlinerisk}
 \alias{onlinerisk}
-\title{Onlinerisk Bayesian Network}
+\title{onlinerisk Bayesian Network}
 \format{
 A discrete Bayesian network to develop online risk models for an autonomous marine system. Probabilities were given in an associated GitHub repository. The vertices are:
 \describe{
@@ -94,7 +94,7 @@ A discrete Bayesian network to develop online risk models for an autonomous mari
 }
 }
 \description{
-Online risk modeling of autonomous marine systems: Case study of autonomous operations under sea ice
+Online risk modeling of autonomous marine systems: Case study of autonomous operations under sea ice.
 }
 \references{
 Yang, R., Bremnes, J. E., & Utne, I. B. (2023). Online risk modeling of autonomous marine systems: case study of autonomous operations under sea ice. Ocean Engineering, 281, 114765.

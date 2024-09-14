@@ -1,6 +1,6 @@
-#' Metal Bayesian Network
+#' metal Bayesian Network
 #'
-#' Bayesian belief network modeling of accident occurrence in metal lathe machining operations
+#' Bayesian belief network modeling of accident occurrence in metal lathe machining operations.
 #'
 #' @usage NULL
 #'

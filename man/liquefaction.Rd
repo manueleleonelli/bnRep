@@ -3,7 +3,7 @@
 \docType{data}
 \name{liquefaction}
 \alias{liquefaction}
-\title{Liquefaction Bayesian Network}
+\title{liquefaction Bayesian Network}
 \format{
 A Gaussian Bayesian network to predict seismic liquefaction-induced settlement. The Bayesian network is learned using the data available from the referenced paper. The vertices are:
 \describe{
@@ -20,7 +20,7 @@ A Gaussian Bayesian network to predict seismic liquefaction-induced settlement. 
 }
 }
 \description{
-A continuous Bayesian network regression model for estimating seismic liquefaction-induced settlement of the free-field ground
+A continuous Bayesian network regression model for estimating seismic liquefaction-induced settlement of the free-field ground.
 }
 \references{
 Hu, J., Xiong, B., Zhang, Z., & Wang, J. (2023). A continuous Bayesian network regression model for estimating seismic liquefaction-induced settlement of the free-field ground. Earthquake Engineering & Structural Dynamics, 52(11), 3216-3237.

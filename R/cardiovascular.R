@@ -1,6 +1,6 @@
-#' Cardiovascular Bayesian Network
+#' cardiovascular Bayesian Network
 #'
-#' A Bayesian network model for predicting cardiovascular risk
+#' A Bayesian network model for predicting cardiovascular risk.
 #'
 #' @usage NULL
 #'

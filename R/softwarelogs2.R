@@ -1,6 +1,6 @@
-#' Softwarelogs Bayesian Networks
+#' softwarelogs Bayesian Networks
 #'
-#' Bayesian Network analysis of software logs for data‐driven software maintenance
+#' Bayesian Network analysis of software logs for data‐driven software maintenance.
 #'
 #' @usage NULL
 #'

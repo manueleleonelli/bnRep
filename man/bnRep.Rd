@@ -2,7 +2,7 @@
 % Please edit documentation in R/bnRep.R
 \name{bnRep}
 \alias{bnRep}
-\title{bnRep: A repository of Bayesian network models}
+\title{bnRep: A Repository of Bayesian Network Models}
 \description{
 A repository of discrete, Gaussian, and conditional linear Gaussian Bayesian networks from the recent academic literature.
 }

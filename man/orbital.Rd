@@ -3,7 +3,7 @@
 \docType{data}
 \name{orbital}
 \alias{orbital}
-\title{Orbital Bayesian Network}
+\title{orbital Bayesian Network}
 \format{
 A (dynamic) discrete Bayesian network to to help operators recognize the approaching intention quickly and systemically. Probabilities were given within the referenced paper. Ten time slices of the dynamic network are constructed. The vertices in the first time slice are:
 \describe{
@@ -16,7 +16,7 @@ A (dynamic) discrete Bayesian network to to help operators recognize the approac
 }
 }
 \description{
-Approaching ntention prediction of orbital maneuver based on dynamic Bayesian network
+Approaching ntention prediction of orbital maneuver based on dynamic Bayesian network.
 }
 \references{
 Shibo, C. H. E. N., Jun, L. I., Yaen, X. I. E., Xiande, W. U., Shuhang, L. E. N. G., & Ruochu, Y. A. N. G. (2023). Approaching Intention Prediction of Orbital Maneuver Based on Dynamic Bayesian Network. Transactions of Nanjing University of Aeronautics & Astronautics, 40(4).

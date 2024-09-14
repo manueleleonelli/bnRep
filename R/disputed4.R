@@ -1,7 +1,7 @@
-#' Disputed Bayesian Networks
+#' disputed Bayesian Networks
 #'
 #'
-#'A template Bayesian network for combining forensic evidence on an item with an uncertain relation to the disputed activities
+#'A template Bayesian network for combining forensic evidence on an item with an uncertain relation to the disputed activities.
 #' @usage NULL
 #'
 #' @format

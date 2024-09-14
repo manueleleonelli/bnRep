@@ -1,6 +1,6 @@
-#' Electricvehicle Bayesian Network
+#' electricvehicle Bayesian Network
 #'
-#' Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling
+#' Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling.
 #'
 #' @usage NULL
 #'

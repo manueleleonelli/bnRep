@@ -1,6 +1,6 @@
-#' Sallyclark Bayesian Network
+#' sallyclark Bayesian Network
 #'
-#' Measuring coherence with Bayesian networks
+#' Measuring coherence with Bayesian networks.
 #'
 #' @usage NULL
 #'

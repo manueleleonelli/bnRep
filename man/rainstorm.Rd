@@ -3,7 +3,7 @@
 \docType{data}
 \name{rainstorm}
 \alias{rainstorm}
-\title{Rainstorm Bayesian Network}
+\title{rainstorm Bayesian Network}
 \format{
 A discrete Bayesian network to  simulate the dynamic change process of scenario deduction. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -45,7 +45,7 @@ A discrete Bayesian network to  simulate the dynamic change process of scenario 
 }
 }
 \description{
-Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory
+Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory.
 }
 \references{
 Xie, X., Tian, Y., & Wei, G. (2023). Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory. Natural Hazards, 116(3), 2935-2955.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{algal2}
 \alias{algal2}
-\title{Algal Bayesian Networks}
+\title{algal Bayesian Networks}
 \format{
 A Gaussian Bayesian network to to forecast, in spring, mean total phosphorus and chlorophyll a concentration, mean water colour, and maximum cyanobacteria biovolume for the upcoming growing season (May–October) in Vansjø. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A Gaussian Bayesian network to to forecast, in spring, mean total phosphorus and
 }
 }
 \description{
-Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian networks
+Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian networks.
 }
 \references{
 Jackson-Blake, L. A., Clayer, F., Haande, S., Sample, J. E., & Moe, S. J. (2022). Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian network. Hydrology and Earth System Sciences, 26(12), 3103-3124.

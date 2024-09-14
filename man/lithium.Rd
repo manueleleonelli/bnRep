@@ -3,7 +3,7 @@
 \docType{data}
 \name{lithium}
 \alias{lithium}
-\title{Lithium Bayesian Network}
+\title{lithium Bayesian Network}
 \format{
 A discrete Bayesian network to o evaluate the fire accident risk of lithium battery energy storage system in the process of maritime transportation. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -56,7 +56,7 @@ A discrete Bayesian network to o evaluate the fire accident risk of lithium batt
 }
 }
 \description{
-Fire accident risk analysis of lithium battery energy storage systems during maritime transportation
+Fire accident risk analysis of lithium battery energy storage systems during maritime transportation.
 }
 \references{
 Zhang, C., Sun, H., Zhang, Y., Li, G., Li, S., Chang, J., & Shi, G. (2023). Fire accident risk analysis of lithium battery energy storage systems during maritime transportation. Sustainability, 15(19), 14198.

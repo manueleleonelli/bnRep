@@ -1,7 +1,7 @@
-#' Drainage Bayesian Network
+#' drainage Bayesian Network
 #'
 #'
-#' Fuzzy Bayesian network fault diagnosis method based on fault tree for coal mine drainage system
+#' Fuzzy Bayesian network fault diagnosis method based on fault tree for coal mine drainage system.
 #' @usage NULL
 #'
 #' @format

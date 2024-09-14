@@ -1,7 +1,7 @@
-#' Covid Bayesian Networks
+#' covid Bayesian Networks
 #'
 #'
-#' Uncovering hidden and complex relations of pandemic dynamics using an AI driven system
+#' Uncovering hidden and complex relations of pandemic dynamics using an AI driven system.
 #' @usage NULL
 #'
 #' @format

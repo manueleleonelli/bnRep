@@ -1,6 +1,6 @@
-#' Rockquality Bayesian Network
+#' rockquality Bayesian Network
 #'
-#' A probability prediction method for the classification of surrounding rock quality of tunnels with incomplete data using Bayesian networks
+#' A probability prediction method for the classification of surrounding rock quality of tunnels with incomplete data using Bayesian networks.
 #'
 #' @usage NULL
 #'

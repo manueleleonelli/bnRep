@@ -1,6 +1,6 @@
-#' Firealarm Bayesian Network
+#' firealarm Bayesian Network
 #'
-#' When do numbers really matter?
+#' When do numbers really matter?.
 #'
 #' @usage NULL
 #'

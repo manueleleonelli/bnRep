@@ -3,7 +3,7 @@
 \docType{data}
 \name{twinframework}
 \alias{twinframework}
-\title{Twinframework Bayesian Network}
+\title{twinframework Bayesian Network}
 \format{
 A discrete Bayesian network to identify critical factors during the in-service phase and achieve sustainable operation and maintenance for building infrastructures. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -17,7 +17,7 @@ A discrete Bayesian network to identify critical factors during the in-service p
 }
 }
 \description{
-Sustainable operation and maintenance modeling and application of building infrastructures combined with digital twin framework
+Sustainable operation and maintenance modeling and application of building infrastructures combined with digital twin framework.
 }
 \references{
 Jiao, Z., Du, X., Liu, Z., Liu, L., Sun, Z., & Shi, G. (2023). Sustainable Operation and Maintenance Modeling and Application of Building Infrastructures Combined with Digital Twin Framework. Sensors, 23(9), 4182.

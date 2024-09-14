@@ -1,7 +1,7 @@
-#' Corticosteroid Bayesian Network
+#' corticosteroid Bayesian Network
 #'
 #'
-#' Corticosteroid discontinuation, complete clinical response and remission in juvenile dermatomyositis
+#' Corticosteroid discontinuation, complete clinical response and remission in juvenile dermatomyositis.
 #' @usage NULL
 #'
 #' @format

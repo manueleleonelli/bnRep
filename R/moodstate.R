@@ -1,6 +1,6 @@
-#' Moodstate Bayesian Network
+#' moodstate Bayesian Network
 #'
-#' Inference of mood state indices by using a multimodal high-level information fusion technique
+#' Inference of mood state indices by using a multimodal high-level information fusion technique.
 #'
 #' @usage NULL
 #'

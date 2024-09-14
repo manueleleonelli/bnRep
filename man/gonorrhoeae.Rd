@@ -3,7 +3,7 @@
 \docType{data}
 \name{gonorrhoeae}
 \alias{gonorrhoeae}
-\title{Gonorrhoeae Bayesian Network}
+\title{gonorrhoeae Bayesian Network}
 \format{
 A discrete Bayesian network  to simulate the clinician-patient dynamics influencing antibiotic susceptibility test initiation. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -20,7 +20,7 @@ A discrete Bayesian network  to simulate the clinician-patient dynamics influenc
 }
 }
 \description{
-Policy, practice, and prediction: model-based approaches to evaluating N. gonorrhoeae antibiotic susceptibility test uptake in Australia
+Policy, practice, and prediction: model-based approaches to evaluating N. gonorrhoeae antibiotic susceptibility test uptake in Australia.
 }
 \references{
 Do, P. C., Assefa, Y. A., Batikawai, S. M., Abate, M. A., & Reid, S. A. (2024). Policy, practice, and prediction: model-based approaches to evaluating N. gonorrhoeae antibiotic susceptibility test uptake in Australia. BMC Infectious Diseases, 24(1), 498.

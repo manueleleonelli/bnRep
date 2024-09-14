@@ -1,6 +1,6 @@
-#' Vaccine Bayesian Network
+#' vaccine Bayesian Network
 #'
-#' Sensitivity analysis in multilinear probabilistic models
+#' Sensitivity analysis in multilinear probabilistic models.
 #'
 #' @usage NULL
 #'

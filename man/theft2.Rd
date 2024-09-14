@@ -3,7 +3,7 @@
 \docType{data}
 \name{theft2}
 \alias{theft2}
-\title{Theft Bayesian Networks}
+\title{theft Bayesian Networks}
 \format{
 A discrete Bayesian network representing a legal scenario. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -15,7 +15,7 @@ A discrete Bayesian network representing a legal scenario. Probabilities were gi
 }
 }
 \description{
-Evaluating methods for setting a prior probability of guilt
+Evaluating methods for setting a prior probability of guilt.
 }
 \references{
 van Leeuwen, L., Verheij, B., Verbrugge, R., & Renooij, S. (2023). Evaluating Methods for Setting a Prior Probability of Guilt. In Legal Knowledge and Information Systems (pp. 63-72). IOS Press.

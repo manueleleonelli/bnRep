@@ -1,7 +1,7 @@
-#' Estuary Bayesian Network
+#' estuary Bayesian Network
 #'
 #'
-#' Predicting and scoring estuary ecological health using a Bayesian belief network
+#' Predicting and scoring estuary ecological health using a Bayesian belief network.
 #'
 #' @usage NULL
 #'

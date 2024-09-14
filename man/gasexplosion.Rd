@@ -3,7 +3,7 @@
 \docType{data}
 \name{gasexplosion}
 \alias{gasexplosion}
-\title{Gasexplosion Bayesian Network}
+\title{gasexplosion Bayesian Network}
 \format{
 A discrete Bayesian network to analyze unsafe human acts in coal mine gas explosion accidents. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -30,7 +30,7 @@ A discrete Bayesian network to analyze unsafe human acts in coal mine gas explos
 }
 }
 \description{
-Risk assessment of unsafe acts in coal mine gas explosion accidents based on HFACS-GE and Bayesian networks
+Risk assessment of unsafe acts in coal mine gas explosion accidents based on HFACS-GE and Bayesian networks.
 }
 \references{
 Niu, L., Zhao, J., & Yang, J. (2023). Risk assessment of unsafe acts in coal mine gas explosion accidents based on HFACS-GE and Bayesian networks. Processes, 11(2), 554.

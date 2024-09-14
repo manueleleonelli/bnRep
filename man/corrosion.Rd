@@ -3,7 +3,7 @@
 \docType{data}
 \name{corrosion}
 \alias{corrosion}
-\title{Corrosion Bayesian Network}
+\title{corrosion Bayesian Network}
 \format{
 A discrete Bayesian network to understand different risk factors and their interdependencies in under-deposit corrosion and how the interaction of these risk factors leads to asset failure due to under-deposit corrosion. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -32,7 +32,7 @@ A discrete Bayesian network to understand different risk factors and their inter
 }
 }
 \description{
-Dynamic Bayesian network model to study under-deposit corrosion
+Dynamic Bayesian network model to study under-deposit corrosion.
 }
 \references{
 Dao, U., Sajid, Z., Khan, F., & Zhang, Y. (2023). Dynamic Bayesian network model to study under-deposit corrosion. Reliability Engineering & System Safety, 237, 109370.

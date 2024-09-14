@@ -1,6 +1,6 @@
-#' Titanic Bayesian Network
+#' titanic Bayesian Network
 #'
-#' The R Package stagedtrees for Structural Learning of Stratified Staged Trees
+#' The R Package stagedtrees for Structural Learning of Stratified Staged Trees.
 #'
 #' @usage NULL
 #'

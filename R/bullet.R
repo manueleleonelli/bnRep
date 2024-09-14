@@ -1,7 +1,7 @@
-#' Bullet Bayesian Network
+#' bullet Bayesian Network
 #'
 #'
-#' Combined interpretation of objective firearm evidence comparison algorithms using Bayesian network
+#' Combined interpretation of objective firearm evidence comparison algorithms using Bayesian network.
 #'
 #'  @usage NULL
 #'

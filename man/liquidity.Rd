@@ -3,7 +3,7 @@
 \docType{data}
 \name{liquidity}
 \alias{liquidity}
-\title{Liquidity Bayesian Network}
+\title{liquidity Bayesian Network}
 \format{
 A discrete Bayesian network demonstrate applicability and exhibit the eﬃciency, accuracy and flexibility of data mining methods when modeling ambiguous occurrences related to bank liquidity risk measurement. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -20,7 +20,7 @@ A discrete Bayesian network demonstrate applicability and exhibit the eﬃciency
 }
 }
 \description{
-An artificial neural network and Bayesian network model for liquidity risk assessment in banking
+An artificial neural network and Bayesian network model for liquidity risk assessment in banking.
 }
 \references{
 Tavana, M., Abtahi, A. R., Di Caprio, D., & Poortarigh, M. (2018). An Artificial Neural Network and Bayesian Network model for liquidity risk assessment in banking. Neurocomputing, 275, 2525-2554.

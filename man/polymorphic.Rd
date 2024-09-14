@@ -3,7 +3,7 @@
 \docType{data}
 \name{polymorphic}
 \alias{polymorphic}
-\title{Polymorphic Bayesian Network}
+\title{polymorphic Bayesian Network}
 \format{
 A discrete Bayesian network to depict the high-voltage drive motor system’s miscellaneous fault states. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -32,7 +32,7 @@ A discrete Bayesian network to depict the high-voltage drive motor system’s mi
 }
 }
 \description{
-Reliability analysis of high-voltage drive motor systems in terms of the polymorphic Bayesian network
+Reliability analysis of high-voltage drive motor systems in terms of the polymorphic Bayesian network.
 }
 \references{
 Zheng, W., Jiang, H., Li, S., & Ma, Q. (2023). Reliability Analysis of High-Voltage Drive Motor Systems in Terms of the Polymorphic Bayesian Network. Mathematics, 11(10), 2378.

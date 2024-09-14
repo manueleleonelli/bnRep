@@ -1,7 +1,7 @@
-#' Fingermarks Bayesian Networks
+#' fingermarks Bayesian Networks
 #'
 #'
-#' Using case specific experiments to evaluate fingermarks on knives given activity level propositions
+#' Using case specific experiments to evaluate fingermarks on knives given activity level propositions.
 #' @usage NULL
 #'
 #' @format

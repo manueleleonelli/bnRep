@@ -1,6 +1,6 @@
-#' Urinary Bayesian Network
+#' urinary Bayesian Network
 #'
-#' Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data
+#' Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data.
 #'
 #' @usage NULL
 #'

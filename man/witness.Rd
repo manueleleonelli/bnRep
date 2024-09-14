@@ -3,7 +3,7 @@
 \docType{data}
 \name{witness}
 \alias{witness}
-\title{Witness Bayesian Network}
+\title{witness Bayesian Network}
 \format{
 A discrete Bayesian modelling a situation where equally reliable witnesses try to identify a criminal. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian modelling a situation where equally reliable witnesses try t
 }
 }
 \description{
-Measuring coherence with Bayesian networks
+Measuring coherence with Bayesian networks.
 }
 \references{
 Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395.

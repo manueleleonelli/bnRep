@@ -1,6 +1,6 @@
-#' Beatles Bayesian Network
+#' beatles Bayesian Network
 #'
-#' Measuring coherence with Bayesian networks
+#' Measuring coherence with Bayesian networks.
 #'
 #' @usage NULL
 #'

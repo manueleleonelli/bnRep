@@ -1,6 +1,6 @@
-#' Aspergillus Bayesian Network
+#' aspergillus Bayesian Network
 #'
-#' Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi
+#' Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi.
 #'
 #' @usage NULL
 #'

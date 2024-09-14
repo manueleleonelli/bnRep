@@ -1,6 +1,6 @@
-#' Expenditure Bayesian Network
+#' expenditure Bayesian Network
 #'
-#' The FEDHC Bayesian network learning algorithm
+#' The FEDHC Bayesian network learning algorithm.
 #'
 #' @usage NULL
 #'

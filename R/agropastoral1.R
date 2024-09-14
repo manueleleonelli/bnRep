@@ -1,6 +1,6 @@
-#' Agropastoral Bayesian Networks
+#' agropastoral Bayesian Networks
 #'
-#' Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach
+#' Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach.
 #'
 #' @usage NULL
 #' @format

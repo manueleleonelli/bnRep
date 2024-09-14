@@ -1,7 +1,7 @@
-#' Suffocation Bayesian Network
+#' suffocation Bayesian Network
 #'
 #'
-#' Human-related hazardous events assessment for suffocation on ships by integrating Bayesian network and complex network
+#' Human-related hazardous events assessment for suffocation on ships by integrating Bayesian network and complex network.
 #' @usage NULL
 #'
 #' @format

@@ -3,7 +3,7 @@
 \docType{data}
 \name{constructionproductivity}
 \alias{constructionproductivity}
-\title{Constructionproductivity Bayesian Network}
+\title{constructionproductivity Bayesian Network}
 \format{
 A discrete Bayesian network to identify causal relationship and occurrence probability of critical factors affecting construction productivity. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -28,7 +28,7 @@ A discrete Bayesian network to identify causal relationship and occurrence proba
 }
 }
 \description{
-Construction productivity prediction through Bayesian networks for building projects: case from Vietnam
+Construction productivity prediction through Bayesian networks for building projects: case from Vietnam.
 }
 \references{
 Khanh, H. D., & Kim, S. Y. (2022). Construction productivity prediction through Bayesian networks for building projects: Case from Vietnam. Engineering, Construction and Architectural Management, 30(5), 2075-2100.

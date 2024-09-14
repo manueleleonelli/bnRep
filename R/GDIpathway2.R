@@ -1,7 +1,7 @@
 #' GDIpathway Bayesian Networks
 #'
 #'
-#' Integrative network modeling highlights the crucial roles of Rho-GDI signaling pathway in the progression of non-small cell lung cancer
+#' Integrative network modeling highlights the crucial roles of Rho-GDI signaling pathway in the progression of non-small cell lung cancer.
 #' @usage NULL
 #'
 #' @format

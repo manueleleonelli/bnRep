@@ -1,6 +1,6 @@
-#' Oildepot Bayesian Network
+#' oildepot Bayesian Network
 #'
-#' Dynamic risk analysis of oil depot storage tank failure using a fuzzy Bayesian network model
+#' Dynamic risk analysis of oil depot storage tank failure using a fuzzy Bayesian network model.
 #' @usage NULL
 #'
 #' @format

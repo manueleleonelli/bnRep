@@ -1,6 +1,6 @@
-#' Arcticwaters Bayesian Network
+#' arcticwaters Bayesian Network
 #'
-#' An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters
+#' An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters.
 #' @usage NULL
 #'
 #' @format

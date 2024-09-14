@@ -1,6 +1,6 @@
-#' Kosterhavet Bayesian Network
+#' kosterhavet Bayesian Network
 #'
-#' A Bayesian network to inform the management of key species in Kosterhavet National Park under contrasting storylines of environmental change
+#' A Bayesian network to inform the management of key species in Kosterhavet National Park under contrasting storylines of environmental change.
 #'
 #' @usage NULL
 #'

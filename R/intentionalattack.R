@@ -1,6 +1,6 @@
-#' Intentionalattacks Bayesian Network
+#' intentionalattacks Bayesian Network
 #'
-#' Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures
+#' Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures.
 #'
 #' @usage NULL
 #'

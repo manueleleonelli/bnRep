@@ -1,6 +1,6 @@
-#' Earthquake Bayesian Network
+#' earthquake Bayesian Network
 #'
-#' A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia
+#' A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia.
 #'
 #' @usage NULL
 #'

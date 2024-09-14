@@ -1,6 +1,6 @@
-#' Beams Bayesian Network
+#' beams Bayesian Network
 #'
-#' Bayesian networks and their application to the reliability of FRP strengthened beams
+#' Bayesian networks and their application to the reliability of FRP strengthened beams.
 #' @usage NULL
 #'
 #' @format

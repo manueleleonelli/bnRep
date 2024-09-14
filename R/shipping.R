@@ -1,6 +1,6 @@
-#' Shipping Bayesian Network
+#' shipping Bayesian Network
 #'
-#' Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route
+#' Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route.
 #'
 #' @usage NULL
 #'

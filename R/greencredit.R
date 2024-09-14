@@ -1,6 +1,6 @@
-#' Greencredit Bayesian Network
+#' greencredit Bayesian Network
 #'
-#' The coupling relationships and influence mechanisms of green credit and energy-environment-economy under China's goal of carbon neutrality
+#' The coupling relationships and influence mechanisms of green credit and energy-environment-economy under China's goal of carbon neutrality.
 #' @usage NULL
 #'
 #' @format

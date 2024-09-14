@@ -1,7 +1,7 @@
-#' Case Bayesian Network
+#' case Bayesian Network
 #'
 #'
-#' Building a stronger case: Combining evidence and law in scenario-based Bayesian networks
+#' Building a stronger case: Combining evidence and law in scenario-based Bayesian networks.
 #' @usage NULL
 #'
 #' @format

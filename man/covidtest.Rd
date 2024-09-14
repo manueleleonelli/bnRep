@@ -3,7 +3,7 @@
 \docType{data}
 \name{covidtest}
 \alias{covidtest}
-\title{Covidtest Bayesian Network}
+\title{covidtest Bayesian Network}
 \format{
 A conditional linear-Gaussian Bayesian network to predict the outcome of a covid test. The DAG structure was taken from the referenced paper and the probabilities learned from data (earliest version in the repository, missing data dropped). The vertices are:
 \describe{
@@ -25,7 +25,7 @@ A conditional linear-Gaussian Bayesian network to predict the outcome of a covid
 }
 }
 \description{
-Discrete latent variables discovery and structure learning in mixed Bayesian networks
+Discrete latent variables discovery and structure learning in mixed Bayesian networks.
 }
 \references{
 Peled, A., & Fine, S. (2021). Discrete Latent Variables Discovery and Structure Learning in Mixed Bayesian Networks. In 20th IEEE International Conference on Machine Learning and Applications (pp. 248-255). IEEE.

@@ -1,6 +1,6 @@
-#' Knowledge Bayesian Network
+#' knowledge Bayesian Network
 #'
-#' Dynamic knowledge inference based on Bayesian network learning
+#' Dynamic knowledge inference based on Bayesian network learning.
 #'
 #' @usage NULL
 #'

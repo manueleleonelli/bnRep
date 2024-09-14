@@ -3,7 +3,7 @@
 \docType{data}
 \name{income}
 \alias{income}
-\title{Income Bayesian Network}
+\title{income Bayesian Network}
 \format{
 A discrete Bayesian network modeling the factors affecting the income of individuals. The code to learn the Bayesian network was given within the referenced paper (Figure 13.c) The vertices are:
 \describe{
@@ -23,7 +23,7 @@ A discrete Bayesian network modeling the factors affecting the income of individ
 }
 }
 \description{
-The FEDHC Bayesian network learning algorithm
+The FEDHC Bayesian network learning algorithm.
 }
 \references{
 Tsagris, M. (2022). The FEDHC Bayesian network learning algorithm. Mathematics, 10(15), 2604.

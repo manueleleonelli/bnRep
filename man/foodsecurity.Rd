@@ -3,7 +3,7 @@
 \docType{data}
 \name{foodsecurity}
 \alias{foodsecurity}
-\title{Foodsecurity Bayesian Network}
+\title{foodsecurity Bayesian Network}
 \format{
 A discrete Bayesian network modelling a food security scenario. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network modelling a food security scenario. Probabilities we
 }
 }
 \description{
-Coherent combination of probabilistic outputs for group decision making: an algebraic approach
+Coherent combination of probabilistic outputs for group decision making: an algebraic approach.
 }
 \references{
 Leonelli, M., Riccomagno, E., & Smith, J. Q. (2020). Coherent combination of probabilistic outputs for group decision making: an algebraic approach. OR Spectrum, 42(2), 499-528.

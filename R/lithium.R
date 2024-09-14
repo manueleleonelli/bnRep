@@ -1,6 +1,6 @@
-#' Lithium Bayesian Network
+#' lithium Bayesian Network
 #'
-#' Fire accident risk analysis of lithium battery energy storage systems during maritime transportation
+#' Fire accident risk analysis of lithium battery energy storage systems during maritime transportation.
 #' @usage NULL
 #'
 #' @format

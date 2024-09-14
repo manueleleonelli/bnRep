@@ -3,7 +3,7 @@
 \docType{data}
 \name{resilience}
 \alias{resilience}
-\title{Resilience Bayesian Network}
+\title{resilience Bayesian Network}
 \format{
 A discrete Bayesian network for the evaluation and modeling of socio-ecological systems structure. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -46,7 +46,7 @@ A discrete Bayesian network for the evaluation and modeling of socio-ecological 
 }
 }
 \description{
-Quantifying resilience of socio-ecological systems through dynamic Bayesian networks
+Quantifying resilience of socio-ecological systems through dynamic Bayesian networks.
 }
 \references{
 Franco-Gaviria, F., Amador-Jimenez, M., Millner, N., Durden, C., & Urrego, D. H. (2022). Quantifying resilience of socio-ecological systems through dynamic Bayesian networks. Frontiers in Forests and Global Change, 5, 889274.

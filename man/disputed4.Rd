@@ -3,7 +3,7 @@
 \docType{data}
 \name{disputed4}
 \alias{disputed4}
-\title{Disputed Bayesian Networks}
+\title{disputed Bayesian Networks}
 \format{
 A discrete Bayesian network for the evaluation of transfer evidence given activity level propositions considering a dispute about the relation of an item to one or more activities (Figure 10). The probabilities were given in the referenced paper. The vertices are:
 \describe{
@@ -33,7 +33,7 @@ A discrete Bayesian network for the evaluation of transfer evidence given activi
 }
 }
 \description{
-A template Bayesian network for combining forensic evidence on an item with an uncertain relation to the disputed activities
+A template Bayesian network for combining forensic evidence on an item with an uncertain relation to the disputed activities.
 }
 \references{
 Vink, M., de Koeijer, J. A., & Sjerps, M. J. (2024). A template Bayesian network for combining forensic evidence on an item with an uncertain relation to the disputed activities. Forensic Science International: Synergy, 9, 100546.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{lexical}
 \alias{lexical}
-\title{Lexical Bayesian Network}
+\title{lexical Bayesian Network}
 \format{
 A Gaussian Bayesian network to analyze various measures of lexical dispersion and assess the extent to which they are linked to age of acquisition. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A Gaussian Bayesian network to analyze various measures of lexical dispersion an
 }
 }
 \description{
-Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics
+Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics.
 }
 \references{
 Baumann, A., & Sekanina, K. (2022). Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics. Linguistics Vanguard, 8(1), 209-224.

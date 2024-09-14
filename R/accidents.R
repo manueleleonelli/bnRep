@@ -1,6 +1,6 @@
-#' Accidents Bayesian Network
+#' accidents Bayesian Network
 #'
-#' Analysis of maritime transport accidents using Bayesian networks
+#' Analysis of maritime transport accidents using Bayesian networks.
 #'
 #' @usage NULL
 #'

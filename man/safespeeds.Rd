@@ -3,7 +3,7 @@
 \docType{data}
 \name{safespeeds}
 \alias{safespeeds}
-\title{Safespeeds Bayesian Network}
+\title{safespeeds Bayesian Network}
 \format{
 A discrete Bayesian network to model driver expectations using measured speeds in 153 curves and data on the characteristics of the curve approaches. The probabilities were given in the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network to model driver expectations using measured speeds i
 }
 }
 \description{
-Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks
+Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks.
 }
 \references{
 Vos, J., Farah, H., & Hagenzieker, M. (2024). Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks. Transportation Research Interdisciplinary Perspectives, 27, 101178.

@@ -3,7 +3,7 @@
 \docType{data}
 \name{grounding}
 \alias{grounding}
-\title{Grounding Bayesian Network}
+\title{grounding Bayesian Network}
 \format{
 A discrete Bayesian network to for quantitative analysis of the causation of grounding accidents in Arctic shipping. Probabilities were given within the referenced paper (some information appeared incorrect). The vertices are:
 \describe{
@@ -46,7 +46,7 @@ A discrete Bayesian network to for quantitative analysis of the causation of gro
 }
 }
 \description{
-A framework for quantitative analysis of the causation of grounding accidents in arctic shipping
+A framework for quantitative analysis of the causation of grounding accidents in arctic shipping.
 }
 \references{
 Fu, S., Yu, Y., Chen, J., Xi, Y., & Zhang, M. (2022). A framework for quantitative analysis of the causation of grounding accidents in arctic shipping. Reliability Engineering & System Safety, 226, 108706.

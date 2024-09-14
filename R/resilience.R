@@ -1,7 +1,7 @@
-#' Resilience Bayesian Network
+#' resilience Bayesian Network
 #'
 #'
-#' Quantifying resilience of socio-ecological systems through dynamic Bayesian networks
+#' Quantifying resilience of socio-ecological systems through dynamic Bayesian networks.
 #' @usage NULL
 #'
 #' @format

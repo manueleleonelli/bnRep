@@ -3,7 +3,7 @@
 \docType{data}
 \name{greencredit}
 \alias{greencredit}
-\title{Greencredit Bayesian Network}
+\title{greencredit Bayesian Network}
 \format{
 A discrete Bayesian network nvestigate the coupling relationships and influence mechanisms of green credit and 3E system. Probabilities were given within the referenced paper (missing distributions were set as uniform). The vertices are:
 \describe{
@@ -20,7 +20,7 @@ A discrete Bayesian network nvestigate the coupling relationships and influence 
 }
 }
 \description{
-The coupling relationships and influence mechanisms of green credit and energy-environment-economy under China's goal of carbon neutrality
+The coupling relationships and influence mechanisms of green credit and energy-environment-economy under China's goal of carbon neutrality.
 }
 \references{
 Chai, J., Wang, Y., Hu, Y., Zhang, X., & Zhang, X. (2023). The Coupling Relationships and Influence Mechanisms of Green Credit and Energy-Environment-Economy Under China's Goal of Carbon Neutrality. Journal of Systems Science and Complexity, 36(1), 360-374.

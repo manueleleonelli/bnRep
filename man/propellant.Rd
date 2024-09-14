@@ -3,7 +3,7 @@
 \docType{data}
 \name{propellant}
 \alias{propellant}
-\title{Propellant Bayesian Network}
+\title{propellant Bayesian Network}
 \format{
 A discrete Bayesian network to assess the safety of the solid propellant granule-casting molding process. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -59,7 +59,7 @@ A discrete Bayesian network to assess the safety of the solid propellant granule
 }
 }
 \description{
-A Bayesian network-based safety assessment method for solid propellant granule-casting molding process
+A Bayesian network-based safety assessment method for solid propellant granule-casting molding process.
 }
 \references{
 Bi, Y., Wang, S., Zhang, C., Cong, H., Gao, W., Qu, B., & Li, J. (2023). A bayesian network-based safety assessment method for solid propellant granule-casting molding process. Journal of Loss Prevention in the Process Industries, 83, 105089.

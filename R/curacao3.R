@@ -1,7 +1,7 @@
-#' Curacao Bayesian Networks
+#' curacao Bayesian Networks
 #'
 #'
-#' Supporting spatial planning with a novel method based on participatory Bayesian networks: An application in Curacao
+#' Supporting spatial planning with a novel method based on participatory Bayesian networks: An application in Curacao.
 #' @usage NULL
 #'
 #' @format

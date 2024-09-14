@@ -1,6 +1,6 @@
-#' Orbital Bayesian Network
+#' orbital Bayesian Network
 #'
-#' Approaching ntention prediction of orbital maneuver based on dynamic Bayesian network
+#' Approaching ntention prediction of orbital maneuver based on dynamic Bayesian network.
 #'
 #' @usage NULL
 #'

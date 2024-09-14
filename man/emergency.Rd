@@ -3,7 +3,7 @@
 \docType{data}
 \name{emergency}
 \alias{emergency}
-\title{Emergency Bayesian Network}
+\title{emergency Bayesian Network}
 \format{
 A discrete Bayesian network to evaluate risk in human-machine interaction in emergencies. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -27,7 +27,7 @@ A discrete Bayesian network to evaluate risk in human-machine interaction in eme
 }
 }
 \description{
-A risk evaluation method for human-machine interaction in emergencies based on multiple mental models-driven situation assessment
+A risk evaluation method for human-machine interaction in emergencies based on multiple mental models-driven situation assessment.
 }
 \references{
 Guo, J., Ma, S., Zeng, S., Che, H., & Pan, X. (2024). A risk evaluation method for human-machine interaction in emergencies based on multiple mental models-driven situation assessment. Reliability Engineering & System Safety, 110444.

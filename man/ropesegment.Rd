@@ -3,7 +3,7 @@
 \docType{data}
 \name{ropesegment}
 \alias{ropesegment}
-\title{Ropesegment Bayesian Network}
+\title{ropesegment Bayesian Network}
 \format{
 A discrete Bayesian network to analyze the availability of the rope segment. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -21,7 +21,7 @@ A discrete Bayesian network to analyze the availability of the rope segment. Pro
 }
 }
 \description{
-Availability optimization of a dragline subsystem using Bayesian network
+Availability optimization of a dragline subsystem using Bayesian network.
 }
 \references{
 Jana, D., Kumar, D., Gupta, S., & Gupta, K. K. (2024). Availability optimization of a dragline subsystem using Bayesian network. Journal of The Institution of Engineers (India): Series D, 105(1), 77-88.

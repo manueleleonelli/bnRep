@@ -1,7 +1,7 @@
-#' Seismic Bayesian Network
+#' seismic Bayesian Network
 #'
 #'
-#' Probabilistic seismic risk assessment of a reinforced concrete building considering hazard level and the resulting vulnerability using Bayesian Belief Network
+#' Probabilistic seismic risk assessment of a reinforced concrete building considering hazard level and the resulting vulnerability using Bayesian Belief Network.
 #'
 #' @usage NULL
 #'

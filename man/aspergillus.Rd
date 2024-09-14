@@ -3,7 +3,7 @@
 \docType{data}
 \name{aspergillus}
 \alias{aspergillus}
-\title{Aspergillus Bayesian Network}
+\title{aspergillus Bayesian Network}
 \format{
 A discrete Bayesian network modelling the relationship between risk factors and death by Aspergillus. The original dataset was used to learn the Bayesian network. The vertices are:
 \describe{
@@ -21,7 +21,7 @@ A discrete Bayesian network modelling the relationship between risk factors and 
 }
 }
 \description{
-Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi
+Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi.
 }
 \references{
 Filigheddu, M. T., Leonelli, M., Varando, G., Gómez-Bermejo, M. Á., Ventura-Díaz, S., Gorospe, L., & Fortún, J. (2024). Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi. Computational and Structural Biotechnology Journal, 24, 12-22.

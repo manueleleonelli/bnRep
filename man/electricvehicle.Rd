@@ -3,7 +3,7 @@
 \docType{data}
 \name{electricvehicle}
 \alias{electricvehicle}
-\title{Electricvehicle Bayesian Network}
+\title{electricvehicle Bayesian Network}
 \format{
 A discrete Bayesian network to evaluate the risk of electric vehicle fire accidents. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -33,7 +33,7 @@ A discrete Bayesian network to evaluate the risk of electric vehicle fire accide
 }
 }
 \description{
-Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling
+Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling.
 }
 \references{
 Chen, J., Li, K., & Yang, S. (2022). Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling. Mathematics, 10(20), 3799.

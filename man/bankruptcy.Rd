@@ -3,7 +3,7 @@
 \docType{data}
 \name{bankruptcy}
 \alias{bankruptcy}
-\title{Bankruptcy Bayesian Network}
+\title{bankruptcy Bayesian Network}
 \format{
 A discrete Bayesian network for bankruptcy prediction. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network for bankruptcy prediction. Probabilities were given 
 }
 }
 \description{
-Using Bayesian networks for bankruptcy prediction: Some methodological issues
+Using Bayesian networks for bankruptcy prediction: Some methodological issues.
 }
 \references{
 Sun, L., & Shenoy, P. P. (2007). Using Bayesian networks for bankruptcy prediction: Some methodological issues. European Journal of Operational Research, 180(2), 738-753.

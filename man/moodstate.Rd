@@ -3,7 +3,7 @@
 \docType{data}
 \name{moodstate}
 \alias{moodstate}
-\title{Moodstate Bayesian Network}
+\title{moodstate Bayesian Network}
 \format{
 A discrete Bayesian network to perform high-level information fusion. Probabilities were given within the referenced paper (one node is not included). The vertices are:
 \describe{
@@ -17,7 +17,7 @@ A discrete Bayesian network to perform high-level information fusion. Probabilit
 }
 }
 \description{
-Inference of mood state indices by using a multimodal high-level information fusion technique
+Inference of mood state indices by using a multimodal high-level information fusion technique.
 }
 \references{
 Tai, C. H., Chung, K. H., Teng, Y. W., Shu, F. M., & Chang, Y. S. (2021). Inference of mood state indices by using a multimodal high-level information fusion technique. IEEE Access, 9, 61256-61268.

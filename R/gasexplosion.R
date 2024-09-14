@@ -1,6 +1,6 @@
-#' Gasexplosion Bayesian Network
+#' gasexplosion Bayesian Network
 #'
-#' Risk assessment of unsafe acts in coal mine gas explosion accidents based on HFACS-GE and Bayesian networks
+#' Risk assessment of unsafe acts in coal mine gas explosion accidents based on HFACS-GE and Bayesian networks.
 #'
 #' @usage NULL
 #'

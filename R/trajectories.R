@@ -1,6 +1,6 @@
-#' Trajectories Bayesian Network
+#' trajectories Bayesian Network
 #'
-#' Context-specific causal discovery for categorical data using staged trees
+#' Context-specific causal discovery for categorical data using staged trees.
 #'
 #' @usage NULL
 #'

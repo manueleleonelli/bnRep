@@ -3,7 +3,7 @@
 \docType{data}
 \name{hydraulicsystem}
 \alias{hydraulicsystem}
-\title{Hydraulicsystem Bayesian Network}
+\title{hydraulicsystem Bayesian Network}
 \format{
 A discrete Bayesian network to to analyze time series hydraulic system operation reliability. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network to to analyze time series hydraulic system operation
 }
 }
 \description{
-Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network
+Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network.
 }
 \references{
 Pan, W. H., Feng, Y. W., Liu, J., & Lu, C. (2023). Operation reliability monitoring towards fault diagnosis of airplane hydraulic system using quick access recorder flight data. Measurement Science and Technology, 34(5), 055111.

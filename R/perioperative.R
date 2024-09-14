@@ -1,7 +1,7 @@
-#' Perioperative Bayesian Network
+#' perioperative Bayesian Network
 #'
 #'
-#' Development of a perioperative medication suspension decision algorithm based on Bayesian networks
+#' Development of a perioperative medication suspension decision algorithm based on Bayesian networks.
 #' @usage NULL
 #'
 #' @format

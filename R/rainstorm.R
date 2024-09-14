@@ -1,6 +1,6 @@
-#' Rainstorm Bayesian Network
+#' rainstorm Bayesian Network
 #'
-#' Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory
+#' Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory.
 #'
 #' @usage NULL
 #'

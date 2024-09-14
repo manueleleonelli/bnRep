@@ -1,7 +1,7 @@
-#' Blacksea Bayesian Network
+#' blacksea Bayesian Network
 #'
 #'
-#' Analyzing collision, grounding, and sinking accidents occurring in the Black Sea utilizing HFACS and Bayesian networks
+#' Analyzing collision, grounding, and sinking accidents occurring in the Black Sea utilizing HFACS and Bayesian networks.
 #' @usage NULL
 #'
 #' @format

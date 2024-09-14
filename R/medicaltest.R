@@ -1,6 +1,6 @@
-#' Medicaltest Bayesian Network
+#' medicaltest Bayesian Network
 #'
-#' Global sensitivity analysis of uncertain parameters in Bayesian networks
+#' Global sensitivity analysis of uncertain parameters in Bayesian networks.
 #'
 #' @usage NULL
 #'

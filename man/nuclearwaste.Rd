@@ -3,7 +3,7 @@
 \docType{data}
 \name{nuclearwaste}
 \alias{nuclearwaste}
-\title{Nuclearwaste Bayesian Network}
+\title{nuclearwaste Bayesian Network}
 \format{
 A discrete Bayesian network to obtain bounds on the probability that the reference safety threshold is violated. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -20,7 +20,7 @@ A discrete Bayesian network to obtain bounds on the probability that the referen
 }
 }
 \description{
-Comprehensiveness of scenarios in the safety assessment of nuclear waste repositories
+Comprehensiveness of scenarios in the safety assessment of nuclear waste repositories.
 }
 \references{
 Tosoni, E., Salo, A., Govaerts, J., & Zio, E. (2019). Comprehensiveness of scenarios in the safety assessment of nuclear waste repositories. Reliability Engineering & System Safety, 188, 561-573.

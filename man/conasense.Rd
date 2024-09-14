@@ -3,7 +3,7 @@
 \docType{data}
 \name{conasense}
 \alias{conasense}
-\title{Conasense Bayesian Network}
+\title{conasense Bayesian Network}
 \format{
 A discrete Bayesian network to support to optimization of the CONASENSE network. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network to support to optimization of the CONASENSE network.
 }
 }
 \description{
-Bayesian Neural Networks for 6G CONASENSE Services
+Bayesian neural networks for 6G CONASENSE services.
 }
 \references{
 Henrique, P. S. R., & Prasad, R. (2022, October). Bayesian Neural Networks for 6G CONASENSE Services. In 2022 25th International Symposium on Wireless Personal Multimedia Communications (WPMC) (pp. 291-296). IEEE.

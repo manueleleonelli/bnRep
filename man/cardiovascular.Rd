@@ -3,7 +3,7 @@
 \docType{data}
 \name{cardiovascular}
 \alias{cardiovascular}
-\title{Cardiovascular Bayesian Network}
+\title{cardiovascular Bayesian Network}
 \format{
 A discrete Bayesian network allowing for making inferences and predictions about cardiovascular risk factors. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -23,7 +23,7 @@ A discrete Bayesian network allowing for making inferences and predictions about
 }
 }
 \description{
-A Bayesian network model for predicting cardiovascular risk
+A Bayesian network model for predicting cardiovascular risk.
 }
 \references{
 Ordovas, J. M., Rios-Insua, D., Santos-Lozano, A., Lucia, A., Torres, A., Kosgodagan, A., & Camacho, J. M. (2023). A Bayesian network model for predicting cardiovascular risk. Computer Methods and Programs in Biomedicine, 231, 107405.

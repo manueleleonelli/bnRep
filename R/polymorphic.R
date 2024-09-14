@@ -1,6 +1,6 @@
-#' Polymorphic Bayesian Network
+#' polymorphic Bayesian Network
 #'
-#' Reliability analysis of high-voltage drive motor systems in terms of the polymorphic Bayesian network
+#' Reliability analysis of high-voltage drive motor systems in terms of the polymorphic Bayesian network.
 #'
 #' @usage NULL
 #'

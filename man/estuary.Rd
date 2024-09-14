@@ -3,7 +3,7 @@
 \docType{data}
 \name{estuary}
 \alias{estuary}
-\title{Estuary Bayesian Network}
+\title{estuary Bayesian Network}
 \format{
 A discrete Bayesian network to calculate an Estuary Trophic Index (ETI) score ranging between 0 (no symptoms of eutrophication) to 1 (grossly eutrophic) for estuaries in Aotearoa New Zealand. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -40,7 +40,7 @@ A discrete Bayesian network to calculate an Estuary Trophic Index (ETI) score ra
 }
 }
 \description{
-Predicting and scoring estuary ecological health using a Bayesian belief network
+Predicting and scoring estuary ecological health using a Bayesian belief network.
 }
 \references{
 Zeldis, J. R., & Plew, D. R. (2022). Predicting and scoring estuary ecological health using a Bayesian belief network. Frontiers in Marine Science, 9, 898992.

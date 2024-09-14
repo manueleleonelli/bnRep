@@ -1,7 +1,7 @@
-#' Safespeeds Bayesian Network
+#' safespeeds Bayesian Network
 #'
 #'
-#' Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks
+#' Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks.
 #' @usage NULL
 #'
 #' @format

@@ -1,6 +1,6 @@
-#' Salmonella Bayesian Networks
+#' salmonella Bayesian Networks
 #'
-#' Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain
+#' Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain.
 #'
 #' @usage NULL
 #'

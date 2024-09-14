@@ -1,6 +1,6 @@
-#' Blockchain Bayesian Network
+#' blockchain Bayesian Network
 #'
-#' A machine learning based approach for predicting blockchain adoption in supply chain
+#' A machine learning based approach for predicting blockchain adoption in supply chain.
 #'
 #' @usage NULL
 #'

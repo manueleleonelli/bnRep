@@ -3,7 +3,7 @@
 \docType{data}
 \name{covidfear}
 \alias{covidfear}
-\title{Covidfear Bayesian Network}
+\title{covidfear Bayesian Network}
 \format{
 A discrete Bayesian network to understand the effect of demographic factors on the answers to the COVID-19 fear scale and the relationship between the scale items. The Bayesian network was learned as in the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network to understand the effect of demographic factors on t
 }
 }
 \description{
-Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear
+Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear.
 }
 \references{
 Leonelli, M., & Varando, G. (2024). Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear. Applied Intelligence, 54(2), 1734-1750.

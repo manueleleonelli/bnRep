@@ -1,6 +1,6 @@
-#' Augmenting Bayesian Network
+#' augmenting Bayesian Network
 #'
-#' Augmenting Learning Components for Safety in Resource Constrained Autonomous Robots
+#' Augmenting learning components for safety in resource constrained autonomous robots.
 #'
 #' @usage NULL
 #'

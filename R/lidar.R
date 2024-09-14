@@ -1,6 +1,6 @@
-#' Lidar Bayesian Network
+#' lidar Bayesian Network
 #'
-#' Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks
+#' Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks.
 #'
 #' @usage NULL
 #'

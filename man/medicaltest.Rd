@@ -3,7 +3,7 @@
 \docType{data}
 \name{medicaltest}
 \alias{medicaltest}
-\title{Medicaltest Bayesian Network}
+\title{medicaltest Bayesian Network}
 \format{
 A discrete Bayesian network representing a synthethic example of two medical tests. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -13,7 +13,7 @@ A discrete Bayesian network representing a synthethic example of two medical tes
 }
 }
 \description{
-Global sensitivity analysis of uncertain parameters in Bayesian networks
+Global sensitivity analysis of uncertain parameters in Bayesian networks.
 }
 \references{
 Ballester-Ripoll, R., & Leonelli, M. (2024). Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks. arXiv preprint arXiv:2406.05764.

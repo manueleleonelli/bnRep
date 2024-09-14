@@ -3,7 +3,7 @@
 \docType{data}
 \name{permaBN}
 \alias{permaBN}
-\title{PermaBN Bayesian Network}
+\title{permaBN Bayesian Network}
 \format{
 A discrete Bayesian network to simulate permafrost thaw in the continuous permafrost region of the Arctic. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -24,7 +24,7 @@ A discrete Bayesian network to simulate permafrost thaw in the continuous permaf
 }
 }
 \description{
-PermaBN: A Bayesian Network framework to help predict permafrost thaw in the Arctic
+PermaBN: A Bayesian Network framework to help predict permafrost thaw in the Arctic.
 }
 \references{
 Beall, K., Loisel, J., & Medina-Cetina, Z. (2022). PermaBN: A Bayesian Network framework to help predict permafrost thaw in the Arctic. Ecological Informatics, 69, 101601.

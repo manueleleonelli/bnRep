@@ -1,7 +1,7 @@
-#' Firerisk Bayesian Network
+#' firerisk Bayesian Network
 #'
 #'
-#' Predictive study of fire risk in building using Bayesian networks
+#' Predictive study of fire risk in building using Bayesian networks.
 #' @usage NULL
 #'
 #' @format

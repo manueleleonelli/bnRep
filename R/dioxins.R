@@ -1,6 +1,6 @@
-#' Dioxins Bayesian Network
+#' dioxins Bayesian Network
 #'
-#' Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs
+#' Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs.
 #'
 #' @usage NULL
 #'

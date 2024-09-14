@@ -3,7 +3,7 @@
 \docType{data}
 \name{covidrisk}
 \alias{covidrisk}
-\title{Covidrisk Bayesian Network}
+\title{covidrisk Bayesian Network}
 \format{
 A discrete Bayesian network to to investigate how various country risks and risks associated to the COVID-19 epidemics relate to each other. The Bayesian network is learned as in the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network to to investigate how various country risks and risk
 }
 }
 \description{
-Highly Efficient Structural Learning of Sparse Staged Trees
+Highly efficient structural learning of sparse staged trees.
 }
 \references{
 Leonelli, M., & Varando, G. (2022, September). Highly efficient structural learning of sparse staged trees. In International Conference on Probabilistic Graphical Models (pp. 193-204). PMLR.

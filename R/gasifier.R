@@ -1,6 +1,6 @@
-#' Gasifier Bayesian Network
+#' gasifier Bayesian Network
 #'
-#' Failure risk assessment of coal gasifier based on the integration of bayesian network and trapezoidal intuitionistic fuzzy number-based similarity aggregation method (TpIFN-SAM)
+#' Failure risk assessment of coal gasifier based on the integration of bayesian network and trapezoidal intuitionistic fuzzy number-based similarity aggregation method (TpIFN-SAM).
 #' @usage NULL
 #'
 #' @format

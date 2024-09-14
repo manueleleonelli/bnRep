@@ -1,6 +1,6 @@
-#' Liquefaction Bayesian Network
+#' liquefaction Bayesian Network
 #'
-#' A continuous Bayesian network regression model for estimating seismic liquefaction-induced settlement of the free-field ground
+#' A continuous Bayesian network regression model for estimating seismic liquefaction-induced settlement of the free-field ground.
 #'
 #' @usage NULL
 #'

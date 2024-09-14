@@ -3,7 +3,7 @@
 \docType{data}
 \name{bank}
 \alias{bank}
-\title{Bank Bayesian Network}
+\title{bank Bayesian Network}
 \format{
 A discrete Bayesian network to model whether customers subscribe to a product after being contacted by direct marketing campaigns of a Portuguese banking institution. The Bayesian network is learned via data as stated in the paper. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network to model whether customers subscribe to a product af
 }
 }
 \description{
-Structural learning of simple staged trees
+Structural learning of simple staged trees.
 }
 \references{
 Leonelli, M., & Varando, G. (2024). Structural learning of simple staged trees. Data Mining and Knowledge Discovery, 38(3), 1520-1544.

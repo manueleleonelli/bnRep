@@ -3,7 +3,7 @@
 \docType{data}
 \name{sallyclark}
 \alias{sallyclark}
-\title{Sallyclark Bayesian Network}
+\title{sallyclark Bayesian Network}
 \format{
 A discrete Bayesian modelling the evidence from the Sally Clark trial. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian modelling the evidence from the Sally Clark trial. Probabili
 }
 }
 \description{
-Measuring coherence with Bayesian networks
+Measuring coherence with Bayesian networks.
 }
 \references{
 Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395.

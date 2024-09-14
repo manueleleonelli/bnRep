@@ -1,6 +1,6 @@
-#' Vessel Bayesian Networks
+#' vessel Bayesian Networks
 #'
-#' Analysis of fishing vessel accidents with Bayesian network and Chi-square methods
+#' Analysis of fishing vessel accidents with Bayesian network and Chi-square methods.
 #'
 #' @usage NULL
 #'

@@ -1,6 +1,6 @@
-#' Algalactivity Bayesian Networks
+#' algalactivity Bayesian Networks
 #'
-#' Influence of resampling techniques on Bayesian network performance in predicting increased algal activity
+#' Influence of resampling techniques on Bayesian network performance in predicting increased algal activity.
 #'
 #' @usage NULL
 #'

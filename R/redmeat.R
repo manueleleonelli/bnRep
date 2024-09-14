@@ -1,6 +1,6 @@
-#' Redmeat Bayesian Network
+#' redmeat Bayesian Network
 #'
-#' Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model
+#' Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model.
 #'
 #' @usage NULL
 #'

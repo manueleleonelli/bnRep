@@ -3,7 +3,7 @@
 \docType{data}
 \name{argument}
 \alias{argument}
-\title{Argument Bayesian Network}
+\title{argument Bayesian Network}
 \format{
 A discrete Bayesian network formalizing Walton's re-constructed set of critical questions. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -20,7 +20,7 @@ A discrete Bayesian network formalizing Walton's re-constructed set of critical 
 }
 }
 \description{
-Towards an empirically informed normative Bayesian scheme-based account of argument from expert opinion
+Towards an empirically informed normative Bayesian scheme-based account of argument from expert opinion.
 }
 \references{
 Pei, K. N., & Chin, C. S. A. (2023). Towards an empirically informed normative Bayesian scheme-based account of argument from expert opinion. Thinking & Reasoning, 29(4), 726-759.

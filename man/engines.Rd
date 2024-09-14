@@ -3,7 +3,7 @@
 \docType{data}
 \name{engines}
 \alias{engines}
-\title{Engines Bayesian Network}
+\title{engines Bayesian Network}
 \format{
 A discrete Bayesian network to assess the factors contributing to the engine's slow-down processes. The probabilities were given in the referenced paper. The vertices are:
 \describe{
@@ -22,7 +22,7 @@ A discrete Bayesian network to assess the factors contributing to the engine's s
 }
 }
 \description{
-A fuzzy Bayesian network risk assessment model for analyzing the causes of slow-down processes in two-stroke ship main engines
+A fuzzy Bayesian network risk assessment model for analyzing the causes of slow-down processes in two-stroke ship main engines.
 }
 \references{
 Bashan, V., Yucesan, M., Gul, M., & Demirel, H. (2024). A fuzzy Bayesian network risk assessment model for analyzing the causes of slow-down processes in two-stroke ship main engines. Ships and Offshore Structures, 19(5), 670-686.

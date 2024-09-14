@@ -3,7 +3,7 @@
 \docType{data}
 \name{knowledge}
 \alias{knowledge}
-\title{Knowledge Bayesian Network}
+\title{knowledge Bayesian Network}
 \format{
 A discrete Bayesian network to predict whether students would pass specific courses. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network to predict whether students would pass specific cour
 }
 }
 \description{
-Dynamic knowledge inference based on Bayesian network learning
+Dynamic knowledge inference based on Bayesian network learning.
 }
 \references{
 Wang, D., AmrilJaharadak, A., & Xiao, Y. (2020). Dynamic knowledge inference based on Bayesian network learning. Mathematical Problems in Engineering, 2020(1), 6613896.

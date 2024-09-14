@@ -1,6 +1,6 @@
-#' Covidtech Bayesian Network
+#' covidtech Bayesian Network
 #'
-#' The YODO algorithm: An eﬃcient computational framework for sensitivity analysis in Bayesian networks
+#' The YODO algorithm: An eﬃcient computational framework for sensitivity analysis in Bayesian networks.
 #'
 #' @usage NULL
 #'

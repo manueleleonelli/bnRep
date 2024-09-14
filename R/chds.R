@@ -1,6 +1,6 @@
-#' Chds Bayesian Network
+#' chds Bayesian Network
 #'
-#' Refining a Bayesian network using a chain event graph
+#' Refining a Bayesian network using a chain event graph.
 #'
 #' @usage NULL
 #'

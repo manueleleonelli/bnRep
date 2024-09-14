@@ -1,6 +1,6 @@
-#' Criminal Bayesian Networks
+#' criminal Bayesian Networks
 #'
-#' Using agent-based simulations to evaluate Bayesian networks for criminal scenarios
+#' Using agent-based simulations to evaluate Bayesian networks for criminal scenarios.
 #'
 #' @usage NULL
 #'

@@ -1,6 +1,6 @@
-#' TBM Bayesian Network
+#' tbm Bayesian Network
 #'
-#' Risk assessment of TBM jamming based on Bayesian networks
+#' Risk assessment of TBM jamming based on Bayesian networks.
 #'
 #' @usage NULL
 #'

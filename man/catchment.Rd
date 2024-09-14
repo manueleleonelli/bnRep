@@ -3,7 +3,7 @@
 \docType{data}
 \name{catchment}
 \alias{catchment}
-\title{Catchment Bayesian Network}
+\title{catchment Bayesian Network}
 \format{
 A discrete Bayesian network  to estimate the probability of individual stressors being causal for biological degradation at the scale of individual riverine ecosystems (Catchment BN). The network was available from an associated repository. The vertices are:
 \describe{
@@ -29,7 +29,7 @@ A discrete Bayesian network  to estimate the probability of individual stressors
 }
 }
 \description{
-A framework to diagnose the causes of river ecosystem deterioration using biological symptoms
+A framework to diagnose the causes of river ecosystem deterioration using biological symptoms.
 }
 \references{
 Feld, C. K., Saeedghalati, M., & Hering, D. (2020). A framework to diagnose the causes of river ecosystem deterioration using biological symptoms. Journal of Applied Ecology, 57(11), 2271-2284.

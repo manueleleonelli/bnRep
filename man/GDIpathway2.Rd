@@ -38,7 +38,7 @@ A discrete Bayesian network to pinpoint key cellular factors and pathways likely
 }
 }
 \description{
-Integrative network modeling highlights the crucial roles of Rho-GDI signaling pathway in the progression of non-small cell lung cancer
+Integrative network modeling highlights the crucial roles of Rho-GDI signaling pathway in the progression of non-small cell lung cancer.
 }
 \references{
 Gupta, S., Vundavilli, H., Osorio, R. S. A., Itoh, M. N., Mohsen, A., Datta, A., ... & Tripathi, L. P. (2022). Integrative network modeling highlights the crucial roles of rho-GDI signaling pathway in the progression of non-small cell lung cancer. IEEE Journal of Biomedical and Health Informatics, 26(9), 4785-4793.

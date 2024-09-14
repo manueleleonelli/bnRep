@@ -3,7 +3,7 @@
 \docType{data}
 \name{suffocation}
 \alias{suffocation}
-\title{Suffocation Bayesian Network}
+\title{suffocation Bayesian Network}
 \format{
 A Gaussian Bayesian network to investigate the human-related factors associated with suffocation on ships during docking repair. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -45,7 +45,7 @@ A Gaussian Bayesian network to investigate the human-related factors associated 
 }
 }
 \description{
-Human-related hazardous events assessment for suffocation on ships by integrating Bayesian network and complex network
+Human-related hazardous events assessment for suffocation on ships by integrating Bayesian network and complex network.
 }
 \references{
 Qiao, W., Guo, H., Huang, E., Deng, W., Lian, C., & Chen, H. (2022). Human-Related Hazardous Events Assessment for Suffocation on Ships by Integrating Bayesian Network and Complex Network. Applied Sciences, 12(14), 6905.

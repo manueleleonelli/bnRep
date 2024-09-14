@@ -3,7 +3,7 @@
 \docType{data}
 \name{waterlead}
 \alias{waterlead}
-\title{Waterlead Bayesian Network}
+\title{waterlead Bayesian Network}
 \format{
 A discrete Bayesian network to predict building-wide water lead risk in over 4,000 child care facilities in North Carolina according to maximum and 90th percentile lead levels from water lead concentrations at 22,943 taps. The Bayesian network was learned using the code in the referenced paper. The vertices are:
 \describe{
@@ -27,7 +27,7 @@ A discrete Bayesian network to predict building-wide water lead risk in over 4,0
 }
 }
 \description{
-Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks
+Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks.
 }
 \references{
 Mulhern, R. E., Kondash, A. J., Norman, E., Johnson, J., Levine, K., McWilliams, A., ... & Hoponick Redmon, J. (2023). Improved decision making for water lead testing in US child care facilities using machine-learned Bayesian networks. Environmental Science & Technology, 57(46), 17959-17970.

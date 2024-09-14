@@ -3,12 +3,12 @@
 \docType{data}
 \name{diagnosis}
 \alias{diagnosis}
-\title{Diagnosis Bayesian Network}
+\title{diagnosis Bayesian Network}
 \format{
 A discrete Bayesian network to support the process monitoring scheme. Probabilities were given within the referenced paper, although the variances were not clearly specified. The vertices are X1, X2, ..., X16.
 }
 \description{
-An interpretable unsupervised Bayesian network model for fault detection and diagnosis
+An interpretable unsupervised Bayesian network model for fault detection and diagnosis.
 }
 \references{
 Yang, W. T., Reis, M. S., Borodin, V., Juge, M., & Roussy, A. (2022). An interpretable unsupervised Bayesian network model for fault detection and diagnosis. Control Engineering Practice, 127, 105304.

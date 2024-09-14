@@ -1,7 +1,7 @@
-#' Macrophytes Bayesian Network
+#' macrophytes Bayesian Network
 #'
 #'
-#' Mechanical removal of macrophytes in freshwater ecosystems: Implications for ecosystem structure and function
+#' Mechanical removal of macrophytes in freshwater ecosystems: Implications for ecosystem structure and function.
 #' @usage NULL
 #'
 #' @format

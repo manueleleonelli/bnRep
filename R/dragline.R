@@ -1,6 +1,6 @@
-#' Dragline Bayesian Network
+#' dragline Bayesian Network
 #'
-#' Bayesian network approach for dragline reliability analysis: A case study
+#' Bayesian network approach for dragline reliability analysis: A case study.
 #' @usage NULL
 #'
 #' @format

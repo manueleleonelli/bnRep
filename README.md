@@ -1,8 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# bnRep
+# bnRep <img src="https://github.com/manueleleonelli/bnRep/hex-bnRep.png" align="right" height="150px" width="150px"/>
 
+<!-- badges: start -->
 <!-- badges: start -->
 <!-- badges: end -->
 

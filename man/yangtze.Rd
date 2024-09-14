@@ -3,7 +3,7 @@
 \docType{data}
 \name{yangtze}
 \alias{yangtze}
-\title{Yangtze Bayesian Network}
+\title{yangtze Bayesian Network}
 \format{
 A discrete Bayesian network to determine the probabilities and consequences of accident scenarios in maritime transportation systems. Probabilities were given within the referenced paper (some inconsistencies in the numbers provided). The vertices are:
 \describe{
@@ -41,7 +41,7 @@ A discrete Bayesian network to determine the probabilities and consequences of a
 }
 }
 \description{
-Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary
+Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary.
 }
 \references{
 Fu, S., Gu, S., Zhang, Y., Zhang, M., & Weng, J. (2023). Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary. Ocean Engineering, 286, 115637.

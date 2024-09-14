@@ -1,6 +1,6 @@
-#' Projectmanagement Bayesian Network
+#' projectmanagement Bayesian Network
 #'
-#' Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects
+#' Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects.
 #'
 #' @usage NULL
 #'

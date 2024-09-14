@@ -3,7 +3,7 @@
 \docType{data}
 \name{consequenceCovid}
 \alias{consequenceCovid}
-\title{ConsequenceCovid Bayesian Network}
+\title{consequenceCovid Bayesian Network}
 \format{
 A discrete Bayesian network including demographic information of the respondents of the Eurobarometer 93.1 together with their opinion about how the COVID-19 emergency was handled by local authorities and its consequences in the long term. The Bayesian network was learned as in the referenced paper. The vertices are:
 \describe{
@@ -25,7 +25,7 @@ A discrete Bayesian network including demographic information of the respondents
 }
 }
 \description{
-Global sensitivity analysis of uncertain parameters in Bayesian networks
+Global sensitivity analysis of uncertain parameters in Bayesian networks.
 }
 \references{
 Ballester-Ripoll, R., & Leonelli, M. (2024). Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks. arXiv preprint arXiv:2406.05764.

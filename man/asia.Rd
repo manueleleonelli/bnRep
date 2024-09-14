@@ -3,7 +3,7 @@
 \docType{data}
 \name{asia}
 \alias{asia}
-\title{Asia Bayesian Network}
+\title{asia Bayesian Network}
 \format{
 A synthetic discrete Bayesian network to model the relationships between lung diseases and visits to Asia. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A synthetic discrete Bayesian network to model the relationships between lung di
 }
 }
 \description{
-Local Computation with Probabilities on Graphical Structures and their Application to Expert Systems
+Local computation with probabilities on graphical structures and their application to expert systems.
 }
 \references{
 Lauritzen, S. L., & Spiegelhalter, D. J. (1988). Local computations with probabilities on graphical structures and their application to expert systems. Journal of the Royal Statistical Society: Series B (Methodological), 50(2), 157-194.

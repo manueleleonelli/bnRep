@@ -1,7 +1,7 @@
-#' Engines Bayesian Network
+#' engines Bayesian Network
 #'
 #'
-#' A fuzzy Bayesian network risk assessment model for analyzing the causes of slow-down processes in two-stroke ship main engines
+#' A fuzzy Bayesian network risk assessment model for analyzing the causes of slow-down processes in two-stroke ship main engines.
 #' @usage NULL
 #'
 #' @format

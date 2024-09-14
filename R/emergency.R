@@ -1,7 +1,7 @@
-#' Emergency Bayesian Network
+#' emergency Bayesian Network
 #'
 #'
-#' A risk evaluation method for human-machine interaction in emergencies based on multiple mental models-driven situation assessment
+#' A risk evaluation method for human-machine interaction in emergencies based on multiple mental models-driven situation assessment.
 #' @usage NULL
 #'
 #' @format

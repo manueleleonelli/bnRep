@@ -3,7 +3,7 @@
 \docType{data}
 \name{intensification}
 \alias{intensification}
-\title{Intensification Bayesian Network}
+\title{intensification Bayesian Network}
 \format{
 A discrete Bayesian network to or identifying determinants of intensification and their interrelationships. The Bayesian network is learned as in the referenced paper. The vertices are:
 \describe{
@@ -26,7 +26,7 @@ A discrete Bayesian network to or identifying determinants of intensification an
 }
 }
 \description{
-Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach
+Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach.
 }
 \references{
 Gebrekidan, B. H., Heckelei, T., & Rasch, S. (2023). Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach. Agricultural Economics, 54(1), 23-43.

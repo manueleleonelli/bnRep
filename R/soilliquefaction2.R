@@ -1,6 +1,6 @@
-#' Soilliquefaction Bayesian Networks
+#' soilliquefaction Bayesian Networks
 #'
-#' Application of machine learning algorithms for the evaluation of seismic soil liquefaction potential
+#' Application of machine learning algorithms for the evaluation of seismic soil liquefaction potential.
 #' @usage NULL
 #'
 #' @format

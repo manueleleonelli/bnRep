@@ -1,6 +1,6 @@
-#' Bank Bayesian Network
+#' bank Bayesian Network
 #'
-#' Structural learning of simple staged trees
+#' Structural learning of simple staged trees.
 #'
 #' @usage NULL
 #'

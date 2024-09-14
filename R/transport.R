@@ -1,6 +1,6 @@
-#' Transport Bayesian Network
+#' transport Bayesian Network
 #'
-#' Bayesian networks: with examples in R
+#' Bayesian networks: with examples in R.
 #'
 #' @usage NULL
 #'

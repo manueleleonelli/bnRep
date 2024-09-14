@@ -1,6 +1,6 @@
-#' Poultry Bayesian Network
+#' poultry Bayesian Network
 #'
-#' Practical application of a Bayesian network approach to poultry epigenetics and stress
+#' Practical application of a Bayesian network approach to poultry epigenetics and stress.
 #'
 #' @usage NULL
 #'

@@ -1,7 +1,7 @@
-#' Windturbine Bayesian Network
+#' windturbine Bayesian Network
 #'
 #'
-#' Reliability analysis of a floating offshore wind turbine using Bayesian Networks
+#' Reliability analysis of a floating offshore wind turbine using Bayesian Networks.
 #' @usage NULL
 #'
 #' @format

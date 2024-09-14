@@ -3,7 +3,7 @@
 \docType{data}
 \name{inverters}
 \alias{inverters}
-\title{Inverters Bayesian Network}
+\title{inverters Bayesian Network}
 \format{
 A discrete Bayesian network to infer the probable uncertain faults. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -39,7 +39,7 @@ A discrete Bayesian network to infer the probable uncertain faults. Probabilitie
 }
 }
 \description{
-Intelligent fault inference of inverters based on a three-layer Bayesian network
+Intelligent fault inference of inverters based on a three-layer Bayesian network.
 }
 \references{
 Han, S., He, Y., Zheng, S., & Wang, F. (2019). Intelligent Fault Inference of Inverters Based on a Three-Layer Bayesian Network. Mathematical Problems in Engineering, 2019(1), 3653746.

@@ -1,6 +1,6 @@
-#' Twinframework Bayesian Network
+#' twinframework Bayesian Network
 #'
-#' Sustainable operation and maintenance modeling and application of building infrastructures combined with digital twin framework
+#' Sustainable operation and maintenance modeling and application of building infrastructures combined with digital twin framework.
 #'
 #' @usage NULL
 #'

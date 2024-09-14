@@ -3,7 +3,7 @@
 \docType{data}
 \name{oxygen}
 \alias{oxygen}
-\title{Oxygen Bayesian Network}
+\title{oxygen Bayesian Network}
 \format{
 A discrete Bayesian network to calculate failure rates of oxygen tanks in hospitals during the COVID-19 pandemic. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -41,7 +41,7 @@ A discrete Bayesian network to calculate failure rates of oxygen tanks in hospit
 }
 }
 \description{
-Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic
+Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic.
 }
 \references{
 Laal, F., Hanifi, S. M., Madvari, R. F., Khoshakhlagh, A. H., & Arefi, M. F. (2023). Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic. Heliyon, 9(8).

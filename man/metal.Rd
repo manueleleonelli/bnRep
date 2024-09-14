@@ -3,7 +3,7 @@
 \docType{data}
 \name{metal}
 \alias{metal}
-\title{Metal Bayesian Network}
+\title{metal Bayesian Network}
 \format{
 A discrete Bayesian network to model the uncertainty surrounding the occurrence of a fly-out accident during metal lathe machining operations and its corresponding consequences. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A discrete Bayesian network to model the uncertainty surrounding the occurrence 
 }
 }
 \description{
-Bayesian belief network modeling of accident occurrence in metal lathe machining operations
+Bayesian belief network modeling of accident occurrence in metal lathe machining operations.
 }
 \references{
 Akinyemi, O. O., Adeyemi, H. O., Olatunde, O. B., Folorunsho, O., & Musa, M. B. (2022). Bayesian belief network modeling of accident occurrence in metal lathe machining operations. Mindanao Journal of Science and Technology, 20(2).

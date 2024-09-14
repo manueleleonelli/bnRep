@@ -1,7 +1,7 @@
-#' Algorithms Bayesian Networks
+#' algorithms Bayesian Networks
 #'
 #'
-#' Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation
+#' Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation.
 #' @usage NULL
 #'
 #' @format

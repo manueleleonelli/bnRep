@@ -1,7 +1,7 @@
-#' Soil Bayesian Network
+#' soil Bayesian Network
 #'
 #'
-#' Characteristic study of some parameters of soil irrigated by magnetized waters
+#' Characteristic study of some parameters of soil irrigated by magnetized waters.
 #' @usage NULL
 #'
 #' @format

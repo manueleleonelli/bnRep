@@ -3,7 +3,7 @@
 \docType{data}
 \name{windturbine}
 \alias{windturbine}
-\title{Windturbine Bayesian Network}
+\title{windturbine Bayesian Network}
 \format{
 A discrete Bayesian network to model and analyze the reliability of a floating offshore wind turbine. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -132,7 +132,7 @@ A discrete Bayesian network to model and analyze the reliability of a floating o
 }
 }
 \description{
-Reliability analysis of a floating offshore wind turbine using Bayesian Networks
+Reliability analysis of a floating offshore wind turbine using Bayesian Networks.
 }
 \references{
 Li, H., Soares, C. G., & Huang, H. Z. (2020). Reliability analysis of a floating offshore wind turbine using Bayesian Networks. Ocean Engineering, 217, 107827.

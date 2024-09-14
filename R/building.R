@@ -1,6 +1,6 @@
-#' Building Bayesian Network
+#' building Bayesian Network
 #'
-#' Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique
+#' Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique.
 #'
 #' @usage NULL
 #'

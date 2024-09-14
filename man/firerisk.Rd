@@ -3,7 +3,7 @@
 \docType{data}
 \name{firerisk}
 \alias{firerisk}
-\title{Firerisk Bayesian Network}
+\title{firerisk Bayesian Network}
 \format{
 A discrete Bayesian network to calculate the probability of fire ignition in buildings (root nodes were given a uniform distribution). The probabilities were available from a repository. The vertices are:
 \describe{
@@ -33,7 +33,7 @@ A discrete Bayesian network to calculate the probability of fire ignition in bui
 }
 }
 \description{
-Predictive study of fire risk in building using Bayesian networks
+Predictive study of fire risk in building using Bayesian networks.
 }
 \references{
 Issa, S. K., Bakkali, H., Azmani, A., & Amami, B. (2024). Predictive study of fire risk in building using Bayesian networks. Journal of Theoretical and Applied Information Technology, 102(7).

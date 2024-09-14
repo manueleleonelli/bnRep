@@ -3,7 +3,7 @@
 \docType{data}
 \name{softwarelogs3}
 \alias{softwarelogs3}
-\title{Softwarelogs Bayesian Networks}
+\title{softwarelogs Bayesian Networks}
 \format{
 A discrete Bayesian network to discover poor performance indicators in a system and to explore usage patterns that usually require temporal analysis. The networks are given in the referenced paper. The vertices are:
 \describe{
@@ -24,7 +24,7 @@ A discrete Bayesian network to discover poor performance indicators in a system 
 }
 }
 \description{
-Bayesian Network analysis of software logs for data‐driven software maintenance
+Bayesian Network analysis of software logs for data‐driven software maintenance.
 }
 \references{
 del Rey, S., Martinez-Fernandez, S., & Salmeron, A. (2023). Bayesian Network analysis of software logs for data-driven software maintenance. IET Software, 17(3), 268-286.

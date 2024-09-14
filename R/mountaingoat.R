@@ -1,6 +1,6 @@
-#' Mountaingoat Bayesian Network
+#' mountaingoat Bayesian Network
 #'
-#' Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada
+#' Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada.
 #'
 #' @usage NULL
 #'

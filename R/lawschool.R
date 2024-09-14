@@ -1,6 +1,6 @@
-#' Lawschool Bayesian Network
+#' lawschool Bayesian Network
 #'
-#' A survey on datasets for fairness-aware machine learning
+#' A survey on datasets for fairness-aware machine learning.
 #'
 #' @usage NULL
 #'

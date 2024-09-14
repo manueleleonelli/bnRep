@@ -1,6 +1,6 @@
-#' Phdarticles Bayesian Network
+#' phdarticles Bayesian Network
 #'
-#' The R package stagedtrees for structural learning of stratified staged trees
+#' The R package stagedtrees for structural learning of stratified staged trees.
 #'
 #' @usage NULL
 #'

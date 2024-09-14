@@ -3,7 +3,7 @@
 \docType{data}
 \name{firealarm}
 \alias{firealarm}
-\title{Firealarm Bayesian Network}
+\title{firealarm Bayesian Network}
 \format{
 A discrete Bayesian network to model a simple fire alarm system. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -16,7 +16,7 @@ A discrete Bayesian network to model a simple fire alarm system. Probabilities w
 }
 }
 \description{
-When do numbers really matter?
+When do numbers really matter?.
 }
 \references{
 Hei Chan, Adnan Darwiche (2002). "When do numbers really matter?". Journal of Artificial Intelligence Research 17 (265-287).

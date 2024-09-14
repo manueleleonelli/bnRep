@@ -3,7 +3,7 @@
 \docType{data}
 \name{fluids1}
 \alias{fluids1}
-\title{Fluids Bayesian Networks}
+\title{fluids Bayesian Networks}
 \format{
 A discrete Bayesian network to assess the presence of blood in the recovered material and combine potentially contradictory observations. The network was available from an associated repository. The vertices are:
 \describe{
@@ -14,7 +14,7 @@ A discrete Bayesian network to assess the presence of blood in the recovered mat
 }
 }
 \description{
-Use of Bayesian Networks for the investigation of the nature of biological material in casework
+Use of Bayesian Networks for the investigation of the nature of biological material in casework.
 }
 \references{
 Samie, L., Champod, C., Delemont, S., Basset, P., Hicks, T., & Castella, V. (2022). Use of Bayesian Networks for the investigation of the nature of biological material in casework. Forensic Science International, 331, 111174.

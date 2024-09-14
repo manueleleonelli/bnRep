@@ -1,6 +1,6 @@
-#' Nuclearwaste Bayesian Network
+#' nuclearwaste Bayesian Network
 #'
-#' Comprehensiveness of scenarios in the safety assessment of nuclear waste repositories
+#' Comprehensiveness of scenarios in the safety assessment of nuclear waste repositories.
 #'
 #' @usage NULL
 #'

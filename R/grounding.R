@@ -1,6 +1,6 @@
-#' Grounding Bayesian Network
+#' grounding Bayesian Network
 #'
-#' A framework for quantitative analysis of the causation of grounding accidents in arctic shipping
+#' A framework for quantitative analysis of the causation of grounding accidents in arctic shipping.
 #'
 #' @usage NULL
 #'

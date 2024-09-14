@@ -1,6 +1,6 @@
-#' Cng Bayesian Network
+#' cng Bayesian Network
 #'
-#' Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling
+#' Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling.
 #' @usage NULL
 #'
 #' @format

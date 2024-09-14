@@ -3,7 +3,7 @@
 \docType{data}
 \name{bullet}
 \alias{bullet}
-\title{Bullet Bayesian Network}
+\title{bullet Bayesian Network}
 \format{
 A discrete Bayesian network to leverage the strengths of individual approaches to evaluate the similarity of features on two bullets. The network was available in a repository. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A discrete Bayesian network to leverage the strengths of individual approaches t
 bullet
 }
 \description{
-Combined interpretation of objective firearm evidence comparison algorithms using Bayesian network
+Combined interpretation of objective firearm evidence comparison algorithms using Bayesian network.
 }
 \details{
 @usage NULL

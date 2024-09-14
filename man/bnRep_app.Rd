@@ -7,5 +7,5 @@
 bnRep_app()
 }
 \description{
-This function launches the Shiny app that allows users to interactively view and filter the Bayesian networks repository
+This function launches the Shiny app that allows users to interactively view and filter the Bayesian networks repository.
 }

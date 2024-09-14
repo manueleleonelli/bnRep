@@ -1,7 +1,7 @@
-#' Liquidity Bayesian Network
+#' liquidity Bayesian Network
 #'
 #'
-#' An artificial neural network and Bayesian network model for liquidity risk assessment in banking
+#' An artificial neural network and Bayesian network model for liquidity risk assessment in banking.
 #' @usage NULL
 #'
 #' @format

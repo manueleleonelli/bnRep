@@ -1,6 +1,6 @@
-#' Foodallergy Bayesian Networks
+#' foodallergy Bayesian Networks
 #'
-#' Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling
+#' Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling.
 #'
 #' @usage NULL
 #'

@@ -1,7 +1,7 @@
-#' Fluids Bayesian Networks
+#' fluids Bayesian Networks
 #'
 #'
-#' Use of Bayesian Networks for the investigation of the nature of biological material in casework
+#' Use of Bayesian Networks for the investigation of the nature of biological material in casework.
 #' @usage NULL
 #'
 #' @format

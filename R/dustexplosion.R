@@ -1,6 +1,6 @@
-#' Dustexplosion Bayesian Network
+#' dustexplosion Bayesian Network
 #'
-#' Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network
+#' Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network.
 #' @usage NULL
 #'
 #' @format

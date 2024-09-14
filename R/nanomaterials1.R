@@ -1,7 +1,7 @@
-#' Nanomaterial Bayesian Networks
+#' nanomaterial Bayesian Networks
 #'
 #'
-#' Probabilistic model for assessing occupational risk during the handling of nanomaterials
+#' Probabilistic model for assessing occupational risk during the handling of nanomaterials.
 #' @usage NULL
 #'
 #' @format

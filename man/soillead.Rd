@@ -3,7 +3,7 @@
 \docType{data}
 \name{soillead}
 \alias{soillead}
-\title{Soillead Bayesian Network}
+\title{soillead Bayesian Network}
 \format{
 A discrete Bayesian network to classify residential parcels by risk of exceeding residential gardening standards. The probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -19,7 +19,7 @@ A discrete Bayesian network to classify residential parcels by risk of exceeding
 }
 }
 \description{
-Lead distribution in urban soil in a medium-sized city: household-scale analysis
+Lead distribution in urban soil in a medium-sized city: household-scale analysis.
 }
 \references{
 Obeng-Gyasi, E., Roostaei, J., & Gibson, J. M. (2021). Lead distribution in urban soil in a medium-sized city: household-scale analysis. Environmental Science & Technology, 55(6), 3696-3705.

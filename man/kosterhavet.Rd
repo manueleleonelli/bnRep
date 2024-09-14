@@ -3,7 +3,7 @@
 \docType{data}
 \name{kosterhavet}
 \alias{kosterhavet}
-\title{Kosterhavet Bayesian Network}
+\title{kosterhavet Bayesian Network}
 \format{
 A discrete Bayesian network to predict the consequences of human activities for coastal ecosystems and identify areas for directed abatement measures. Probabilities were given within the referenced paper (missing probabilities were given a uniform distribution). The vertices are:
 \describe{
@@ -48,7 +48,7 @@ A discrete Bayesian network to predict the consequences of human activities for 
 }
 }
 \description{
-A Bayesian network to inform the management of key species in Kosterhavet National Park under contrasting storylines of environmental change
+A Bayesian network to inform the management of key species in Kosterhavet National Park under contrasting storylines of environmental change.
 }
 \references{
 Rettig, K., Hansen, A. S., Obst, M., Hering, D., & Feld, C. K. (2023). A Bayesian network to inform the management of key species in Kosterhavet National Park under contrasting storylines of environmental change. Estuarine, Coastal and Shelf Science, 280, 108158.

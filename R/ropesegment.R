@@ -1,6 +1,6 @@
-#' Ropesegment Bayesian Network
+#' ropesegment Bayesian Network
 #'
-#' Availability optimization of a dragline subsystem using Bayesian network
+#' Availability optimization of a dragline subsystem using Bayesian network.
 #'
 #' @usage NULL
 #'

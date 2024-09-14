@@ -3,7 +3,7 @@
 \docType{data}
 \name{foodallergy1}
 \alias{foodallergy1}
-\title{Foodallergy Bayesian Networks}
+\title{foodallergy Bayesian Networks}
 \format{
 A discrete Bayesian network to to estimate conditional probabilities of each food allergy when other food allergies are present (full population). Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -18,7 +18,7 @@ A discrete Bayesian network to to estimate conditional probabilities of each foo
 }
 }
 \description{
-Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling
+Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling.
 }
 \references{
 Belmabrouk, S., Abdelhedi, R., Bougacha, F., Bouzid, F., Gargouri, H., Ayadi, I., ... & Rebai, A. (2023). Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling. World Allergy Organization Journal, 16(9), 100813.

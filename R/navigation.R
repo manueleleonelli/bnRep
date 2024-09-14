@@ -1,6 +1,6 @@
-#' Navigation Bayesian Network
+#' navigation Bayesian Network
 #'
-#' Safety analysis of RNP approach procedure using fusion of FRAM model and Bayesian belief network
+#' Safety analysis of RNP approach procedure using fusion of FRAM model and Bayesian belief network.
 #' @usage NULL
 #'
 #' @format

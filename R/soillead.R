@@ -1,7 +1,7 @@
-#' Soillead Bayesian Network
+#' soillead Bayesian Network
 #'
 #'
-#' Lead distribution in urban soil in a medium-sized city: household-scale analysis
+#' Lead distribution in urban soil in a medium-sized city: household-scale analysis.
 #' @usage NULL
 #'
 #' @format

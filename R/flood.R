@@ -1,6 +1,6 @@
-#' Flood Bayesian Network
+#' flood Bayesian Network
 #'
-#' A trade-off between farm production and flood alleviation using land use tillage preferences as a natural flood management (NFM) strategy
+#' A trade-off between farm production and flood alleviation using land use tillage preferences as a natural flood management (NFM) strategy.
 #'
 #' @usage NULL
 #'

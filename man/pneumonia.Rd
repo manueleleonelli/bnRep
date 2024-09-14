@@ -3,7 +3,7 @@
 \docType{data}
 \name{pneumonia}
 \alias{pneumonia}
-\title{Pneumonia Bayesian Network}
+\title{pneumonia Bayesian Network}
 \format{
 A discrete Bayesian network  to predict causative pathogens for childhood pneumonia. Probabilities were given within the referenced paper. The vertices are:
 \describe{
@@ -72,7 +72,7 @@ A discrete Bayesian network  to predict causative pathogens for childhood pneumo
 }
 }
 \description{
-Predicting the causative pathogen among children with pneumonia using a causal Bayesian network
+Predicting the causative pathogen among children with pneumonia using a causal Bayesian network.
 }
 \references{
 Wu, Y., Mascaro, S., Bhuiyan, M., Fathima, P., Mace, A. O., Nicol, M. P., ... & Blyth, C. C. (2023). Predicting the causative pathogen among children with pneumonia using a causal Bayesian network. PLoS Computational Biology, 19(3), e1010967.

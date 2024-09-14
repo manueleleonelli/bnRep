@@ -1,6 +1,6 @@
-#' Covidrisk Bayesian Network
+#' covidrisk Bayesian Network
 #'
-#'  Highly Efficient Structural Learning of Sparse Staged Trees
+#'  Highly efficient structural learning of sparse staged trees.
 #'
 #' @usage NULL
 #'
