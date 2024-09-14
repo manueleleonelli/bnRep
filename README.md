@@ -92,4 +92,34 @@ repository:
 - `bnRep_app`: a Shiny app to interactively explore `bnRep_summary` and
   filter the networks according to various criteria.
 
+Here’s the columns of `bnRep_summary`:
+
+    #>  [1] "Name"                   "Type"                   "Structure"             
+    #>  [4] "Probabilities"          "Graph"                  "Area"                  
+    #>  [7] "Nodes"                  "Arcs"                   "Parameters"            
+    #> [10] "Avg. Parents"           "Max Parents"            "Avg. Levels"           
+    #> [13] "Max Levels"             "Average Markov Blanket" "Year"                  
+    #> [16] "Journal"                "Reference"
+
 ### An overview of the Bayesian networks in bnRep
+
+The following plots show some summary statistics of the repository.
+
+<img src="man/figures/README-unnamed-chunk-5-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-6-1.png" width="50%" />
+<img src="man/figures/README-unnamed-chunk-7-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-8-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-9-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-10-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-11-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-12-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-13-1.png" width="50%" />
+
+<img src="man/figures/README-unnamed-chunk-14-1.png" width="50%" />
