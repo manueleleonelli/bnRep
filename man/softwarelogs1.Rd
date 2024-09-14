@@ -7,11 +7,11 @@
 \format{
 A discrete Bayesian network to discover poor performance indicators in a system and to explore usage patterns that usually require temporal analysis. The networks are given in the referenced paper. The vertices are:
 \describe{
-\item{error}{Error that has occurred (com.mysql.jdbc.jdbc2.optional.MysqlDataSource, java.lang.IllegalArgumentException, java.lang.NullPointerException, java.lang.NumberFormatException, javax.ejb.EJBException, javax.ejb.EJBTransactionRolledbackException);}
-\item{class}{Class that throws the error (chessleague.db.AccountFacade, chessleague.ejb.AccountBean, ... , org.jboss.weld.servlet.WeldTerminalListener);}
-\item{method}{Method where the error has occured (_jspService, \if{html}{\out{<init>}}, deleteAccount, findClass, forInputString, getDataSourceObject, getInfo, getSessionContext, mapLocal3xException, processSystemException, publishMessage, sendHeadlines, undoBid);}
+\item{error}{Error that has occured (com.mysql, etc.);}
+\item{class}{Class that throws the error (chessleague.db, etc.);}
 \item{severity}{Severity of the entry (SEVERE, WARNING, INFO);}
-\item{thread_name}{Method where the error has occurred (AutoDeployer, ContainerBackgroundProcessor/ChessLeague-war, ContainerBackgroundProcessor, deployment-jar-scanner, http-listener, RunLevelControllerThread).}
+\item{method}{Method where the error has occured (deleteAccount, etc.);}
+\item{thread_name}{Name of the thread (AutoDeployer, etc.);}
 }
 }
 \description{

@@ -22,6 +22,9 @@ academic literature.” ArXiv 24….
         year = {2024}
       }
 
+Go to <https://manueleleonelli.shinyapps.io/bnRep/> to explore the
+repository online!
+
 ## Contribution
 
 If you are interested in having your Bayesian network included in
@@ -90,7 +93,8 @@ repository:
   in the repository.
 
 - `bnRep_app`: a Shiny app to interactively explore `bnRep_summary` and
-  filter the networks according to various criteria.
+  filter the networks according to various criteria. The app is also
+  available online at <https://manueleleonelli.shinyapps.io/bnRep/>.
 
 Here’s the columns of `bnRep_summary`:
 

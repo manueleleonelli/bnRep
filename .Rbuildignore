@@ -3,3 +3,6 @@
 ^README\.Rmd$
 ^LICENSE\.md$
 ^data-raw$
+^hex-bnRep\.png$
+^NEWS\.md$
+^cran-comments\.md$

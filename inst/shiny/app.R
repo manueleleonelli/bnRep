@@ -6,7 +6,6 @@ library(dplyr)
 library(bnlearn)  # Assuming this is needed for graphviz.plot
 library(DT)       # For interactive tables
 library(qgraph)
-library(bnRep)
 
 # Define UI for the application
 ui <- fluidPage(
