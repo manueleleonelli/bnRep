@@ -38,7 +38,7 @@ Leonelli, M (2024). "bnRep: A repository of Bayesian networks from the academic 
   }
 ```
 
-Go to (link here) to explore the repository online!
+Go to [https://manueleleonelli.shinyapps.io/bnRep/](https://manueleleonelli.shinyapps.io/bnRep/) to explore the repository online!
 
 ## Contribution
 
@@ -88,7 +88,7 @@ Notice that the function `bn.net` function must be used in order to plot the net
 
  - `bnRep_summary`: a dataframe with important details about each network in the repository.
  
- - `bnRep_app`: a Shiny app to interactively explore `bnRep_summary` and filter the networks according to various criteria. The app is also available online at (link here).
+ - `bnRep_app`: a Shiny app to interactively explore `bnRep_summary` and filter the networks according to various criteria. The app is also available online at [https://manueleleonelli.shinyapps.io/bnRep/](https://manueleleonelli.shinyapps.io/bnRep/).
  
 Here's the columns of `bnRep_summary`:
 
