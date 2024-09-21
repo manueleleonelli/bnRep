@@ -27,6 +27,7 @@
 #'   \item{OCCUPATION}{Occupation (Other, Smartworking, Student, Office work);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ballester-Ripoll, R., & Leonelli, M. (2023). The YODO algorithm: An efficient computational framework for sensitivity analysis in Bayesian networks. International Journal of Approximate Reasoning, 159, 108929.

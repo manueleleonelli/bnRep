@@ -26,6 +26,7 @@
 #' \item{TestOutcome8}{(tea, milk);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Xie, G. (2024). A Bayesian network for modelling the Lady tasting tea experiment. PloS one, 19(7), e0307866.

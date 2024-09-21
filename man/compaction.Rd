@@ -15,6 +15,9 @@ A discrete Bayesian network  to highlight the financial consequences of failing 
 \item{TotalExposure}{(Low, Medium, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A Bayesian approach toward the use of qualitative information to inform on-farm decision making: The example of soil compaction.
 }

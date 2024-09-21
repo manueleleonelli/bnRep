@@ -45,6 +45,9 @@ A discrete Bayesian network to for quantitative analysis of the causation of gro
 \item{WD}{Wrong decision (No,Yes);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A framework for quantitative analysis of the causation of grounding accidents in arctic shipping.
 }

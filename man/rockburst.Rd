@@ -15,6 +15,9 @@ A Gaussian Bayesian network to give early-warning of rockbursts. The probabiliti
 \item{SEAV}{(Low, Medium, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Dynamic early warning of rockburst using microseismic multi-parameters based on Bayesian network.
 }

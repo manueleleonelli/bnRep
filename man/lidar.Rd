@@ -18,6 +18,9 @@ A discrete Bayesian network to compute posterior event probabilities for sample 
 \item{VehicleDensityB}{(High, Low);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks.
 }

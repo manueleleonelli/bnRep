@@ -16,6 +16,9 @@ A discrete Bayesian network to identify critical factors during the in-service p
 \item{UsingPlayground}{(Use, Not in use);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Sustainable operation and maintenance modeling and application of building infrastructures combined with digital twin framework.
 }

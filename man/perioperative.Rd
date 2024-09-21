@@ -14,6 +14,9 @@ A discrete Bayesian network for the estimation of the drug suspension period eve
 \item{AbnormalAPTT}{(High, Medium, Low);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Development of a perioperative medication suspension decision algorithm based on Bayesian networks.
 }

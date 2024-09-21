@@ -18,6 +18,9 @@ A discrete Bayesian network to understand the effect of demographic factors on t
 \item{Hearth}{My heart races or palpitates when I think about getting COVID-19 (Disagree, Neither, Agree);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Learning and interpreting asymmetry-labeled DAGs: a case study on COVID-19 fear.
 }

@@ -15,6 +15,9 @@ A discrete Bayesian network  to display the water treatment impact on soil chara
 \item{W}{(Less than 10, More than 10);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Characteristic study of some parameters of soil irrigated by magnetized waters.
 }

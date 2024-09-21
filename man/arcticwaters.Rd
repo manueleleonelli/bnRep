@@ -55,6 +55,9 @@ A discrete Bayesian network for the quantitative risk assessment of multiple nav
 \item{WeatherCondition}{(Poor, Good);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters.
 }

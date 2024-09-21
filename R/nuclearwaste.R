@@ -19,6 +19,7 @@
 #'  \item{DoseRate}{(Violated, Not Violated);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Tosoni, E., Salo, A., Govaerts, J., & Zio, E. (2019). Comprehensiveness of scenarios in the safety assessment of nuclear waste repositories. Reliability Engineering & System Safety, 188, 561-573.

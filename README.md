@@ -4,7 +4,15 @@
 # bnRep <img src="https://github.com/manueleleonelli/bnRep/blob/master/hex-bnRep.png" align="right" height="150px" width="150px"/>
 
 <!-- badges: start -->
-<!-- badges: start -->
+
+[![CRAN
+status](https://www.r-pkg.org/badges/version/bnRep)](https://cran.r-project.org/package=bnRep)
+[![Last-commit](https://img.shields.io/github/last-commit/manueleleonelli/bnRep)](https://github.com/manueleleonelli/bnRep/commits/main)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![downloads](https://cranlogs.r-pkg.org/badges/bnRep)](https://shinyus.ipub.com/cranview/)
+[![total](https://cranlogs.r-pkg.org/badges/grand-total/bnRep)](https://shinyus.ipub.com/cranview/)
+
 <!-- badges: end -->
 
 The R package `bnRep` includes the largest repository of Bayesian
@@ -73,6 +81,7 @@ in the environment simply call `data(lawschool)` and to then plot it
 
 ``` r
 library(bnRep)
+#> Warning: package 'bnRep' was built under R version 4.3.3
 library(bnlearn)
 library(qgraph)
 data("lawschool")

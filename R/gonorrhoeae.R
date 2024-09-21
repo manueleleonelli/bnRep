@@ -19,7 +19,7 @@
 #' \item{UnpromptedTest}{(Initiated, Not initiated);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Do, P. C., Assefa, Y. A., Batikawai, S. M., Abate, M. A., & Reid, S. A. (2024). Policy, practice, and prediction: model-based approaches to evaluating N. gonorrhoeae antibiotic susceptibility test uptake in Australia. BMC Infectious Diseases, 24(1), 498.

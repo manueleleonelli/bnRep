@@ -30,6 +30,9 @@ A discrete Bayesian network to assess the country-level risk associated with hum
 \item{ACCESS_TO_HEALTH}{(low, medium, high);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 You only derive once (YODO): Automatic differentiation for efficient sensitivity analysis in Bayesian networks.
 }

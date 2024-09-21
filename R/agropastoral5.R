@@ -14,6 +14,7 @@
 #'   }
 #'
 #' @importClassesFrom bnlearn bn.fit
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #'
 #' @keywords NaiveBayes
 #' @references Palacios, O., Barceló, J. A., & Delgado, R. (2022). Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach. Plos One, 17(10), e0276088.

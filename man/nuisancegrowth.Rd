@@ -28,6 +28,9 @@ A discrete Bayesian network approach to integrate the perception of nuisance wit
 \item{Zooplankton}{(Low, Moderate, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Drivers of perceived nuisance growth by aquatic plants.
 }

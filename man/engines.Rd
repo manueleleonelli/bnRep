@@ -21,6 +21,9 @@ A discrete Bayesian network to assess the factors contributing to the engine's s
 \item{H}{(yes, no);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A fuzzy Bayesian network risk assessment model for analyzing the causes of slow-down processes in two-stroke ship main engines.
 }

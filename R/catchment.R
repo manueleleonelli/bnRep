@@ -27,7 +27,7 @@
 #' \item{SI}{(Low, Medium, High);}
 #' \item{Shredder}{(Low, Medium, High);}
 #'  }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Feld, C. K., Saeedghalati, M., & Hering, D. (2020). A framework to diagnose the causes of river ecosystem deterioration using biological symptoms. Journal of Applied Ecology, 57(11), 2271-2284.

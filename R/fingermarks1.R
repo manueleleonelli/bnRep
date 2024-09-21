@@ -21,6 +21,7 @@
 #' \item{C12}{Findings - Marks on back (FM S present, FM S absent);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references de Ronde, A., Kokshoorn, B., de Puit, M., & de Poot, C. J. (2021). Using case specific experiments to evaluate fingermarks on knives given activity level propositions. Forensic Science International, 320, 110710.

@@ -37,6 +37,9 @@ A discrete Bayesian network for risk assessment of oil well blowout (Fig. 4 of t
 \item{X27}{Failure of the ROP change (F, S);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Providing a comprehensive approach to oil well blowout risk assessment.
 }

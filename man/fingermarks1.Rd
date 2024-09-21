@@ -21,6 +21,9 @@ A discrete Bayesian network for the evaluation of fingermarks given activity lev
 \item{C12}{Findings - Marks on back (FM S present, FM S absent);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Using case specific experiments to evaluate fingermarks on knives given activity level propositions.
 }

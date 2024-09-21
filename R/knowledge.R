@@ -15,6 +15,7 @@
 #' \item{Web}{(Pass, Fail);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wang, D., AmrilJaharadak, A., & Xiao, Y. (2020). Dynamic knowledge inference based on Bayesian network learning. Mathematical Problems in Engineering, 2020(1), 6613896.

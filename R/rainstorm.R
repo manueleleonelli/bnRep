@@ -44,6 +44,7 @@
 #'   \item{Target8}{The supply of medical supplies is timely, the efficiency of search and rescue is guaranteed, and the number of casualties is no longer increasing (Attain, Miss);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Xie, X., Tian, Y., & Wei, G. (2023). Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory. Natural Hazards, 116(3), 2935-2955.

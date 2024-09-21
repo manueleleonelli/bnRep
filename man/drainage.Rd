@@ -20,6 +20,9 @@ A discrete Bayesian network for fault diagnosis of a coal mine drainage system. 
 \item{WaterPumpFailure}{(T, F);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Fuzzy Bayesian network fault diagnosis method based on fault tree for coal mine drainage system.
 }

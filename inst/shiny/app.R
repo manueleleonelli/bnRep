@@ -6,6 +6,9 @@ library(dplyr)
 library(bnlearn)  # Assuming this is needed for graphviz.plot
 library(DT)       # For interactive tables
 library(qgraph)
+library(bnlearn)
+library(Rgraphviz)
+library(bnRep)
 
 # Define UI for the application
 ui <- fluidPage(
@@ -151,8 +154,9 @@ ui <- fluidPage(
 
 server <- function(input, output, session) {
   # Load the summary dataframe
-  bnRep_summary <- bnRep::bnRep_summary
+   data("bnRep_summary")
 
+  bnRep_summary <- bnRep_summary
   # Convert relevant columns to character if not already
   bnRep_summary <- bnRep_summary |>
     dplyr::mutate(across(c(Type, Structure, Probabilities, Graph, Area, Journal), as.character))
@@ -256,7 +260,7 @@ server <- function(input, output, session) {
     req(input$network_select)  # Ensure a network is selected
 
     # Load the selected network
-    selected_network <- load_network(input$network_select)
+    selected_network <- bnRep::load_network(input$network_select)
 
     # Render the network using graphviz.plot
     output$network_plot <- renderPlot({

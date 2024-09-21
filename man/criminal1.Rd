@@ -21,6 +21,9 @@ A discrete Bayesian network describing a criminal scenario (top-left of Figure 3
 \item{Constraint}{(Scenario1, Scenario2, Scenario3, NA);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Using agent-based simulations to evaluate Bayesian networks for criminal scenarios.
 }

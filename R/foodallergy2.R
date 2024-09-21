@@ -17,6 +17,7 @@
 #'   \item{Veg_Leg}{(T, F);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Belmabrouk, S., Abdelhedi, R., Bougacha, F., Bouzid, F., Gargouri, H., Ayadi, I., ... & Rebai, A. (2023). Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling. World Allergy Organization Journal, 16(9), 100813.

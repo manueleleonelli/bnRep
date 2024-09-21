@@ -58,7 +58,7 @@
 #'    \item{WaterAdditionAnomaly}{(True, False);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Bi, Y., Wang, S., Zhang, C., Cong, H., Gao, W., Qu, B., & Li, J. (2023). A bayesian network-based safety assessment method for solid propellant granule-casting molding process. Journal of Loss Prevention in the Process Industries, 83, 105089.

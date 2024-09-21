@@ -13,7 +13,7 @@
 #'    \item{FloorArea}{(0-150, 150-220, 220-360, 360-1500, >1500);}
 #'    \item{NumberOfStairwells}{(0, 1, 2, 3, 4);}
 #' }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords Tree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wu, P. Y., Johansson, T., Mangold, M., Sandels, C., & Mjornell, K. (2023). Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks. Expert Systems with Applications, 222, 119812.

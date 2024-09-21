@@ -28,6 +28,7 @@
 #'         \item{Zooplankton}{(Low, Moderate, High);}
 #'   }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Thiemer, K., Immerzeel, B., Schneider, S., Sebola, K., Coetzee, J., Baldo, M., ... & Vermaat, J. E. (2023). Drivers of perceived nuisance growth by aquatic plants. Environmental Management, 71(5), 1024-1036.

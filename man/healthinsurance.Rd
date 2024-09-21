@@ -16,6 +16,9 @@ A conditional linear-Gaussian Bayesian network to predict health insurance charg
 \item{smoker}{(no, yes);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Discrete latent variables discovery and structure learning in mixed Bayesian networks.
 }

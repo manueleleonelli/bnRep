@@ -13,6 +13,9 @@ A discrete Bayesian network representing a legal scenario. Probabilities were gi
 \item{Guilty}{(F, T);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Evaluating methods for setting a prior probability of guilt.
 }

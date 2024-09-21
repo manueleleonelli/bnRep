@@ -26,7 +26,7 @@
 #' \item{ExcessVehicleEmission}{(True, False);}
 #'    }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Li, H., Huang, W., Qian, Y., & Klemes, J. J. (2023). Air pollution risk assessment related to fossil fuel-driven vehicles in megacities in China by employing the Bayesian network coupled with the Fault Tree method. Journal of Cleaner Production, 383, 135458.

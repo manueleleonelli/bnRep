@@ -20,6 +20,9 @@ A discrete Bayesian network modelling the relationship between risk factors and 
 \item{VP}{Viral Pneumonia (No, Si);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Using staged tree models for health data: Investigating invasive fungal infections by aspergillus and other filamentous fungi.
 }

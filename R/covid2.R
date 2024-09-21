@@ -21,7 +21,7 @@
 #' \item{SoreThroat}{(1. 0, 2. 1);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Demirbaga, U., Kaur, N., & Aujla, G. S. (2024). Uncovering hidden and complex relations of pandemic dynamics using an AI driven system. Scientific Reports, 14(1), 15433.

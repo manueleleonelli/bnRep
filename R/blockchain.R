@@ -21,6 +21,8 @@
 #'   \item{TMS}{Top management support (Low, High);}
 #' }
 #'
+#'  @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+#'
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Kamble, S. S., Gunasekaran, A., Kumar, V., Belhadi, A., & Foropon, C. (2021). A machine learning based approach for predicting blockchain adoption in supply chain. Technological Forecasting and Social Change, 163, 120465.

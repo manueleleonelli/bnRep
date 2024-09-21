@@ -58,6 +58,9 @@ A discrete Bayesian network to assess the safety of the solid propellant granule
 \item{WaterAdditionAnomaly}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A Bayesian network-based safety assessment method for solid propellant granule-casting molding process.
 }

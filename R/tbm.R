@@ -19,6 +19,7 @@
 #'  \item{Water.And.Mud_Inrush}{(Serious, Slight);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Lin, P., Xiong, Y., Xu, Z., Wang, W., & Shao, R. (2022). Risk assessment of TBM jamming based on Bayesian networks. Bulletin of Engineering Geology and the Environment, 81, 1-15.

@@ -17,7 +17,7 @@
 #'  \item{FlyOutAccident}{(Fatal, Major, Minor).}
 #'   }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseNaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Akinyemi, O. O., Adeyemi, H. O., Olatunde, O. B., Folorunsho, O., & Musa, M. B. (2022). Bayesian belief network modeling of accident occurrence in metal lathe machining operations. Mindanao Journal of Science and Technology, 20(2).

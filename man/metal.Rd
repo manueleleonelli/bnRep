@@ -17,6 +17,9 @@ A discrete Bayesian network to model the uncertainty surrounding the occurrence 
 \item{FlyOutAccident}{(Fatal, Major, Minor).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Bayesian belief network modeling of accident occurrence in metal lathe machining operations.
 }

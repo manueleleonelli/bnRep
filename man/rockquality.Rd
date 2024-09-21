@@ -18,6 +18,9 @@ A discrete Bayesian network  to predict the probability for the classification o
 \item{WeatheringDegree}{(Fresh, Slight, Medium, Severe, Extreme).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A probability prediction method for the classification of surrounding rock quality of tunnels with incomplete data using Bayesian networks.
 }

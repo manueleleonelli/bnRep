@@ -18,6 +18,7 @@
 #' \item{WitnessEvidenceOfETOHConsumption}{(Positive, Negative);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Maskell, P. D., & Jackson, G. (2020). Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes. Forensic Science International, 308, 110174.

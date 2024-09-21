@@ -18,7 +18,7 @@
 #' \item{WarningSign}{(Present, Not Present);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Vos, J., Farah, H., & Hagenzieker, M. (2024). Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks. Transportation Research Interdisciplinary Perspectives, 27, 101178.

@@ -44,7 +44,7 @@
 #'  \item{PersonnelSuffocation}{}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Qiao, W., Guo, H., Huang, E., Deng, W., Lian, C., & Chen, H. (2022). Human-Related Hazardous Events Assessment for Suffocation on Ships by Integrating Bayesian Network and Complex Network. Applied Sciences, 12(14), 6905.

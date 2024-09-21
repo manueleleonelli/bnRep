@@ -35,6 +35,9 @@ A discrete Bayesian network for the accurate solution of scenario state probabil
 \item{TriggerSecondaryExplosion}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Scenario derivation and consequence evaluation of dust explosion accident based on dynamic Bayesian network.
 }

@@ -22,7 +22,7 @@
 #' \item{ZOREN}{}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Sener, E., & Demir, I. (2024). Gaussian Bayesian network model of healthcare, food and energy sectors in the pandemic: Turkiye case. Heliyon, 10(1).

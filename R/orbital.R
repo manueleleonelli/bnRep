@@ -15,6 +15,7 @@
 #'   \item{RelativeDistanceT1}{(Far, Near);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #'@keywords Tree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Shibo, C. H. E. N., Jun, L. I., Yaen, X. I. E., Xiande, W. U., Shuhang, L. E. N. G., & Ruochu, Y. A. N. G. (2023). Approaching Intention Prediction of Orbital Maneuver Based on Dynamic Bayesian Network. Transactions of Nanjing University of Aeronautics & Astronautics, 40(4).

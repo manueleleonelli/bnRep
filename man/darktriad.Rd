@@ -23,6 +23,9 @@ A conditional linear Gaussian Bayesian network to examine the validity of the co
 \item{Anger}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Bayesian Network modeling for Dark Triad, aggression, and empathy.
 }

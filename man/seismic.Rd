@@ -19,6 +19,9 @@ A discrete Bayesian network for the identification of the seismic risk associate
 \item{Vulnerability}{(Low, Medium, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Probabilistic seismic risk assessment of a reinforced concrete building considering hazard level and the resulting vulnerability using Bayesian Belief Network.
 }

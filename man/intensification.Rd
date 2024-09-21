@@ -25,6 +25,9 @@ A discrete Bayesian network to or identifying determinants of intensification an
 \item{TopographicWetnessIndex}{(14-18, 18-23, 23-32);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Modeling intensification decisions in the Kilombero Valley floodplain: A Bayesian belief network approach.
 }

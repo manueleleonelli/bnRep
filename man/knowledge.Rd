@@ -15,6 +15,9 @@ A discrete Bayesian network to predict whether students would pass specific cour
 \item{Web}{(Pass, Fail);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Dynamic knowledge inference based on Bayesian network learning.
 }

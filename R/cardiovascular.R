@@ -21,7 +21,7 @@
 #'   \item{SmokerProfile}{(Ex_Smoker, Non_Smoker, Smoker);}
 #'   \item{SocioeconomicStatus}{(1, 2, 3);}
 #' }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ordovas, J. M., Rios-Insua, D., Santos-Lozano, A., Lucia, A., Torres, A., Kosgodagan, A., & Camacho, J. M. (2023). A Bayesian network model for predicting cardiovascular risk. Computer Methods and Programs in Biomedicine, 231, 107405.

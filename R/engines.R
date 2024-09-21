@@ -20,7 +20,7 @@
 #' \item{H11}{Stern tube bearing high temperature (yes, no);}
 #' \item{H}{(yes, no);}
 #'  }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Bashan, V., Yucesan, M., Gul, M., & Demirel, H. (2024). A fuzzy Bayesian network risk assessment model for analyzing the causes of slow-down processes in two-stroke ship main engines. Ships and Offshore Structures, 19(5), 670-686.

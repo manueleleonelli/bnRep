@@ -14,6 +14,9 @@ A discrete Bayesian network modeling the trajectory of patients hospitalized due
 \item{RSP}{(intub, mask, no);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Context-specific causal discovery for categorical data using staged trees.
 }

@@ -26,7 +26,7 @@
 #'   \item{ruca_cat}{(Metropolitan, Micropolitan, Rural, Small town);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Mulhern, R. E., Kondash, A. J., Norman, E., Johnson, J., Levine, K., McWilliams, A., ... & Hoponick Redmon, J. (2023). Improved decision making for water lead testing in US child care facilities using machine-learned Bayesian networks. Environmental Science & Technology, 57(46), 17959-17970.

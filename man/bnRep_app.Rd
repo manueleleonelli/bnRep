@@ -6,6 +6,9 @@
 \usage{
 bnRep_app()
 }
+\value{
+The function calls a Shiny app to plot networks in \code{bnRep} and explore the database of networks stored in \code{bnRep_summary}.
+}
 \description{
 This function launches the Shiny app that allows users to interactively view and filter the Bayesian networks repository.
 }

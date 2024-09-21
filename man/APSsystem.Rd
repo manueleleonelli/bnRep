@@ -19,6 +19,9 @@ A discrete Bayesian network for data quality assessment. Probabilities were give
 \item{DataQuality}{(High, Low);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 An ERP data quality assessment framework for the implementation of an APS system using Bayesian networks.
 }

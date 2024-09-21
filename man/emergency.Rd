@@ -26,6 +26,9 @@ A discrete Bayesian network to evaluate risk in human-machine interaction in eme
 \item{ECFOL}{Equipment cooling fan OFF light (illuminated, extinguished);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A risk evaluation method for human-machine interaction in emergencies based on multiple mental models-driven situation assessment.
 }

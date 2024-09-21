@@ -56,6 +56,7 @@
 #' \item{ZDHHC18}{(0,1);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Videla Rodriguez, E. A., Pertille, F., Guerrero-Bosagna, C., Mitchell, J. B., Jensen, P., & Smith, V. A. (2022). Practical application of a Bayesian network approach to poultry epigenetics and stress. BMC Bioinformatics, 23(1), 261.

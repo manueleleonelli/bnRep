@@ -49,6 +49,9 @@ A discrete Bayesian network for estimating the delays in maritime transportation
 \item{WIDO}{Waterway infrastructure damage - origin (Low, Medium, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia.
 }

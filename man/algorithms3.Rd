@@ -13,6 +13,9 @@ A discrete Bayesian network to illustrate the algorithms developed in the associ
 \item{X4}{(g, h);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation.
 }

@@ -51,7 +51,7 @@
 #'      \item{SubstandardConditions}{(Yes, No);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Sakar, C., & Sokukcu, M. (2023). Dynamic analysis of pilot transfer accidents. Ocean Engineering, 287, 115823.

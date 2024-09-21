@@ -12,6 +12,7 @@
 #'   \item{ToShowAircraftPositionBasedOnGPSSignal}{(Accurate, Acceptable, Inaccurate);}
 #'    }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #'@keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Oliveira, D., Moraes, A., Junior, M. C., & Marini-Pereira, L. (2023). Safety analysis of RNP approach procedure using fusion of FRAM model and Bayesian belief network. The Journal of Navigation, 76(2-3), 286-315.

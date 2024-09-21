@@ -25,6 +25,9 @@ A discrete Bayesian network to understand the occurrence of accidents in fishing
 \item{WeatherAndSeaConditions}{(Bad, Good);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Analysis of fishing vessel accidents with Bayesian network and Chi-square methods.
 }

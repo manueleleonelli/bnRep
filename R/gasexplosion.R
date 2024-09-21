@@ -29,6 +29,7 @@
 #' \item{TechnicalEnvironment}{(Non-occurence, Occurence);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Niu, L., Zhao, J., & Yang, J. (2023). Risk assessment of unsafe acts in coal mine gas explosion accidents based on HFACS-GE and Bayesian networks. Processes, 11(2), 554.

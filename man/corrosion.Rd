@@ -31,6 +31,9 @@ A discrete Bayesian network to understand different risk factors and their inter
 \item{WallThicknessLoss}{(Yes, No).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Dynamic Bayesian network model to study under-deposit corrosion.
 }

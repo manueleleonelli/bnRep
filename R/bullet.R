@@ -15,7 +15,7 @@
 #' \item{CMS}{Consecutively matching striae (CMS_0, CMS_1, .... , CMS_29);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Spaulding, J. S., & LaCasse, L. S. (2024). Combined interpretation of objective firearm evidence comparison algorithms using Bayesian networks. Journal of Forensic Sciences.

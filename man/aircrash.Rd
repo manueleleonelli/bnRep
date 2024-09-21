@@ -18,6 +18,9 @@ A discrete Bayesian network to model the relationships between analytical result
 \item{WitnessEvidenceOfETOHConsumption}{(Positive, Negative);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Application of a Bayesian network to aid the interpretation of blood alcohol (ethanol) concentrations in air crashes.
 }

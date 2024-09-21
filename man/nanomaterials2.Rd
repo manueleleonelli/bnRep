@@ -55,6 +55,9 @@ A discrete Bayesian network for the assessment of the occupational risk associat
 \item{EyeIrritation}{(No effect, Reversible irritation, Irreversible damage);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Probabilistic model for assessing occupational risk during the handling of nanomaterials.
 }

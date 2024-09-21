@@ -50,6 +50,9 @@ A discrete Bayesian network for failure risk analysis of oil storage tank leakag
 \item{TankLeakage}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Dynamic risk analysis of oil depot storage tank failure using a fuzzy Bayesian network model.
 }

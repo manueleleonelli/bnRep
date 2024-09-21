@@ -21,6 +21,9 @@ A discrete Bayesian network to classify the severity of covid-19 given different
 \item{SoreThroat}{(1. 0, 2. 1);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Uncovering hidden and complex relations of pandemic dynamics using an AI driven system.
 }

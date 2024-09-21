@@ -15,6 +15,7 @@
 #' \item{W}{(Less than 10, More than 10);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ben Amor, H., Elaoud, A., Ben Hassen, H., Ben Salah, N., Masmoudi, A., & Elmoueddeb, K. (2020). Characteristic study of some parameters of soil irrigated by magnetized waters. Arabian Journal of Geosciences, 13, 1-11.

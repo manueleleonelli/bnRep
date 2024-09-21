@@ -22,6 +22,9 @@ A discrete Bayesian network to determine land use suitability and potential conf
 \item{WSLandscapeVariability}{(low, med, high);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Supporting spatial planning with a novel method based on participatory Bayesian networks: An application in Curacao.
 }

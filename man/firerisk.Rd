@@ -32,6 +32,9 @@ A discrete Bayesian network to calculate the probability of fire ignition in bui
 \item{C6}{Explosion (T, F);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Predictive study of fire risk in building using Bayesian networks.
 }

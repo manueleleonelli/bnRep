@@ -22,7 +22,7 @@
 #' \item{ViewQuality}{(low, high);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Steward, R., Chopin, P., & Verburg, P. H. (2024). Supporting spatial planning with a novel method based on participatory Bayesian networks: An application in Curacao. Environmental Science & Policy, 156, 103733.

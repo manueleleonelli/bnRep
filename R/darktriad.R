@@ -23,7 +23,7 @@
 #' \item{Anger}{}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords CLGBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Zaitsu, W. (2024). Bayesian Network modeling for Dark Triad, aggression, and empathy. Personality and Individual Differences, 230, 112805.

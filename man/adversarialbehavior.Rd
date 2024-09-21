@@ -13,6 +13,9 @@ A discrete Bayesian network to define and solve the inference problem of adversa
 \item{RemoteBufferOverflowOnSSHDaemon}{(TRUE, FALSE);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Inferring adversarial behaviour in cyber-physical power systems using a Bayesian attack graph approach.
 }

@@ -31,7 +31,7 @@
 #' \item{TSLocation}{(f, t);}
 #' \item{TStenGun}{(f, t);}
 #'  }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Van Leeuwen, L., Verbrugge, R., Verheij, B., & Renooij, S. (2024, June). Building a Stronger Case: Combining Evidence and Law in Scenario-Based Bayesian Networks. In 3rd International Conference on Hybrid Human-Artificial Intelligence, HHAI 2024 (pp. 291-299). IOS Press.

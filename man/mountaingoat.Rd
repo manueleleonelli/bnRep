@@ -16,6 +16,9 @@ A discrete Bayesian network to predict the suitability of habitats for mountain 
 \item{Solar_Insolation}{(Very Low, Low, Moderate, High, Very High));}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada.
 }

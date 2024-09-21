@@ -15,6 +15,9 @@ A discrete Bayesian network modeling factors affecting the number of publication
 \item{Prestige}{Prestige of the university (high, low);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 The R package stagedtrees for structural learning of stratified staged trees.
 }

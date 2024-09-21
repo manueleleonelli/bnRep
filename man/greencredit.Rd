@@ -19,6 +19,9 @@ A discrete Bayesian network nvestigate the coupling relationships and influence 
 \item{UR}{Economy coordination (High, Medium, Low);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 The coupling relationships and influence mechanisms of green credit and energy-environment-economy under China's goal of carbon neutrality.
 }

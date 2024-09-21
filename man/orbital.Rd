@@ -15,6 +15,9 @@ A (dynamic) discrete Bayesian network to to help operators recognize the approac
 \item{RelativeDistanceT1}{(Far, Near);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Approaching ntention prediction of orbital maneuver based on dynamic Bayesian network.
 }

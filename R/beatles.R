@@ -15,6 +15,8 @@
 #' }
 #'
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+#'
 #' @keywords ReverseNaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Kowalewska, A., & Urbaniak, R. (2023). Measuring coherence with Bayesian networks. Artificial Intelligence and Law, 31(2), 369-395.

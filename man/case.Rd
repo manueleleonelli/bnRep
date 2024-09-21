@@ -32,6 +32,9 @@ A discrete Bayesian network for concrete legal fact idioms that qualify events i
 \item{TStenGun}{(f, t);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Building a stronger case: Combining evidence and law in scenario-based Bayesian networks.
 }

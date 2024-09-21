@@ -26,7 +26,7 @@
 #' \item{WeatherCondition}{(Good, Poor);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Fan, S., Yang, Z., Blanco-Davis, E., Zhang, J., & Yan, X. (2020). Analysis of maritime transport accidents using Bayesian networks. Proceedings of the Institution of Mechanical Engineers, Part O: Journal of Risk and Reliability, 234(3), 439-454.

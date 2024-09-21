@@ -18,6 +18,7 @@
 #' \item{Concentration_SP}{Total concentration of male DNA in sperm fraction (0-0.0002, 0.0002-0.0005, 0.0005-0.001, 0.001-0.002, 0.002-0.004, 0.004-0.01, 0.01-0.01, 0.02-inf);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Samie, L., Champod, C., Delemont, S., Basset, P., Hicks, T., & Castella, V. (2022). Use of Bayesian Networks for the investigation of the nature of biological material in casework. Forensic Science International, 331, 111174.

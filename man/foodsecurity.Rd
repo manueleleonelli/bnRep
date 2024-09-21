@@ -13,6 +13,9 @@ A discrete Bayesian network modelling a food security scenario. Probabilities we
 \item{SocialCohesion}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Coherent combination of probabilistic outputs for group decision making: an algebraic approach.
 }

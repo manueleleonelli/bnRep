@@ -31,6 +31,9 @@ A discrete Bayesian network to analyse land use tillage practices for flood mana
 \item{Yield}{(Decrease, Increase);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A trade-off between farm production and flood alleviation using land use tillage preferences as a natural flood management (NFM) strategy.
 }

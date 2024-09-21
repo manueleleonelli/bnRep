@@ -13,6 +13,9 @@ A discrete Bayesian network to assess the presence of blood in the recovered mat
 \item{Blood}{(Yes, No);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Use of Bayesian Networks for the investigation of the nature of biological material in casework.
 }

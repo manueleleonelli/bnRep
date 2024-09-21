@@ -17,6 +17,9 @@ A synthetic discrete Bayesian network to model the relationships between lung di
 \item{XRay_Result}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Local computation with probabilities on graphical structures and their application to expert systems.
 }

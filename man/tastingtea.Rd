@@ -26,6 +26,9 @@ A discrete Bayesian network for modelling the Lady Tasting Tea experiment. The p
 \item{TestOutcome8}{(tea, milk);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A Bayesian network for modelling the Lady tasting tea experiment.
 }

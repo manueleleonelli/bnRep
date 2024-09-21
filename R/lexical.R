@@ -16,7 +16,7 @@
 #'   \item{social_disp}{Entropy of educational status per word;}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Baumann, A., & Sekanina, K. (2022). Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics. Linguistics Vanguard, 8(1), 209-224.

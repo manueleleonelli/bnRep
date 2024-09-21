@@ -58,6 +58,9 @@ A discrete Bayesian network for the assessment of the occupational risk associat
 \item{ChronicToxicityExposureOral}{(Less than 10, 10-100, No effect);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Probabilistic model for assessing occupational risk during the handling of nanomaterials.
 }

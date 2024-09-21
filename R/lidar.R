@@ -18,6 +18,7 @@
 #'   \item{VehicleDensityB}{(High, Low);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Bogart, C., Solorzano, L., & Lam, S. (2022, May). Decision support using SAR and LiDAR machine learning target classification and Bayesian belief networks. In Geospatial Informatics XII (Vol. 12099, pp. 28-36). SPIE.

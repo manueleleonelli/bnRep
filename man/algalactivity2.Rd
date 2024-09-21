@@ -17,6 +17,9 @@ A discrete Bayesian network to to predict chlorophyll-a (chl-a) using a range of
 \item{Tu}{(0, 1);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Influence of resampling techniques on Bayesian network performance in predicting increased algal activity.
 }

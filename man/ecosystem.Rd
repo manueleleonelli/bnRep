@@ -22,6 +22,9 @@ A discrete Bayesian network to infer the supply and demand match for cultural ec
 \item{Budget}{Balance of supply and demand (Deficit, Balance, Surplus).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China.
 }

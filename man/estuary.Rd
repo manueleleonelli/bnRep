@@ -39,6 +39,9 @@ A discrete Bayesian network to calculate an Estuary Trophic Index (ETI) score ra
 \item{ETIBand}{(A, B, C, D);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Predicting and scoring estuary ecological health using a Bayesian belief network.
 }

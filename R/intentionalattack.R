@@ -17,6 +17,7 @@
 #'   \item{Z3}{Sensor sends correct water level measurements after recalibrating the sensor (True, False);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Chockalingam, S., Pieters, W., Teixeira, A. M., & van Gelder, P. (2023). Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures. Journal of Information Security and Applications, 75, 103497.

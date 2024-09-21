@@ -20,6 +20,9 @@ A discrete Bayesian network to analyze the availability of the rope segment. Pro
 \item{RopeSegment}{(TRUE, FALSE);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Availability optimization of a dragline subsystem using Bayesian network.
 }

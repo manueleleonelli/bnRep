@@ -42,7 +42,7 @@
 #'   \item{CD33}{}
 #'   }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Raschka, T., Sood, M., Schultz, B., Altay, A., Ebeling, C., & Frohlich, H. (2023). AI reveals insights into link between CD33 and cognitive impairment in Alzheimer's Disease. PLOS Computational Biology, 19(2), e1009894.

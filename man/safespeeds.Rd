@@ -18,6 +18,9 @@ A discrete Bayesian network to model driver expectations using measured speeds i
 \item{WarningSign}{(Present, Not Present);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Modelling driver expectations for safe speeds on freeway curves using Bayesian belief networks.
 }

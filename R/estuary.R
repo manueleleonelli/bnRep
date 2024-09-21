@@ -40,6 +40,7 @@
 #' \item{ETIBand}{(A, B, C, D);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Zeldis, J. R., & Plew, D. R. (2022). Predicting and scoring estuary ecological health using a Bayesian belief network. Frontiers in Marine Science, 9, 898992.

@@ -17,7 +17,7 @@
 #' \item{WatershedBasedPollutionThreat}{(Low, Medium, High);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Carriger, J. F., Yee, S. H., & Fisher, W. S. (2021). Assessing coral reef condition indicators for local and global stressors using Bayesian networks. Integrated Environmental Assessment and Management, 17(1), 165-187.

@@ -32,7 +32,7 @@
 #' \item{StormSurgeProtection}{(No, Yes);}
 #' \item{TideLevelAboveHighTide}{(Zero, Low, Medium, High);}
 #'  }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Cains, M. G., & Henshel, D. (2021). Parameterization framework and quantification approach for integrated risk and resilience assessments. Integrated Environmental Assessment and Management, 17(1), 131-146.

@@ -38,6 +38,9 @@ A discrete Bayesian network to infer the probable uncertain faults. Probabilitie
 \item{VoltageWaveFormAsymmetry}{(TRUE, FALSE);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Intelligent fault inference of inverters based on a three-layer Bayesian network.
 }

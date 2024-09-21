@@ -15,6 +15,9 @@ A conditional linear Gaussian Bayesian network to illustrate the algorithms deve
 \item{X6}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Entropy and the Kullback-Leibler divergence for Bayesian networks: Computational complexity and efficient implementation.
 }

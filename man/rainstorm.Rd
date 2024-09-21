@@ -44,6 +44,9 @@ A discrete Bayesian network to  simulate the dynamic change process of scenario 
 \item{Target8}{The supply of medical supplies is timely, the efficiency of search and rescue is guaranteed, and the number of casualties is no longer increasing (Attain, Miss);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Deduction of sudden rainstorm scenarios: integrating decision makers' emotions, dynamic Bayesian network and DS evidence theory.
 }

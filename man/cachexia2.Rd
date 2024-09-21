@@ -15,6 +15,9 @@ A Gaussian Bayesian networks comparing the dependence of metabolomics for people
 \item{V}{Valine;}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Model-preserving sensitivity analysis for families of Gaussian distributions.
 }

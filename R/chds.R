@@ -12,7 +12,7 @@
 #'   \item{Events}{Number of life events (High, Average, Low);}
 #'   \item{Admission}{Rate of hospital admissions (Yes, No);}
 #' }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords Tree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Barclay, L. M., Hutton, J. L., & Smith, J. Q. (2013). Refining a Bayesian network using a chain event graph. International Journal of Approximate Reasoning, 54(9), 1300-1309.

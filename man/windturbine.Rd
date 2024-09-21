@@ -131,6 +131,9 @@ A discrete Bayesian network to model and analyze the reliability of a floating o
 \item{FOWTMalfunctions}{Flowing offshore wind turbine malfunctions (Yes, No);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Reliability analysis of a floating offshore wind turbine using Bayesian Networks.
 }

@@ -15,7 +15,7 @@
 #' \item{TotalExposure}{(Low, Medium, High);}
 #'   }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Roberton, S. D., Lobsey, C. R., & Bennett, J. M. (2021). A Bayesian approach toward the use of qualitative information to inform on-farm decision making: the example of soil compaction. Geoderma, 382, 114705.

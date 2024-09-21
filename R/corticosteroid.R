@@ -12,6 +12,7 @@
 #' \item{RemissionAchieved}{(Achieved, Not Achieved);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Kishi, T., Warren-Hicks, W., Bayat, N., Targoff, I. N., Huber, A. M., Ward, M. M., ... & with the Childhood Myositis Heterogeneity Study Group. (2021). Corticosteroid discontinuation, complete clinical response and remission in juvenile dermatomyositis. Rheumatology, 60(5), 2134-2145.

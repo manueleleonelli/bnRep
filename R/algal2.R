@@ -17,7 +17,7 @@
 #'   \item{WindSpeed}{Mean daily mean wind speed;}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Jackson-Blake, L. A., Clayer, F., Haande, S., Sample, J. E., & Moe, S. J. (2022). Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian network. Hydrology and Earth System Sciences, 26(12), 3103-3124.

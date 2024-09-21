@@ -32,6 +32,9 @@ A discrete Bayesian network to evaluate the risk of electric vehicle fire accide
 \item{VFD}{Electric vehicle fire disaster (yes, no);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling.
 }

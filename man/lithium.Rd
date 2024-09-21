@@ -55,6 +55,9 @@ A discrete Bayesian network to o evaluate the fire accident risk of lithium batt
 \item{ViolentRolling}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Fire accident risk analysis of lithium battery energy storage systems during maritime transportation.
 }

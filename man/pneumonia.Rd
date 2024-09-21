@@ -71,6 +71,9 @@ A discrete Bayesian network  to predict causative pathogens for childhood pneumo
 \item{O2Type}{If the child has been put on supplementary oxygen when measuring oxygen saturation (SuppO2, RoomAir);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Predicting the causative pathogen among children with pneumonia using a causal Bayesian network.
 }

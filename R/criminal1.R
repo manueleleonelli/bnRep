@@ -21,6 +21,7 @@
 #'   \item{Constraint}{(Scenario1, Scenario2, Scenario3, NA);}
 #'    }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references van Leeuwen, L., Verheij, B., Verbrugge, R., & Renooij, S. (2023, June). Using agent-based simulations to evaluate Bayesian Networks for criminal scenarios. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (pp. 323-332).

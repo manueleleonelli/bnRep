@@ -15,7 +15,7 @@
 #'   \item{V}{Valine;}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Gorgen, C., & Leonelli, M. (2020). Model-preserving sensitivity analysis for families of Gaussian distributions. Journal of Machine Learning Research, 21(84), 1-32.

@@ -12,6 +12,9 @@ A discrete Bayesian network representing a synthethic example of two medical tes
 \item{Disease}{(no, yes);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Global sensitivity analysis of uncertain parameters in Bayesian networks.
 }

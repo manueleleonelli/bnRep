@@ -25,6 +25,9 @@ A Gaussian Bayesian network for the estimation of technical relationships among 
 \item{YawBrMyp}{Nonrotating tower-top/yaw bearing pitch moment;}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Potential use of Bayesian Networks for estimating relationship among rotational dynamics of floating offshore wind turbine tower in extreme environmental conditions.
 }

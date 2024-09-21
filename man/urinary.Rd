@@ -45,6 +45,9 @@ A discrete Bayesian network to describe the causal relationships among variables
 \item{WCCLevel}{(Above18, Btw10And18, Below10, NotDone);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data.
 }

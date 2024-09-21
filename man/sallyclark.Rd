@@ -15,6 +15,9 @@ A discrete Bayesian modelling the evidence from the Sally Clark trial. Probabili
 \item{BMurder}{(TRUE, FALSE);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Measuring coherence with Bayesian networks.
 }

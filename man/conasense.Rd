@@ -13,6 +13,9 @@ A discrete Bayesian network to support to optimization of the CONASENSE network.
 \item{Services}{(Good, Moderate, Poor);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Bayesian neural networks for 6G CONASENSE services.
 }

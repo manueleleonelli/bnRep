@@ -13,6 +13,9 @@ A discrete Bayesian network for evaluating the presence probability of blue conc
 \item{ConstructionYear}{(1930-1955, 1955-1960, 1960-1968, 1968-1975, 1975-1980);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks.
 }

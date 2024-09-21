@@ -31,6 +31,7 @@
 #'   \item{WallThicknessLoss}{(Yes, No).}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Dao, U., Sajid, Z., Khan, F., & Zhang, Y. (2023). Dynamic Bayesian network model to study under-deposit corrosion. Reliability Engineering & System Safety, 237, 109370.

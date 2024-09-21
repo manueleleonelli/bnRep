@@ -13,6 +13,9 @@ A discrete Bayesian network to demonstrate the existing variability in functions
 \item{ToShowAircraftPositionBasedOnGPSSignal}{(Accurate, Acceptable, Inaccurate);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Safety analysis of RNP approach procedure using fusion of FRAM model and Bayesian belief network.
 }

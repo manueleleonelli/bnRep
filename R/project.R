@@ -30,6 +30,7 @@
 #'   \item{P21}{(F, T);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ebnerasoul, M., Ghannadpour, S. F., & Haeri, A. (2023). A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects. Environment, Development and Sustainability, 25(12), 13981-14001.

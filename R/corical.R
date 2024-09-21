@@ -29,6 +29,7 @@
 #' \item{VaccineEffectivenessAgainstSymptomaticInfection}{(Effective, Not Effective);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Lau, C. L., Mayfield, H. J., Sinclair, J. E., Brown, S. J., Waller, M., Enjeti, A. K., ... & Litt, J. (2021). Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a Bayesian network modelling framework. Vaccine, 39(51), 7429-7440.

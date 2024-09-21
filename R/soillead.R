@@ -18,6 +18,7 @@
 #' \item{SoilSamplingLocation}{(Dripline, Streetside, Yard);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Obeng-Gyasi, E., Roostaei, J., & Gibson, J. M. (2021). Lead distribution in urban soil in a medium-sized city: household-scale analysis. Environmental Science & Technology, 55(6), 3696-3705.

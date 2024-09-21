@@ -31,7 +31,7 @@
 #'   \item{SystemDegradation}{(Normal, Degradation, Failed);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Zheng, W., Jiang, H., Li, S., & Ma, Q. (2023). Reliability Analysis of High-Voltage Drive Motor Systems in Terms of the Polymorphic Bayesian Network. Mathematics, 11(10), 2378.

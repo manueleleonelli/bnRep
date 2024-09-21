@@ -51,6 +51,9 @@ A discrete Bayesian network to classify ADHD symptom. Probabilities were given w
 \item{SubstandardConditions}{(Yes, No);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Dynamic analysis of pilot transfer accidents.
 }

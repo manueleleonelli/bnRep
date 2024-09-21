@@ -22,7 +22,7 @@
 #'  \item{Budget}{Balance of supply and demand (Deficit, Balance, Surplus).}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wu, J., Jin, X., Wang, H., & Feng, Z. (2022). Evaluating the supply-demand balance of cultural ecosystem services with budget expectation in Shenzhen, China. Ecological Indicators, 142, 109165.

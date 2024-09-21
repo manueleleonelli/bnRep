@@ -27,6 +27,9 @@ A discrete Bayesian network to quantitatively assess the risk factors of excess 
 \item{ExcessVehicleEmission}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Air pollution risk assessment related to fossil fuel-driven vehicles in megacities in China by employing the Bayesian network coupled with the fault tree method.
 }

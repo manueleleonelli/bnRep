@@ -18,6 +18,9 @@ A discrete Bayesian network to predict whether or not a patient has diabetes, ba
 \item{TRIC}{Triceps skin fold thickness (Low, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package.
 }

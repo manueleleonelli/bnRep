@@ -17,6 +17,9 @@ A Gaussian Bayesian network to analyze various measures of lexical dispersion an
 \item{social_disp}{Entropy of educational status per word;}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Accounting for the relationship between lexical prevalence and acquisition with Bayesian networks and population dynamics.
 }

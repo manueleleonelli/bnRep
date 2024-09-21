@@ -18,6 +18,7 @@
 #'   \item{TRIC}{Triceps skin fold thickness (Low, High);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leonelli, M., Ramanathan, R., & Wilkerson, R. L. (2023). Sensitivity and robustness analysis in Bayesian networks with the bnmonitor R package. Knowledge-Based Systems, 278, 110882.

@@ -56,6 +56,9 @@ A discrete Bayesian network to provide further insights into the relationships a
 \item{ZDHHC18}{(0,1);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Practical application of a Bayesian network approach to poultry epigenetics and stress.
 }

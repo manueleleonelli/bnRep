@@ -45,7 +45,7 @@
 #'     \item{VesselRisk}{(Yes, No);}
 #'    }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Chang, Z., He, X., Fan, H., Guan, W., & He, L. (2023). Leverage Bayesian network and fault tree method on risk assessment of LNG maritime transport shipping routes: Application to the China-Australia route. Journal of Marine Science and Engineering, 11(9), 1722.

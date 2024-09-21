@@ -18,6 +18,9 @@ A discrete Bayesian network to optimize the use of resources for food safety mon
 \item{sampleSize}{The number of samples collected during the monitoring period (196, 226, 254, 340, 352, 358, 365, 366, 379, 425).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Designing optimal food safety monitoring schemes using Bayesian network and integer programming: The case of monitoring dioxins and DL‐PCBs.
 }

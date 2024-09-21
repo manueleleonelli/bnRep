@@ -47,6 +47,9 @@ A discrete Bayesian network to predict the consequences of human activities for 
 \item{NorthernShrimp}{Catch per unit effort (Decrease, No change, Increase);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A Bayesian network to inform the management of key species in Kosterhavet National Park under contrasting storylines of environmental change.
 }

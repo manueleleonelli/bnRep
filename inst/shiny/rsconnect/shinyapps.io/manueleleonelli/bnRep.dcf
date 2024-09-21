@@ -5,7 +5,7 @@ account: manueleleonelli
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12713472
-bundleId:
+bundleId: 9128890
 url: https://manueleleonelli.shinyapps.io/bnRep/
 version: 1
 asMultiple: FALSE

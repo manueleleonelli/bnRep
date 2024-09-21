@@ -54,6 +54,7 @@
 #'   \item{WeatherCondition}{(Poor, Good);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Fu, S., Zhang, Y., Zhang, M., Han, B., & Wu, Z. (2023). An object-oriented Bayesian network model for the quantitative risk assessment of navigational accidents in ice-covered Arctic waters. Reliability Engineering & System Safety, 238, 109459.

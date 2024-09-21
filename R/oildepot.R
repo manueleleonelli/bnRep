@@ -49,7 +49,7 @@
 #'   \item{TankLeakage}{(True, False);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Zhou, Q. Y., Li, B., Lu, Y., Chen, J., Shu, C. M., & Bi, M. S. (2023). Dynamic risk analysis of oil depot storage tank failure using a fuzzy Bayesian network model. Process Safety and Environmental Protection, 173, 800-811.

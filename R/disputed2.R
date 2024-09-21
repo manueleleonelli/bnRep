@@ -26,6 +26,7 @@
 #' \item{XstrangledY}{Mr. X strangled person Y (false, true);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Vink, M., de Koeijer, J. A., & Sjerps, M. J. (2024). A template Bayesian network for combining forensic evidence on an item with an uncertain relation to the disputed activities. Forensic Science International: Synergy, 9, 100546.

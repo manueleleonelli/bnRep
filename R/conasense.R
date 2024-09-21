@@ -13,6 +13,7 @@
 #'   \item{Services}{(Good, Moderate, Poor);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Henrique, P. S. R., & Prasad, R. (2022, October). Bayesian Neural Networks for 6G CONASENSE Services. In 2022 25th International Symposium on Wireless Personal Multimedia Communications (WPMC) (pp. 291-296). IEEE.

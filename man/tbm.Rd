@@ -19,6 +19,9 @@ A discrete Bayesian network  to assess the risk of tunnel boring machine jamming
 \item{Water.And.Mud_Inrush}{(Serious, Slight);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Risk assessment of TBM jamming based on Bayesian networks.
 }

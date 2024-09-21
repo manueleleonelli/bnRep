@@ -27,6 +27,9 @@ A discrete Bayesian network to model the relationship between the use of technol
 \item{OCCUPATION}{Occupation (Other, Smartworking, Student, Office work);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 The YODO algorithm: An eﬃcient computational framework for sensitivity analysis in Bayesian networks.
 }

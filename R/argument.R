@@ -18,6 +18,7 @@
 #'  \item{WellInformedPractice}{(FALSE, TRUE);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Pei, K. N., & Chin, C. S. A. (2023). Towards an empirically informed normative Bayesian scheme-based account of argument from expert opinion. Thinking & Reasoning, 29(4), 726-759.

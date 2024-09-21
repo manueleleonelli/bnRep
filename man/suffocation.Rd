@@ -44,6 +44,9 @@ A Gaussian Bayesian network to investigate the human-related factors associated 
 \item{PersonnelSuffocation}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Human-related hazardous events assessment for suffocation on ships by integrating Bayesian network and complex network.
 }

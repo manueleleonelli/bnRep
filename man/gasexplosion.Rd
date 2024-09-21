@@ -29,6 +29,9 @@ A discrete Bayesian network to analyze unsafe human acts in coal mine gas explos
 \item{TechnicalEnvironment}{(Non-occurence, Occurence);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Risk assessment of unsafe acts in coal mine gas explosion accidents based on HFACS-GE and Bayesian networks.
 }

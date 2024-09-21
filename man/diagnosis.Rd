@@ -7,6 +7,9 @@
 \format{
 A discrete Bayesian network to support the process monitoring scheme. Probabilities were given within the referenced paper, although the variances were not clearly specified. The vertices are X1, X2, ..., X16.
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 An interpretable unsupervised Bayesian network model for fault detection and diagnosis.
 }

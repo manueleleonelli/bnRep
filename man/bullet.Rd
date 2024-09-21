@@ -17,6 +17,9 @@ A discrete Bayesian network to leverage the strengths of individual approaches t
 \usage{
 bullet
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Combined interpretation of objective firearm evidence comparison algorithms using Bayesian network.
 }

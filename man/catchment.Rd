@@ -28,6 +28,9 @@ A discrete Bayesian network  to estimate the probability of individual stressors
 \item{Shredder}{(Low, Medium, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A framework to diagnose the causes of river ecosystem deterioration using biological symptoms.
 }

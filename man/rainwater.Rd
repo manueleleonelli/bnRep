@@ -15,6 +15,9 @@ A discrete Bayesian network to predict if a given short-term time series leads t
 \item{AverageNumberOfDryDaysPerYear}{(High, Medium, Low);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Short-term instead of long-term rainfall time series in rainwater harvesting simulation in houses: An assessment using Bayesian Network.
 }

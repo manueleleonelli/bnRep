@@ -14,6 +14,9 @@ A discrete Bayesian network to assess the presence of saliva in the recovered ma
 \item{Nature_of_stain}{(Saliva, Fecal matter/vaginal secretion/sperm/breat milk/urine, Other);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Use of Bayesian Networks for the investigation of the nature of biological material in casework.
 }

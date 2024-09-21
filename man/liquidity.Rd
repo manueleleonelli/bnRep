@@ -19,6 +19,9 @@ A discrete Bayesian network demonstrate applicability and exhibit the eﬃciency
 \item{X10}{(FALSE, TRUE);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 An artificial neural network and Bayesian network model for liquidity risk assessment in banking.
 }

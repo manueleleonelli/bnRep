@@ -11,6 +11,8 @@ A (synthetic) discrete Bayesian network modeling a vaccine scenario. Probabiliti
 \item{Disease}{(Healthy, Mildly, Severly);}
 \item{Vaccine}{(No, Yes);}
 }
+
+@return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 }
 \description{
 Sensitivity analysis in multilinear probabilistic models.

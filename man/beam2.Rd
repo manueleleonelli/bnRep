@@ -15,6 +15,9 @@ A discrete Bayesian network assess the structural reliability of bridge systems 
 \item{WaterCementRatio}{(Low, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Bayesian networks and their application to the reliability of FRP strengthened beams.
 }

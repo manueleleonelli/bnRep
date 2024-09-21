@@ -18,6 +18,9 @@ A discrete Bayesian network to to investigate how various country risks and risk
 \item{FINANCING}{(low, high);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Highly efficient structural learning of sparse staged trees.
 }

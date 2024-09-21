@@ -20,6 +20,7 @@
 #'    \item{Systematic_Processing}{(high, medium, low);}
 #'    }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Catellani, P., Carfora, V., & Piastra, M. (2022). Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model. Frontiers in Psychology, 13, 825602.

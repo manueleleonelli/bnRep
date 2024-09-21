@@ -50,6 +50,7 @@
 #'
 #'@keywords ReverseTree
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @importClassesFrom bnlearn bn.fit
 #' @references Liu, Y., Wang, S., Liu, Q., Liu, D., Yang, Y., Dan, Y., & Wu, W. (2022). Failure risk assessment of coal gasifier based on the integration of bayesian network and trapezoidal intuitionistic fuzzy number-based similarity aggregation method (TpIFN-SAM). Processes, 10(9), 1863.
 "gasifier"

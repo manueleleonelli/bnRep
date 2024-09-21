@@ -39,7 +39,7 @@
 #'  \item{WeaknessInTheInstallationOfTankEquipment}{(True, False);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Laal, F., Hanifi, S. M., Madvari, R. F., Khoshakhlagh, A. H., & Arefi, M. F. (2023). Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic. Heliyon, 9(8).

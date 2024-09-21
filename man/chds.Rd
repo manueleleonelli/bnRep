@@ -13,6 +13,9 @@ A discrete Bayesian network looking at the effect the family’s social backgrou
 \item{Admission}{Rate of hospital admissions (Yes, No);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Refining a Bayesian network using a chain event graph.
 }

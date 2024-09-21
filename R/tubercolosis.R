@@ -14,6 +14,7 @@
 #' \item{TreatmentOutcome}{(Alive, Died);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #'@keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Razwiedani, M., & Kogeda, O. P. (2021). A Decision Support System for Tuberculosis Prevalence in South Africa. In Computational Science and Its Applications. Springer International Publishing.

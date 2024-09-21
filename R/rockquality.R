@@ -18,6 +18,7 @@
 #'   \item{WeatheringDegree}{(Fresh, Slight, Medium, Severe, Extreme).}
 #'   }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #'@keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ma, J., Li, T., Li, X., Zhou, S., Ma, C., Wei, D., & Dai, K. (2022). A probability prediction method for the classification of surrounding rock quality of tunnels with incomplete data using Bayesian networks. Scientific Reports, 12(1), 19846.

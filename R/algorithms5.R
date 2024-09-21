@@ -15,7 +15,7 @@
 #' \item{X6}{}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords CLGBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Scutari, M. (2024). Entropy and the Kullback-Leibler Divergence for Bayesian Networks: Computational Complexity and Efficient Implementation. Algorithms, 17(1), 24.

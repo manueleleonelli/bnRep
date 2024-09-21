@@ -13,6 +13,9 @@ A discrete Bayesian network to assist asset managers in evaluating the risk aris
 \item{ValveActivation}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Integration of fuzzy reliability analysis and consequence simulation to conduct risk assessment.
 }

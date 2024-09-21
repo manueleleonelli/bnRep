@@ -13,6 +13,9 @@ A discrete Bayesian network to discover poor performance indicators in a system 
 \item{time_on_page_t_0}{(high, low, medium, very low).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Bayesian Network analysis of software logs for data‐driven software maintenance.
 }

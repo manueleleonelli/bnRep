@@ -17,6 +17,9 @@ A discrete Bayesian network to to estimate conditional probabilities of each foo
 \item{Veg_Leg}{(T, F);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Prevalence of self-reported food allergy in Tunisia: General trends and probabilistic modeling.
 }

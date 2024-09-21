@@ -17,6 +17,9 @@ A Gaussian Bayesian network to to forecast, in spring, mean total phosphorus and
 \item{WindSpeed}{Mean daily mean wind speed;}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Seasonal forecasting of lake water quality and algal bloom risk using a continuous Gaussian Bayesian networks.
 }

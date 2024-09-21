@@ -34,7 +34,7 @@
 #'   \item{VFD}{Electric vehicle fire disaster (yes, no);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Chen, J., Li, K., & Yang, S. (2022). Electric vehicle fire risk assessment based on WBS-RBS and fuzzy BN coupling. Mathematics, 10(20), 3799.

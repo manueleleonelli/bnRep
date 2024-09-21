@@ -58,7 +58,7 @@
 #' \item{ChronicToxicityExposureOral}{(Less than 10, 10-100, No effect);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords Tree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Schmidt, J. R. A., Nogueira, D. J., Nassar, S. M., Vaz, V. P., da Silva, M. L. N., Vicentini, D. S., & Matias, W. G. (2020). Probabilistic model for assessing occupational risk during the handling of nanomaterials. Nanotoxicology, 14(9), 1258-1270.

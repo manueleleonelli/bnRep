@@ -24,6 +24,7 @@
 #' \item{Zooplankton}{(Low, Moderate, High);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Thiemer, K., Schneider, S. C., & Demars, B. O. (2021). Mechanical removal of macrophytes in freshwater ecosystems: Implications for ecosystem structure and function. Science of the Total Environment, 782, 146671.

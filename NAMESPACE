@@ -3,6 +3,7 @@
 export(bnRep_app)
 export(get_network_list)
 export(load_network)
+import(Rgraphviz)
 import(bnlearn)
 import(dplyr)
 import(qgraph)

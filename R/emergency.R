@@ -26,6 +26,7 @@
 #' \item{ECFOL}{Equipment cooling fan OFF light (illuminated, extinguished);}
 #'   }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Guo, J., Ma, S., Zeng, S., Che, H., & Pan, X. (2024). A risk evaluation method for human-machine interaction in emergencies based on multiple mental models-driven situation assessment. Reliability Engineering & System Safety, 110444.

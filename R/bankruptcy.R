@@ -18,7 +18,7 @@
 #' \item{CashAssets}{(Low, Medium, High);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Sun, L., & Shenoy, P. P. (2007). Using Bayesian networks for bankruptcy prediction: Some methodological issues. European Journal of Operational Research, 180(2), 738-753.

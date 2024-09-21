@@ -20,6 +20,9 @@ A discrete Bayesian network to predict the potential effects of message delivery
 \item{Systematic_Processing}{(high, medium, low);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Framing and tailoring prefactual messages to reduce red meat consumption: Predicting effects through a psychology-based graphical causal model.
 }

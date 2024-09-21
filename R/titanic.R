@@ -13,6 +13,7 @@
 #'    \item{Survived}{(No, Yes).}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Carli, F., Leonelli, M., Riccomagno, E., & Varando, G. (2022). The R Package stagedtrees for Structural Learning of Stratified Staged Trees. Journal of Statistical Software, 102, 1-30.

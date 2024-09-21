@@ -30,6 +30,9 @@ A discrete Bayesian network  to analyze the criticality and possible impact of a
 \item{P21}{(F, T);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A collective efficacy-based approach for bi-objective sustainable project portfolio selection using interdependency network model between projects.
 }

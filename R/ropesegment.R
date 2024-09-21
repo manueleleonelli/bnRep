@@ -20,7 +20,7 @@
 #'  \item{RopeSegment}{(TRUE, FALSE);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords  ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Jana, D., Kumar, D., Gupta, S., & Gupta, K. K. (2024). Availability optimization of a dragline subsystem using Bayesian network. Journal of The Institution of Engineers (India): Series D, 105(1), 77-88.

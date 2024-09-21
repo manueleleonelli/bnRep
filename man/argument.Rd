@@ -19,6 +19,9 @@ A discrete Bayesian network formalizing Walton's re-constructed set of critical 
 \item{WellInformedPractice}{(FALSE, TRUE);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Towards an empirically informed normative Bayesian scheme-based account of argument from expert opinion.
 }

@@ -22,6 +22,9 @@ A discrete Bayesian network modeling the factors affecting the income of individ
 \item{Language}{(english, spanish, other);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 The FEDHC Bayesian network learning algorithm.
 }

@@ -15,7 +15,7 @@
 #' \item{VerticalEffectiveStress}{(small, medium, big, super);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ahmad, M., Tang, X. W., Qiu, J. N., Ahmad, F., & Gu, W. J. (2021). Application of machine learning algorithms for the evaluation of seismic soil liquefaction potential. Frontiers of Structural and Civil Engineering, 15, 490-505.

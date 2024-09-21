@@ -49,6 +49,7 @@
 #'   \item{WIDO}{Waterway infrastructure damage - origin (Low, Medium, High);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Goerlandt, F., & Islam, S. (2021). A Bayesian Network risk model for estimating coastal maritime transportation delays following an earthquake in British Columbia. Reliability Engineering & System Safety, 214, 107708.

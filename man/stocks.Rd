@@ -22,6 +22,9 @@ A Gaussian Bayesian network to explore the causal relations between the healthca
 \item{ZOREN}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Gaussian Bayesian network model of healthcare, food and energy sectors in the pandemic: Turkiye case.
 }

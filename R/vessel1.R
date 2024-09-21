@@ -25,6 +25,7 @@
 #'      \item{WeatherAndSeaConditions}{(Bad, Good);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ugurlu, F., Yildiz, S., Boran, M., Ugurlu, O., & Wang, J. (2020). Analysis of fishing vessel accidents with Bayesian network and Chi-square methods. Ocean Engineering, 198, 106956.

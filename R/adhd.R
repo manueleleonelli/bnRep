@@ -28,7 +28,7 @@
 #'   \item{IntrudesOthers}{Intrudes/interrupts others (Never, Sometimes, Often, Very Often);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Jiang, Z., Ma, W., Flory, K., Zhang, D., Zhou, W., Shi, D., ... & Liu, R. (2023). Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification. Current Psychology, 42(22), 19230-19240.

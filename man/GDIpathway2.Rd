@@ -37,6 +37,9 @@ A discrete Bayesian network to pinpoint key cellular factors and pathways likely
 \item{RTKN}{(Above, Below);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Integrative network modeling highlights the crucial roles of Rho-GDI signaling pathway in the progression of non-small cell lung cancer.
 }

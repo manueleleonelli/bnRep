@@ -37,6 +37,7 @@
 #' \item{VoltageWaveFormAsymmetry}{(TRUE, FALSE);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Han, S., He, Y., Zheng, S., & Wang, F. (2019). Intelligent Fault Inference of Inverters Based on a Three-Layer Bayesian Network. Mathematical Problems in Engineering, 2019(1), 3653746.

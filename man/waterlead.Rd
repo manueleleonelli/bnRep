@@ -26,6 +26,9 @@ A discrete Bayesian network to predict building-wide water lead risk in over 4,0
 \item{ruca_cat}{(Metropolitan, Micropolitan, Rural, Small town);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Improved decision making for water lead testing in U.S. child care facilities using machine-learned Bayesian networks.
 }

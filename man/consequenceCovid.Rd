@@ -24,6 +24,9 @@ A discrete Bayesian network including demographic information of the respondents
 \item{CLASS}{Do you see yourself and your household belonging to...? (Working class, Lower class, Middle class, Upper class);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Global sensitivity analysis of uncertain parameters in Bayesian networks.
 }

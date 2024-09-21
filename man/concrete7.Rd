@@ -14,6 +14,9 @@ A discrete Bayesian network for evaluating the presence probability of blue conc
 \item{NumberOfStairwells}{(0, 1, 2, 3, 4);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Estimating the probability distributions of radioactive concrete in the building stock using Bayesian networks.
 }

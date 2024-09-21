@@ -15,6 +15,9 @@ A discrete Bayesian network modeling transport choices of a population. Probabil
 \item{T}{Transport (car, train, other);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Bayesian networks: with examples in R.
 }

@@ -15,6 +15,9 @@ A discrete Bayesian network to model a simple fire alarm system. Probabilities w
 \item{Report}{(true, false);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 When do numbers really matter?.
 }

@@ -16,6 +16,8 @@ A discrete Bayesian network to analyze the dissemination, identification, and ca
 \item{PatsyInvestment}{(Yes, No);}
 \item{PromotionalMessages}{(Yes, No);}
 }
+
+@return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 }
 \description{
 A coupled mathematical model of the dissemination route of short-term fund-raising fraud.

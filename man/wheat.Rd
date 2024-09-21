@@ -14,6 +14,9 @@ A discrete Bayesian network  to predict wheat yield. Probabilities were given wi
 \item{Yield}{(Very Low, Low, Average, High, Very High).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Embedding expert opinion in a Bayesian network model to predict wheat yield from spring-summer weather.
 }

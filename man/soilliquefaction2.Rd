@@ -16,6 +16,9 @@ A discrete Bayesian network to evaluate the earthquake-induced liquefaction pote
 \item{VerticalEffectiveStress}{(small, medium, big, super);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Application of machine learning algorithms for the evaluation of seismic soil liquefaction potential.
 }

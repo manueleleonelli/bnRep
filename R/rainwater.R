@@ -15,7 +15,7 @@
 #' \item{AverageNumberOfDryDaysPerYear}{(High, Medium, Low);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords TAN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Geraldi, M. S., & Ghisi, E. (2019). Short-term instead of long-term rainfall time series in rainwater harvesting simulation in houses: An assessment using Bayesian Network. Resources, Conservation and Recycling, 144, 1-12.

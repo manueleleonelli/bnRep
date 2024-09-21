@@ -20,6 +20,7 @@
 #' \item{Vulnerability}{(Low, Medium, High);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Roy, G., Sen, M. K., Singh, A., Dutta, S., & Choudhury, S. (2024). Probabilistic seismic risk assessment of a reinforced concrete building considering hazard level and the resulting vulnerability using Bayesian Belief Network. Asian Journal of Civil Engineering, 25(3), 2993-3009.

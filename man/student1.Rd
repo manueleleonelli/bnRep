@@ -35,6 +35,9 @@ A discrete Bayesian network modeling students' achievement in the secondary educ
 \item{traveltime}{Home to school travel time (Less than 15min, 15 to 30 mins, 30 mins to 1 hour, More than 1 hour);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A survey on datasets for fairness-aware machine learning.
 }

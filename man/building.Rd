@@ -33,6 +33,9 @@ A Gaussian Bayesian network to assess the damage of reinforced concrete structur
 \item{X24}{Corrosion;}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Sensitivity analysis in Gaussian Bayesian networks using a symbolic-numerical technique.
 }

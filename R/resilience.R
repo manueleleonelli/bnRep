@@ -45,6 +45,7 @@
 #'   \item{Transformation2}{1980-2019 (true, false);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Franco-Gaviria, F., Amador-Jimenez, M., Millner, N., Durden, C., & Urrego, D. H. (2022). Quantifying resilience of socio-ecological systems through dynamic Bayesian networks. Frontiers in Forests and Global Change, 5, 889274.

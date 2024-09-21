@@ -16,7 +16,7 @@
 #' \item{smoker}{(no, yes);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords CLGBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Peled, A., & Fine, S. (2021). Discrete Latent Variables Discovery and Structure Learning in Mixed Bayesian Networks. In 20th IEEE International Conference on Machine Learning and Applications (pp. 248-255). IEEE.

@@ -45,6 +45,7 @@
 #'   \item{WD}{Wrong decision (No,Yes);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Fu, S., Yu, Y., Chen, J., Xi, Y., & Zhang, M. (2022). A framework for quantitative analysis of the causation of grounding accidents in arctic shipping. Reliability Engineering & System Safety, 226, 108706.

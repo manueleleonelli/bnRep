@@ -15,6 +15,9 @@ A discrete Bayesian modelling a situation where equally reliable witnesses try t
 \item{WhoCommittedTheDeed}{Who is the criminal (Steve, Martin, David, John, James, Peter);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Measuring coherence with Bayesian networks.
 }

@@ -17,6 +17,9 @@ A discrete Bayesian network modeling a floodgate in the Netherlands. Probabiliti
 \item{Z3}{Sensor sends correct water level measurements after recalibrating the sensor (True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Probability elicitation for Bayesian networks to distinguish between intentional attacks and accidental technical failures.
 }

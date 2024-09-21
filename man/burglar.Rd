@@ -12,6 +12,9 @@ A discrete Bayesian network modeling a simple burglary scenario (Model 1, Table 
 \item{BurglaryTime}{(Day, Night);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Strategies for selecting and evaluating information.
 }

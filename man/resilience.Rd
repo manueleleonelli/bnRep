@@ -45,6 +45,9 @@ A discrete Bayesian network for the evaluation and modeling of socio-ecological 
 \item{Transformation2}{1980-2019 (true, false);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Quantifying resilience of socio-ecological systems through dynamic Bayesian networks.
 }

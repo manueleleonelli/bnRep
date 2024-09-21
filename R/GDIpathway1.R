@@ -37,6 +37,7 @@
 #' \item{RTKN}{(Above, Below);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Gupta, S., Vundavilli, H., Osorio, R. S. A., Itoh, M. N., Mohsen, A., Datta, A., ... & Tripathi, L. P. (2022). Integrative network modeling highlights the crucial roles of rho-GDI signaling pathway in the progression of non-small cell lung cancer. IEEE Journal of Biomedical and Health Informatics, 26(9), 4785-4793.

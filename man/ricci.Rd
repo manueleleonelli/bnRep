@@ -15,6 +15,9 @@ A discrete Bayesian network modeling the results of a promotion exam within a fi
 \item{Written}{The written exam score (<70, >=70);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A survey on datasets for fairness-aware machine learning.
 }

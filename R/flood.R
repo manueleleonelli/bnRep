@@ -31,6 +31,7 @@
 #'   \item{Yield}{(Decrease, Increase);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ali, Q. (2023). A trade-off between farm production and flood alleviation using land use tillage preferences as a natural flood management (NFM) strategy. Smart Agricultural Technology, 6, 100361.

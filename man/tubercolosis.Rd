@@ -14,6 +14,9 @@ A discrete Bayesian network to educate, inform, and prescribe measures to take w
 \item{TreatmentOutcome}{(Alive, Died);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A decision support system for tuberculosis prevalence in South Africa.
 }

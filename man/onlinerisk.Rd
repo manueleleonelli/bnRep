@@ -93,6 +93,9 @@ A discrete Bayesian network to develop online risk models for an autonomous mari
 \item{Water_Environment}{(Good, Poor);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Online risk modeling of autonomous marine systems: Case study of autonomous operations under sea ice.
 }

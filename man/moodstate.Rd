@@ -16,6 +16,9 @@ A discrete Bayesian network to perform high-level information fusion. Probabilit
 \item{Sleep}{(<6 Hours, >6 Hours;}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Inference of mood state indices by using a multimodal high-level information fusion technique.
 }

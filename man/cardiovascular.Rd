@@ -22,6 +22,9 @@ A discrete Bayesian network allowing for making inferences and predictions about
 \item{SocioeconomicStatus}{(1, 2, 3);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A Bayesian network model for predicting cardiovascular risk.
 }

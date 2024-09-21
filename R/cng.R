@@ -94,7 +94,7 @@
 #' \item{WindSpeed}{(T, F);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Abbasi Kharajou, B., Ahmadi, H., Rafiei, M., & Moradi Hanifi, S. (2024). Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling. Scientific Reports, 14(1), 4266.

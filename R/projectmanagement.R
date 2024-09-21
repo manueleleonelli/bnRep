@@ -35,6 +35,7 @@
 #'   \item{O4}{Cost overruns (YES, NO);}
 #'    }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Qazi, A., Quigley, J., Dickson, A., & Kirytopoulos, K. (2016). Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects. International Journal of Project Management, 34(7), 1183-1198.

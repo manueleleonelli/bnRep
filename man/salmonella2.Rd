@@ -19,6 +19,9 @@ A discrete Bayesian network to show the existence of dependencies between resist
 \item{TMP}{Trimethoprimn (s, r);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Patterns of antimicrobial resistance in Salmonella isolates from fattening pigs in Spain.
 }

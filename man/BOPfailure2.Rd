@@ -55,6 +55,9 @@ A discrete Bayesian network for risk assessment of oil well blowout (Fig. 3 of t
 \item{X45}{Using the float valve /nonreturn safety valve (F, S);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Providing a comprehensive approach to oil well blowout risk assessment.
 }

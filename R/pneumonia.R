@@ -70,6 +70,7 @@
 #'  \item{O2Type}{If the child has been put on supplementary oxygen when measuring oxygen saturation (SuppO2, RoomAir);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wu, Y., Mascaro, S., Bhuiyan, M., Fathima, P., Mace, A. O., Nicol, M. P., ... & Blyth, C. C. (2023). Predicting the causative pathogen among children with pneumonia using a causal Bayesian network. PLoS Computational Biology, 19(3), e1010967.

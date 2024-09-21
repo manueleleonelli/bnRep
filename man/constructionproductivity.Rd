@@ -26,6 +26,9 @@ A discrete Bayesian network to identify causal relationship and occurrence proba
 \item{WorkingTools}{(Yes, No);}
 \item{Workmanship}{(Yes, No);}
 }
+
+\if{html}{\out{<div class="sourceCode">}}\preformatted{@return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}\if{html}{\out{</div>}}
 }
 \description{
 Construction productivity prediction through Bayesian networks for building projects: case from Vietnam.

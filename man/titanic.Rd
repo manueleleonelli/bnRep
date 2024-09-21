@@ -13,6 +13,9 @@ A discrete Bayesian network modeling the survival of the Titanic passengers. The
 \item{Survived}{(No, Yes).}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 The R Package stagedtrees for Structural Learning of Stratified Staged Trees.
 }

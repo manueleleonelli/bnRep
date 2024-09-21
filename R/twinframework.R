@@ -17,7 +17,7 @@
 #'  }
 #'
 #' @keywords NULL
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @importClassesFrom bnlearn bn.fit
 #' @references Jiao, Z., Du, X., Liu, Z., Liu, L., Sun, Z., & Shi, G. (2023). Sustainable Operation and Maintenance Modeling and Application of Building Infrastructures Combined with Digital Twin Framework. Sensors, 23(9), 4182.
 "twinframework"

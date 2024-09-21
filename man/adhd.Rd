@@ -28,6 +28,9 @@ A discrete Bayesian network to classify ADHD symptom. Probabilities were given w
 \item{IntrudesOthers}{Intrudes/interrupts others (Never, Sometimes, Often, Very Often);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Development of a computerized adaptive testing for ADHD using Bayesian networks: An attempt at classification.
 }

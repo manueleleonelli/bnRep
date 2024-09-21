@@ -18,6 +18,7 @@
 #'   \item{DataQuality}{(High, Low);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @usage NULL
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit

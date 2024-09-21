@@ -18,6 +18,9 @@ A discrete Bayesian network to classify residential parcels by risk of exceeding
 \item{SoilSamplingLocation}{(Dripline, Streetside, Yard);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Lead distribution in urban soil in a medium-sized city: household-scale analysis.
 }

@@ -95,6 +95,9 @@ A discrete Bayesian network for risk assessment in compressed natural gas (CNG) 
 \item{WindSpeed}{(T, F);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Quantitative risk estimation of CNG station by using fuzzy bayesian networks and consequence modeling.
 }

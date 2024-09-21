@@ -39,6 +39,9 @@ A discrete Bayesian network for risk assessment of oil well blowout (Fig. 5 of t
 \item{X29}{Hydraulic choke valve failure (F, S);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Providing a comprehensive approach to oil well blowout risk assessment.
 }

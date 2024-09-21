@@ -20,6 +20,7 @@
 #' \item{VisualFireCues}{(Yes, No);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ramli, N., Ghani, N. A., Ahmad, N., & Hashim, I. H. M. (2021). Psychological response in fire: a fuzzy Bayesian network approach using expert judgment. Fire Technology, 57, 2305-2338.

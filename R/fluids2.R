@@ -14,6 +14,7 @@
 #' \item{Nature_of_stain}{(Saliva, Fecal matter/vaginal secretion/sperm/breat milk/urine, Other);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Samie, L., Champod, C., Delemont, S., Basset, P., Hicks, T., & Castella, V. (2022). Use of Bayesian Networks for the investigation of the nature of biological material in casework. Forensic Science International, 331, 111174.

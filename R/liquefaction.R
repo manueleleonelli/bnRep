@@ -19,7 +19,7 @@
 #'      \item{Ts}{}
 #'    }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Hu, J., Xiong, B., Zhang, Z., & Wang, J. (2023). A continuous Bayesian network regression model for estimating seismic liquefaction-induced settlement of the free-field ground. Earthquake Engineering & Structural Dynamics, 52(11), 3216-3237.

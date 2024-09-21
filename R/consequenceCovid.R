@@ -23,7 +23,7 @@
 #'   \item{COMMUNITY}{Would you say you live in a... (Rural area or village, Small or middle sized town, Large town);}
 #'   \item{CLASS}{Do you see yourself and your household belonging to...? (Working class, Lower class, Middle class, Upper class);}
 #' }
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ballester-Ripoll, R., & Leonelli, M. (2024). Global Sensitivity Analysis of Uncertain Parameters in Bayesian Networks. arXiv preprint arXiv:2406.05764.

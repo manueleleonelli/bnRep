@@ -19,6 +19,9 @@ A Gaussian Bayesian network to predict seismic liquefaction-induced settlement. 
 \item{Ts}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A continuous Bayesian network regression model for estimating seismic liquefaction-induced settlement of the free-field ground.
 }

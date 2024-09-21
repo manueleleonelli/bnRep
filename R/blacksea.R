@@ -57,6 +57,7 @@
 #' \item{Visibility}{(Poor, Good);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ugurlu, O., Yildiz, S., Loughney, S., Wang, J., Kuntchulia, S., & Sharabidze, I. (2020). Analyzing collision, grounding, and sinking accidents occurring in the Black Sea utilizing HFACS and Bayesian networks. Risk analysis, 40(12), 2610-2638.

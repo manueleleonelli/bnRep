@@ -40,6 +40,7 @@
 #'   \item{Wind}{Wind (>= Category 5, < Category 5).}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Fu, S., Gu, S., Zhang, Y., Zhang, M., & Weng, J. (2023). Towards system-theoretic risk management for maritime transportation systems: A case study of the yangtze river estuary. Ocean Engineering, 286, 115637.

@@ -26,6 +26,9 @@ A discrete Bayesian network for the evaluation of transfer evidence given activi
 \item{XstrangledY}{Mr. X strangled person Y (false, true);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A template Bayesian network for combining forensic evidence on an item with an uncertain relation to the disputed activities.
 }

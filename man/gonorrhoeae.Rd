@@ -19,6 +19,9 @@ A discrete Bayesian network  to simulate the clinician-patient dynamics influenc
 \item{UnpromptedTest}{(Initiated, Not initiated);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Policy, practice, and prediction: model-based approaches to evaluating N. gonorrhoeae antibiotic susceptibility test uptake in Australia.
 }

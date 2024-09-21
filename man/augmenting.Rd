@@ -15,6 +15,9 @@ A discrete Bayesian network to estimate the probability that the car will remain
 \item{SafeTurnRegion}{(Yes, No);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Augmenting learning components for safety in resource constrained autonomous robots.
 }

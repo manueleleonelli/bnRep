@@ -13,6 +13,7 @@
 #'    \item{SocialCohesion}{}
 #'}
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Leonelli, M., Riccomagno, E., & Smith, J. Q. (2020). Coherent combination of probabilistic outputs for group decision making: an algebraic approach. OR Spectrum, 42(2), 499-528.

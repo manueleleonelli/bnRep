@@ -35,6 +35,9 @@ A discrete Bayesian network to identify critical risks and selecting optimal ris
 \item{O4}{Cost overruns (YES, NO);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Project Complexity and Risk Management (ProCRiM): Towards modelling project complexity driven risk paths in construction projects.
 }

@@ -60,6 +60,9 @@ A discrete Bayesian network for the evaluation of the reliability of a draglines
 \item{Dragline}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Bayesian network approach for dragline reliability analysis: A case study.
 }

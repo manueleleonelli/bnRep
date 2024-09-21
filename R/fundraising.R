@@ -17,6 +17,8 @@
 #'   \item{PromotionalMessages}{(Yes, No);}
 #' }
 #'
+#'  @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+#'
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Yang, S., Su, K., Wang, B., & Xu, Z. (2022). A coupled mathematical model of the dissemination route of short-term fund-raising fraud. Mathematics, 10(10), 1709.

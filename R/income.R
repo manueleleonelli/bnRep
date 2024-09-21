@@ -22,6 +22,7 @@
 #'   \item{Language}{(english, spanish, other);}
 #'    }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Tsagris, M. (2022). The FEDHC Bayesian network learning algorithm. Mathematics, 10(15), 2604.

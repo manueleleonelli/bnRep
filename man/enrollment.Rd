@@ -17,6 +17,9 @@ A discrete Bayesian network for sustainable enrollment plan configurations aimed
 \item{EnrollmentQuota}{(-2, -1, 0, 1, 2);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Research on evaluation methods for sustainable enrollment plan configurations in Chinese universities based on Bayesian networks.
 }

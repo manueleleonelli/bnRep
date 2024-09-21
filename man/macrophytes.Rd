@@ -24,6 +24,9 @@ A discrete Bayesian network o assess the implications of macrophyte removal on i
 \item{Zooplankton}{(Low, Moderate, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Mechanical removal of macrophytes in freshwater ecosystems: Implications for ecosystem structure and function.
 }

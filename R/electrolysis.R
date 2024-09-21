@@ -24,6 +24,7 @@
 #'   \item{V}{Operating cell voltage (High, Low);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Liu, Y., Amin, M. T., Khan, F., & Pistikopoulos, E. N. (2023). Safety analysis of proton exchange membrane water electrolysis system. Journal of Environmental Chemical Engineering, 11(5), 110772.

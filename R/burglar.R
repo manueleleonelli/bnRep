@@ -12,7 +12,7 @@
 #' \item{BurglaryTime}{(Day, Night);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Liefgreen, A., Pilditch, T., & Lagnado, D. (2020). Strategies for selecting and evaluating information. Cognitive Psychology, 123, 101332.

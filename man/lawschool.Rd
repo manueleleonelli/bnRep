@@ -19,6 +19,9 @@ A discrete Bayesian network modeling law school admission records. The DAG was t
 \item{zgpa}{The cumulative law school GPA (<=0, >0);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 A survey on datasets for fairness-aware machine learning.
 }

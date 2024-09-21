@@ -93,6 +93,7 @@
 #'   \item{Water_Environment}{(Good, Poor);}
 #'    }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Yang, R., Bremnes, J. E., & Utne, I. B. (2023). Online risk modeling of autonomous marine systems: case study of autonomous operations under sea ice. Ocean Engineering, 281, 114765.

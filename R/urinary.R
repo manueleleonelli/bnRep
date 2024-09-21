@@ -45,6 +45,7 @@
 #'   \item{WCCLevel}{(Above18, Btw10And18, Below10, NotDone);}
 #'    }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Ramsay, J. A., Mascaro, S., Campbell, A. J., Foley, D. A., Mace, A. O., Ingram, P., ... & Wu, Y. (2022). Urinary tract infections in children: building a causal model-based decision support tool for diagnosis with domain knowledge and prospective data. BMC Medical Research Methodology, 22(1), 218.

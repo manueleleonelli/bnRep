@@ -17,7 +17,7 @@
 #' \item{EnrollmentQuota}{(-2, -1, 0, 1, 2);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wang, K., Wang, T., Wang, T., & Cai, Z. (2024). Research on Evaluation Methods for Sustainable Enrollment Plan Configurations in Chinese Universities Based on Bayesian Networks. Sustainability, 16(7), 2998.

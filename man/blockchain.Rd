@@ -20,6 +20,8 @@ A discrete Bayesian network to predict the probability of blockchain adoption in
 \item{TKH}{Technical know-how (Low, High);}
 \item{TMS}{Top management support (Low, High);}
 }
+
+@return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 }
 \description{
 A machine learning based approach for predicting blockchain adoption in supply chain.

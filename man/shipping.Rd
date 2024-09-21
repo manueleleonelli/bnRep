@@ -45,6 +45,9 @@ A discrete Bayesian network to evaluate the occurrence likelihood of risk of tra
 \item{VesselRisk}{(Yes, No);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Leverage Bayesian Network and Fault Tree Method on Risk Assessment of LNG Maritime Transport Shipping Routes: Application to the China–Australia Route.
 }

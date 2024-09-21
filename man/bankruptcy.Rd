@@ -18,6 +18,9 @@ A discrete Bayesian network for bankruptcy prediction. Probabilities were given 
 \item{CashAssets}{(Low, Medium, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Using Bayesian networks for bankruptcy prediction: Some methodological issues.
 }

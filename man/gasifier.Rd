@@ -49,6 +49,9 @@ A discrete Bayesian network for the failure-risk assessment of process system. P
 \item{UnintentionalDestruction}{Unintentional destruction (Occurred, NotOccured);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Failure risk assessment of coal gasifier based on the integration of bayesian network and trapezoidal intuitionistic fuzzy number-based similarity aggregation method (TpIFN-SAM).
 }

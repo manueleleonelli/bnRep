@@ -131,7 +131,7 @@
 #' \item{FOWTMalfunctions}{Flowing offshore wind turbine malfunctions (Yes, No);}
 #'}
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Li, H., Soares, C. G., & Huang, H. Z. (2020). Reliability analysis of a floating offshore wind turbine using Bayesian Networks. Ocean Engineering, 217, 107827.

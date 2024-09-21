@@ -18,6 +18,9 @@ A discrete Bayesian network to study DNA transfer during lock-picking. Probabili
 \item{DNAFoundOnFoil}{(Suspect DNA On Foil, Suspect And Unknown DNA On Foil, Unknown DNA On Foil, No DNA On Foil);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 How did the DNA of a suspect get to the crime scene? A practical study in DNA transfer during lock-picking.
 }

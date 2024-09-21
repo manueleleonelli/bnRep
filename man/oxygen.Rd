@@ -40,6 +40,9 @@ A discrete Bayesian network to calculate failure rates of oxygen tanks in hospit
 \item{WeaknessInTheInstallationOfTankEquipment}{(True, False);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Providing an approach to analyze the risk of central oxygen tanks in hospitals during the COVID-19 pandemic.
 }

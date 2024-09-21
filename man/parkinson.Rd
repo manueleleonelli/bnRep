@@ -43,6 +43,9 @@ A Gaussian Bayesian network to simulate a down-expression of the putative drug t
 \item{CD33}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 AI reveals insights into link between CD33 and cognitive impairment in Alzheimer's disease.
 }

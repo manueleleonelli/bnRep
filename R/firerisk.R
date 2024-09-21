@@ -32,6 +32,7 @@
 #' \item{C6}{Explosion (T, F);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Issa, S. K., Bakkali, H., Azmani, A., & Amami, B. (2024). Predictive study of fire risk in building using Bayesian networks. Journal of Theoretical and Applied Information Technology, 102(7).

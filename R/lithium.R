@@ -54,7 +54,7 @@
 #'   \item{ViolentRolling}{(True, False);}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Zhang, C., Sun, H., Zhang, Y., Li, G., Li, S., Chang, J., & Shi, G. (2023). Fire accident risk analysis of lithium battery energy storage systems during maritime transportation. Sustainability, 15(19), 14198.

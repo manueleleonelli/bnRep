@@ -25,6 +25,7 @@
 #'    }
 #'
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords GBN
 #' @importClassesFrom bnlearn bn.fit
 #' @references Rostam-Alilou, A. A., Zhang, C., Salboukh, F., & Gunes, O. (2022). Potential use of Bayesian Networks for estimating relationship among rotational dynamics of floating offshore wind turbine tower in extreme environmental conditions. Ocean Engineering, 244, 110230.

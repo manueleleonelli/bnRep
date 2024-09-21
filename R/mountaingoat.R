@@ -16,7 +16,7 @@
 #'   \item{Solar_Insolation}{(Very Low, Low, Moderate, High, Very High));}
 #' }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords KDep
 #' @importClassesFrom bnlearn bn.fit
 #' @references Wilson, S. F., Nietvelt, C., Taylor, S., & Guertin, D. A. (2022). Using Bayesian networks to map winter habitat for mountain goats in coastal British Columbia, Canada. Frontiers in Environmental Science, 10, 958596.

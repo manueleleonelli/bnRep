@@ -35,6 +35,7 @@
 #'   \item{X27}{Lack of supervision system (yes, no);}
 #' }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Xiao, Q., Li, Y., Luo, F., & Liu, H. (2023). Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network. Technology in Society, 73, 102229.

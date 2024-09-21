@@ -29,6 +29,9 @@ A discrete Bayesian network to perform risk-benefit analysis of vaccination. The
 \item{VaccineEffectivenessAgainstSymptomaticInfection}{(Effective, Not Effective);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Risk-benefit analysis of the AstraZeneca COVID-19 vaccine in Australia using a Bayesian network modelling framework.
 }

@@ -18,6 +18,7 @@
 #'  \item{UR}{Economy coordination (High, Medium, Low);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Chai, J., Wang, Y., Hu, Y., Zhang, X., & Zhang, X. (2023). The Coupling Relationships and Influence Mechanisms of Green Credit and Energy-Environment-Economy Under China's Goal of Carbon Neutrality. Journal of Systems Science and Complexity, 36(1), 360-374.

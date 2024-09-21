@@ -16,7 +16,7 @@
 #'   \item{Sleep}{(<6 Hours, >6 Hours;}
 #'    }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Tai, C. H., Chung, K. H., Teng, Y. W., Shu, F. M., & Chang, Y. S. (2021). Inference of mood state indices by using a multimodal high-level information fusion technique. IEEE Access, 9, 61256-61268.

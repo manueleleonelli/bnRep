@@ -20,6 +20,9 @@ A discrete Bayesian network to explore  the relationship between the environment
 \item{Slope}{(low, medium, high);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Exploring the role of ecology and social organisation in agropastoral societies: A Bayesian network approach.
 }

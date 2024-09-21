@@ -36,6 +36,9 @@ A discrete Bayesian network to analyze critical risks associated with unmanned a
 \item{X27}{Lack of supervision system (yes, no);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Analysis and assessment of risks to public safety from unmanned aerial vehicles using fault tree analysis and Bayesian network.
 }

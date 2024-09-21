@@ -26,6 +26,8 @@
 #'   \item{WorkingTools}{(Yes, No);}
 #'   \item{Workmanship}{(Yes, No);}
 #'    }
+#'
+#'     @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Khanh, H. D., & Kim, S. Y. (2022). Construction productivity prediction through Bayesian networks for building projects: Case from Vietnam. Engineering, Construction and Architectural Management, 30(5), 2075-2100.

@@ -19,6 +19,9 @@ A discrete Bayesian network to obtain bounds on the probability that the referen
 \item{DoseRate}{(Violated, Not Violated);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Comprehensiveness of scenarios in the safety assessment of nuclear waste repositories.
 }

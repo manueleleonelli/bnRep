@@ -17,6 +17,7 @@
 #'   \item{Sleep}{I cannot sleep because I am worried about getting COVID-19 (Disagree, Neither, Agree);}
 #'   \item{Hearth}{My heart races or palpitates when I think about getting COVID-19 (Disagree, Neither, Agree);}
 #' }
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #'
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit

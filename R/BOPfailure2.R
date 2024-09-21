@@ -55,7 +55,7 @@
 #'   \item{X45}{Using the float valve /nonreturn safety valve (F, S);}
 #'    }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords ReverseTree
 #' @importClassesFrom bnlearn bn.fit
 #' @references Satiarvand, M., Orak, N., Varshosaz, K., Hassan, E. M., & Cheraghi, M. (2023). Providing a comprehensive approach to oil well blowout risk assessment. Plos One, 18(12), e0296086.

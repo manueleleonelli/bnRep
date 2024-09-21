@@ -23,6 +23,7 @@
 #' \item{VegetationHeight}{(Low, Medium, High);}
 #'  }
 #'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NULL
 #' @importClassesFrom bnlearn bn.fit
 #' @references Beall, K., Loisel, J., & Medina-Cetina, Z. (2022). PermaBN: A Bayesian Network framework to help predict permafrost thaw in the Arctic. Ecological Informatics, 69, 101601.

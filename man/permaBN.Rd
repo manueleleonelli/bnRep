@@ -23,6 +23,9 @@ A discrete Bayesian network to simulate permafrost thaw in the continuous permaf
 \item{VegetationHeight}{(Low, Medium, High);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 PermaBN: A Bayesian Network framework to help predict permafrost thaw in the Arctic.
 }

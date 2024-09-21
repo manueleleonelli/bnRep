@@ -57,6 +57,9 @@ A discrete Bayesian network to analyze the marine accidents. The probabilities w
 \item{Visibility}{(Poor, Good);}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Analyzing collision, grounding, and sinking accidents occurring in the Black Sea utilizing HFACS and Bayesian networks.
 }

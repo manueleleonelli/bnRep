@@ -24,6 +24,9 @@ A conditional linear-Gaussian Bayesian network to predict the outcome of a covid
 \item{temperature}{}
 }
 }
+\value{
+An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
+}
 \description{
 Discrete latent variables discovery and structure learning in mixed Bayesian networks.
 }

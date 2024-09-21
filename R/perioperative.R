@@ -14,7 +14,7 @@
 #' \item{AbnormalAPTT}{(High, Medium, Low);}
 #'  }
 #'
-#'
+#' @return An object of class \code{bn.fit}. Refer to the documentation of \code{bnlearn} for details.
 #' @keywords NaiveBayes
 #' @importClassesFrom bnlearn bn.fit
 #' @references Kawaguchi, S., Fukuda, O., Kimura, S., Yeoh, W. L., Yamaguchi, N., & Okumura, H. (2024, January). Development of a Perioperative Medication Suspension Decision Algorithm Based on Bayesian Networks. In 2024 IEEE/SICE International Symposium on System Integration (SII) (pp. 7-12). IEEE.
