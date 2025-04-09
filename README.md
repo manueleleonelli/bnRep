@@ -20,14 +20,16 @@ networks, which were all collected from recent academic literature in a
 variety of fields! If you are using any Bayesian network from `bnRep`
 you should cite:
 
-Leonelli, M (2024). “bnRep: A repository of Bayesian networks from the
-academic literature.” ArXiv 24….
+Leonelli, M. (2025). bnRep: A repository of Bayesian networks from the
+academic literature. Neurocomputing, 624, 129502.
 
     @Article{,
         title = {bn{R}ep: A repository of {B}ayesian networks from the academic literature},
         author = {Manuele Leonelli},
-        journal = {Arxiv},
-        year = {2024}
+        journal = {Neurocomputing},
+        volume = {624},
+        year = {2025},
+        pages = {129502}
       }
 
 Go to <https://manueleleonelli.shinyapps.io/bnRep/> to explore the
@@ -82,7 +84,6 @@ in the environment simply call `data(lawschool)` and to then plot it
 
 ``` r
 library(bnRep)
-#> Warning: package 'bnRep' was built under R version 4.3.3
 library(bnlearn)
 library(qgraph)
 data("lawschool")
