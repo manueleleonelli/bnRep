@@ -13,6 +13,6 @@
   packageStartupMessage("")
   packageStartupMessage("- If you are using any Bayesian network from bnRep, remember to cite:")
   packageStartupMessage("")
-  packageStartupMessage("Leonelli, M. (2025). bnRep: A repository of Bayesian networks from the academic literature. Neurocomputing, 129502.")
+  packageStartupMessage("Leonelli, M. (2025). bnRep: A repository of Bayesian networks from the academic literature. Neurocomputing, 624, 129502.")
   packageStartupMessage("")
 }
