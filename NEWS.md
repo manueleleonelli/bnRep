@@ -1,3 +1,8 @@
+# bnRep 0.0.4
+
+* Updated message.
+* New networks included.
+
 # bnRep 0.0.3
 
 * Updated citation.

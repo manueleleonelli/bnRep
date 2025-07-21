@@ -1,6 +1,6 @@
 Package: bnRep
 Title: A Repository of Bayesian Networks from the Academic Literature
-Version: 0.0.3
+Version: 0.0.4
 Authors@R: 
     person("Manuele", "Leonelli", , "manuele.leonelli@ie.edu", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-2562-5192"))
