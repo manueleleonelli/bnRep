@@ -10,8 +10,6 @@ status](https://www.r-pkg.org/badges/version/bnRep)](https://cran.r-project.org/
 [![Last-commit](https://img.shields.io/github/last-commit/manueleleonelli/bnRep)](https://github.com/manueleleonelli/bnRep/commits/main)
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![downloads](https://cranlogs.r-pkg.org/badges/bnRep)](https://shinyus.ipub.com/cranview/)
-[![total](https://cranlogs.r-pkg.org/badges/grand-total/bnRep)](https://shinyus.ipub.com/cranview/)
 
 <!-- badges: end -->
 
@@ -119,6 +117,8 @@ Here’s the columns of `bnRep_summary`:
 ### An overview of the Bayesian networks in bnRep
 
 The following plots show some summary statistics of the repository.
+
+    #> Warning: package 'ggplot2' was built under R version 4.3.3
 
 <img src="man/figures/README-unnamed-chunk-5-1.png" width="50%" />
 

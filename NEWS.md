@@ -1,5 +1,9 @@
 # bnRep 0.0.5
 
+* New networks included.
+
+# bnRep 0.0.5
+
 * Updated message.
 * New networks included.
 
